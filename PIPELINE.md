@@ -40,7 +40,7 @@ Topic: [TREND/PERSON HÄR]
 8. Uppdatera README.md (scenario/fakta/källor) + pusha
 ```
 
-**Reglerna för stilen** (hastighet, visual-var-2-6s, 7-stegsstrukturen, sound design) står ORDLAGRANT i **STYLE_GUIDE.md** — läs den också — och är inbakade i build_video.py-scensystemet.
+**Reglerna för stilen** står ORDLAGRANT i **STYLE_GUIDE.md**. **TVÅNGSKRAVEN** står i **MANDATE.md** — minst 3 klipp med ljud, GFX-kit (lower thirds/tweets/stat-kort/glow-titlar), kinetic captions, 2.5D-parallax, sound design, cinematic grade — och `scripts/verify_build.py` REJECTAR videor som bryter mot dem. Studio-verktygen: `gfx_kit.py`, `cinema.py`, `make_captions.py` (v2), `build_poc_v4.py` (full demo i `POC_v4_cinema_kit.mp4`). ARBETSFLÖDE: manus → GFX-kit → CLIPS → render → **verify_build PASS** → QA-sheet → leverera + kopia till `videos2026/`.
 
 ---
 

@@ -2,7 +2,14 @@
 
 **Demo-video:** `drake_goth_girl_sunnyv2.mp4` — "Drake × The Goth Girl (Pinkchyu)" — **3:06**, 1280×720/30fps, engelsk TTS-berättarröst, word-by-word-popcaptions, **riktiga videoklipp med ljud** (bark-ögonblicket, TMZ-interview, E! News, Casa Loma-drone, iShowSpeed-reaction), sound design (impacts, risers, whooshes, musik-duckning), kamerablixtar, cirkelporträtt, name reveals, infinite-zoom-bakgrund.
 
-> **Nästa agent:** läs **[PIPELINE.md](PIPELINE.md)** — komplett 1:1-recept med alla steg, formler, buggar+fixar och promptmall. Säj bara: *"Repot sunnyv2youtube, läs PIPELINE.md, skapa en video om X."*
+> **Nästa agent:** läs **[MANDATE.md](MANDATE.md)** (tvångsregler), **[STYLE_GUIDE.md](STYLE_GUIDE.md)** (stil 1:1) och **[PIPELINE.md](PIPELINE.md)** (byggmanual). Säj bara: *"Repot sunnyv2youtube, skapa en video om X."* leveransen MÅSTE passera `python3 scripts/verify_build.py`.
+
+**Studio-Kit v2 (i `scripts/`):**
+- `gfx_kit.py` — glow-titlar (Anton), lower thirds, tweet/social-UI-mockups, stat-kort, HUD, light leaks
+- `cinema.py` — easing/overshoot, 2.5D-parallax, teal/orange-grade, grain, bloom, letterbox, 90 BPM beat-musik, SFX-formler
+- `make_captions.py` — kinetic captions v2 med keyword-highlight (`keywords.txt`)
+- `build_poc_v4.py` — POC som demonstrerar HELA kitet (`POC_v4_cinema_kit.mp4`)
+- `verify_build.py` — maskinell QA enligt MANDATE.md (REJECTAR bildspels-videor)
 
 ## Stilprofil (sunnyv2 / modern internet-dokumentär)
 - **Struktur:** hook → karaktär → uppgång → vändpunkt → eskalering → konsekvenser → payoff (bind ihop med hooken) + CTA

@@ -7,173 +7,174 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Pop,DejaVu Sans,58,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,92,1
+Style: Pop,Archivo Black,54,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,92,1
+Style: PopBig,Archivo Black,68,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,92,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.10,0:00:01.45,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}In August 2026,
-Dialogue: 0,0:00:01.45,0:00:03.01,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}the biggest rapper
-Dialogue: 0,0:00:03.01,0:00:04.14,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}alive got on
-Dialogue: 0,0:00:04.14,0:00:05.56,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}a livestream ...
-Dialogue: 0,0:00:05.56,0:00:06.77,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to find love.
-Dialogue: 0,0:00:06.77,0:00:08.26,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Twenty women. One
-Dialogue: 0,0:00:08.26,0:00:09.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}winner. But nobody
-Dialogue: 0,0:00:09.82,0:00:11.31,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}expected what the
-Dialogue: 0,0:00:11.31,0:00:12.66,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}goth girl would
-Dialogue: 0,0:00:12.66,0:00:13.79,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}make him do.
-Dialogue: 0,0:00:14.74,0:00:15.71,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}It was August
-Dialogue: 0,0:00:15.71,0:00:16.90,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}8th. Drake hosted
-Dialogue: 0,0:00:16.90,0:00:18.49,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}a twenty-women-versus-one
-Dialogue: 0,0:00:18.49,0:00:19.85,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}speed dating stream,
-Dialogue: 0,0:00:19.85,0:00:21.04,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}produced by NELK,
-Dialogue: 0,0:00:21.04,0:00:22.12,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}celebrating nine
-Dialogue: 0,0:00:22.12,0:00:23.03,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}years of the
-Dialogue: 0,0:00:23.03,0:00:24.39,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}crypto casino Stake.
-Dialogue: 0,0:00:24.39,0:00:25.24,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}For most of
-Dialogue: 0,0:00:25.24,0:00:26.20,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}the night, it
-Dialogue: 0,0:00:26.20,0:00:27.45,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}was standard speed
-Dialogue: 0,0:00:27.45,0:00:28.59,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}dating. Questions
-Dialogue: 0,0:00:28.59,0:00:29.72,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}about red flags.
-Dialogue: 0,0:00:29.72,0:00:31.42,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}First dates. Dealbreakers.
-Dialogue: 0,0:00:31.42,0:00:32.67,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}But one contestant
-Dialogue: 0,0:00:32.67,0:00:33.75,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}had a different
-Dialogue: 0,0:00:33.75,0:00:34.88,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}plan. She didn't
-Dialogue: 0,0:00:34.88,0:00:35.90,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}really want to
-Dialogue: 0,0:00:35.90,0:00:37.10,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}flirt. She wanted
-Dialogue: 0,0:00:37.10,0:00:37.78,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to run a
-Dialogue: 0,0:00:37.78,0:00:38.97,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}social experiment.
-Dialogue: 0,0:00:39.92,0:00:40.73,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Her name was
-Dialogue: 0,0:00:40.73,0:00:41.65,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Lin Lamar. The
-Dialogue: 0,0:00:41.65,0:00:42.77,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}internet knows her
-Dialogue: 0,0:00:42.77,0:00:43.69,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}as Pinkchyu. A
-Dialogue: 0,0:00:43.69,0:00:44.86,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}twenty-three-year-old
-Dialogue: 0,0:00:44.86,0:00:45.93,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}goth creator from
-Dialogue: 0,0:00:45.93,0:00:46.95,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Texas, with over
-Dialogue: 0,0:00:46.95,0:00:48.27,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}two million followers,
-Dialogue: 0,0:00:48.27,0:00:49.29,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}and a reputation
-Dialogue: 0,0:00:49.29,0:00:50.36,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}for making people
-Dialogue: 0,0:00:50.36,0:00:51.43,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}do strange things
-Dialogue: 0,0:00:51.43,0:00:52.35,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}on camera. And
-Dialogue: 0,0:00:52.35,0:00:53.42,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}instead of asking
-Dialogue: 0,0:00:53.42,0:00:54.54,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Drake for jewelry,
-Dialogue: 0,0:00:54.54,0:00:55.35,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}or clout, or
-Dialogue: 0,0:00:55.35,0:00:56.27,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}a feature, she
-Dialogue: 0,0:00:56.27,0:00:57.08,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}pulled out a
-Dialogue: 0,0:00:57.08,0:00:58.00,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}deck of Magic:
-Dialogue: 0,0:00:58.00,0:00:59.22,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}The Gathering cards.
-Dialogue: 0,0:00:59.22,0:01:00.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Then she looked
-Dialogue: 0,0:01:00.19,0:01:00.95,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}him dead in
-Dialogue: 0,0:01:00.95,0:01:01.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}the eyes, and
-Dialogue: 0,0:01:01.82,0:01:02.69,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}asked him one
-Dialogue: 0,0:01:02.69,0:01:03.25,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}question.
-Dialogue: 0,0:01:04.20,0:01:05.22,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Would you bark
-Dialogue: 0,0:01:05.22,0:01:06.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}for me? Drake
-Dialogue: 0,0:01:06.19,0:01:07.39,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}smiled, and said:
-Dialogue: 0,0:01:07.39,0:01:08.30,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}you can look
-Dialogue: 0,0:01:08.30,0:01:09.10,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}me dead in
-Dialogue: 0,0:01:09.10,0:01:10.01,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}my eyes, and
-Dialogue: 0,0:01:10.01,0:01:10.81,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}if you say
-Dialogue: 0,0:01:10.81,0:01:11.83,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}do anything, I
-Dialogue: 0,0:01:11.83,0:01:12.92,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}would. And then
-Dialogue: 0,0:01:12.92,0:01:13.71,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}he did it.
-Dialogue: 0,0:01:13.71,0:01:14.74,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Arf. Arf. Arf.
-Dialogue: 0,0:01:14.74,0:01:15.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Complete with a
-Dialogue: 0,0:01:15.82,0:01:17.02,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}little whimper at
-Dialogue: 0,0:01:17.02,0:01:18.10,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}the end. Within
-Dialogue: 0,0:01:18.10,0:01:19.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}hours, the clip
-Dialogue: 0,0:01:19.19,0:01:20.21,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}was everywhere.
-Dialogue: 0,0:01:20.21,0:01:21.52,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}The internet synced
-Dialogue: 0,0:01:21.52,0:01:22.38,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}his bark to
-Dialogue: 0,0:01:22.38,0:01:23.40,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Kendrick's "Not
-Dialogue: 0,0:01:23.40,0:01:24.37,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Like Us". The
-Dialogue: 0,0:01:24.37,0:01:25.91,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}memes wrote themselves.
-Dialogue: 0,0:01:25.91,0:01:26.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}And then, it
-Dialogue: 0,0:01:26.82,0:01:27.62,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}got bigger.
-Dialogue: 0,0:01:28.57,0:01:29.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Because here's the
-Dialogue: 0,0:01:29.82,0:01:30.83,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}thing. Pinkchyu
-Dialogue: 0,0:01:30.83,0:01:31.85,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}won the entire
-Dialogue: 0,0:01:31.85,0:01:32.87,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}show. And when
-Dialogue: 0,0:01:32.87,0:01:33.89,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Drake told her
-Dialogue: 0,0:01:33.89,0:01:34.74,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to name her
-Dialogue: 0,0:01:34.74,0:01:35.93,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}prize, she didn't
-Dialogue: 0,0:01:35.93,0:01:36.95,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}ask for money.
-Dialogue: 0,0:01:36.95,0:01:37.91,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}She asked him
-Dialogue: 0,0:01:37.91,0:01:38.70,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to buy her
-Dialogue: 0,0:01:38.70,0:01:39.78,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}mother a house.
-Dialogue: 0,0:01:39.78,0:01:40.91,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}And according to
-Dialogue: 0,0:01:40.91,0:01:42.15,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}her, he's actually
-Dialogue: 0,0:01:42.15,0:01:43.12,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}doing it. Two
-Dialogue: 0,0:01:43.12,0:01:44.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}weeks later, he
-Dialogue: 0,0:01:44.19,0:01:45.21,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}reportedly flew
-Dialogue: 0,0:01:45.21,0:01:46.00,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}her out to
-Dialogue: 0,0:01:46.00,0:01:47.30,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Toronto, and rented
-Dialogue: 0,0:01:47.30,0:01:48.21,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Casa Loma. A
-Dialogue: 0,0:01:48.21,0:01:49.34,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}ninety-eight room
-Dialogue: 0,0:01:49.34,0:01:50.59,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}gothic castle. For
-Dialogue: 0,0:01:50.59,0:01:51.66,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}a private sushi
-Dialogue: 0,0:01:51.66,0:01:52.74,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}dinner. For one
-Dialogue: 0,0:01:52.74,0:01:53.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}night.
-Dialogue: 0,0:01:54.14,0:01:55.18,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}And the internet
-Dialogue: 0,0:01:55.18,0:01:56.01,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}never let it
-Dialogue: 0,0:01:56.01,0:01:56.74,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}die. A few
-Dialogue: 0,0:01:56.74,0:01:57.63,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}days later, a
-Dialogue: 0,0:01:57.63,0:01:58.67,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}photo went viral
-Dialogue: 0,0:01:58.67,0:01:59.71,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}that appeared to
-Dialogue: 0,0:01:59.71,0:02:00.64,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}show Drake ...
-Dialogue: 0,0:02:00.64,0:02:01.43,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}on a leash.
-Dialogue: 0,0:02:01.43,0:02:02.31,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}It was almost
-Dialogue: 0,0:02:02.31,0:02:03.66,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}certainly AI-generated,
-Dialogue: 0,0:02:03.66,0:02:04.39,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}and it did
-Dialogue: 0,0:02:04.39,0:02:05.43,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}not matter. Over
-Dialogue: 0,0:02:05.43,0:02:06.47,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}a million people
-Dialogue: 0,0:02:06.47,0:02:07.15,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}saw it in
-Dialogue: 0,0:02:07.15,0:02:08.04,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}days, and the
-Dialogue: 0,0:02:08.04,0:02:08.82,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}memes got a
-Dialogue: 0,0:02:08.82,0:02:09.96,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}name: Goth's Plan.
-Dialogue: 0,0:02:09.96,0:02:10.95,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Because at this
-Dialogue: 0,0:02:10.95,0:02:11.89,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}point, everyone
-Dialogue: 0,0:02:11.89,0:02:13.19,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}agreed. Drake clearly
-Dialogue: 0,0:02:13.19,0:02:13.97,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}had a plan.
-Dialogue: 0,0:02:13.97,0:02:14.80,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}And the plan
-Dialogue: 0,0:02:14.80,0:02:15.43,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}was goth.
-Dialogue: 0,0:02:16.38,0:02:17.41,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Then came the
-Dialogue: 0,0:02:17.41,0:02:18.87,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}plot twist. Pinkchyu
-Dialogue: 0,0:02:18.87,0:02:19.91,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}told TMZ that
-Dialogue: 0,0:02:19.91,0:02:21.00,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}another massive
-Dialogue: 0,0:02:21.00,0:02:22.53,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}musician, a household
-Dialogue: 0,0:02:22.53,0:02:23.74,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}name she refuses
-Dialogue: 0,0:02:23.74,0:02:24.90,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to reveal, sent
-Dialogue: 0,0:02:24.90,0:02:25.87,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}her an audio
-Dialogue: 0,0:02:25.87,0:02:27.09,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}recording ... of
-Dialogue: 0,0:02:27.09,0:02:28.25,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}him barking. In
-Dialogue: 0,0:02:28.25,0:02:29.22,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}her DMs. She
-Dialogue: 0,0:02:29.22,0:02:30.32,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't respond.
-Dialogue: 0,0:02:30.32,0:02:31.29,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}She said she
-Dialogue: 0,0:02:31.29,0:02:32.51,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't know what
-Dialogue: 0,0:02:32.51,0:02:33.43,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}to say. One
-Dialogue: 0,0:02:33.43,0:02:34.46,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}question on a
-Dialogue: 0,0:02:34.46,0:02:35.56,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}livestream, and
-Dialogue: 0,0:02:35.56,0:02:36.65,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}now celebrities
-Dialogue: 0,0:02:36.65,0:02:37.81,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}are barking for
-Dialogue: 0,0:02:37.81,0:02:38.85,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}her attention.
-Dialogue: 0,0:02:39.80,0:02:40.62,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}A goth girl
-Dialogue: 0,0:02:40.62,0:02:41.55,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}walked into a
-Dialogue: 0,0:02:41.55,0:02:42.81,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}speed dating stream
-Dialogue: 0,0:02:42.81,0:02:43.64,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}with a deck
-Dialogue: 0,0:02:43.64,0:02:44.79,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}of trading cards,
-Dialogue: 0,0:02:44.79,0:02:45.78,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}and walked out
-Dialogue: 0,0:02:45.78,0:02:46.71,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}with a castle
-Dialogue: 0,0:02:46.71,0:02:47.64,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}date, a house
-Dialogue: 0,0:02:47.64,0:02:48.52,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}for her mum,
-Dialogue: 0,0:02:48.52,0:02:49.51,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}and the entire
-Dialogue: 0,0:02:49.51,0:02:50.49,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}internet saying
-Dialogue: 0,0:02:50.49,0:02:51.54,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}the same thing.
-Dialogue: 0,0:02:51.54,0:02:52.52,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}In 2026, Drake
-Dialogue: 0,0:02:52.52,0:02:53.46,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't lose a
-Dialogue: 0,0:02:53.46,0:02:54.44,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}rap battle. He
-Dialogue: 0,0:02:54.44,0:02:55.71,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}lost something else
-Dialogue: 0,0:02:55.71,0:02:56.75,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}entirely. Nobody
-Dialogue: 0,0:02:56.75,0:02:57.85,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}saw this coming.
-Dialogue: 0,0:02:57.85,0:02:59.00,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}Subscribe, because
-Dialogue: 0,0:02:59.00,0:03:00.15,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}next week's story
-Dialogue: 0,0:03:00.15,0:03:01.30,Pop,,0,0,0,,{\fscx62\fscy62\t(0,70,\fscx100\fscy100)\fad(35,45)}is even stranger.
+Dialogue: 0,0:00:00.10,0:00:01.45,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}In August 2026,
+Dialogue: 0,0:00:01.45,0:00:03.01,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}the biggest rapper
+Dialogue: 0,0:00:03.01,0:00:04.14,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}alive got on
+Dialogue: 0,0:00:04.14,0:00:05.56,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}a livestream ...
+Dialogue: 0,0:00:05.56,0:00:06.77,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}to find love.
+Dialogue: 0,0:00:06.77,0:00:08.26,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Twenty women. One
+Dialogue: 0,0:00:08.26,0:00:09.82,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}winner. But nobody
+Dialogue: 0,0:00:09.82,0:00:11.31,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}expected what the
+Dialogue: 0,0:00:11.31,0:00:12.66,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}goth{\c&HFFFFFF&} girl would
+Dialogue: 0,0:00:12.66,0:00:13.79,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}make him do.
+Dialogue: 0,0:00:14.74,0:00:15.71,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}It was August
+Dialogue: 0,0:00:15.71,0:00:16.90,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}8th. Drake hosted
+Dialogue: 0,0:00:16.90,0:00:18.49,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}a twenty-women-versus-one
+Dialogue: 0,0:00:18.49,0:00:19.85,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}speed dating stream,
+Dialogue: 0,0:00:19.85,0:00:21.04,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}produced by NELK,
+Dialogue: 0,0:00:21.04,0:00:22.12,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}celebrating nine
+Dialogue: 0,0:00:22.12,0:00:23.03,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}years of the
+Dialogue: 0,0:00:23.03,0:00:24.39,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}crypto casino Stake.
+Dialogue: 0,0:00:24.39,0:00:25.24,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}For most of
+Dialogue: 0,0:00:25.24,0:00:26.20,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}the night, it
+Dialogue: 0,0:00:26.20,0:00:27.45,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}was standard speed
+Dialogue: 0,0:00:27.45,0:00:28.59,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}dating. Questions
+Dialogue: 0,0:00:28.59,0:00:29.72,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}about red flags.
+Dialogue: 0,0:00:29.72,0:00:31.42,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}First dates. Dealbreakers.
+Dialogue: 0,0:00:31.42,0:00:32.67,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}But one contestant
+Dialogue: 0,0:00:32.67,0:00:33.75,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}had a different
+Dialogue: 0,0:00:33.75,0:00:34.88,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}plan. She didn't
+Dialogue: 0,0:00:34.88,0:00:35.90,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}really want to
+Dialogue: 0,0:00:35.90,0:00:37.10,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}flirt. She wanted
+Dialogue: 0,0:00:37.10,0:00:37.78,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}to run a
+Dialogue: 0,0:00:37.78,0:00:38.97,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}social experiment.
+Dialogue: 0,0:00:39.92,0:00:40.73,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}Her name was
+Dialogue: 0,0:00:40.73,0:00:41.65,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Lin Lamar. The
+Dialogue: 0,0:00:41.65,0:00:42.77,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}internet knows her
+Dialogue: 0,0:00:42.77,0:00:43.69,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}as Pinkchyu. A
+Dialogue: 0,0:00:43.69,0:00:44.86,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}twenty-three-year-old
+Dialogue: 0,0:00:44.86,0:00:45.93,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}goth{\c&HFFFFFF&} creator from
+Dialogue: 0,0:00:45.93,0:00:46.95,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}Texas, with over
+Dialogue: 0,0:00:46.95,0:00:48.27,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}two million followers,
+Dialogue: 0,0:00:48.27,0:00:49.29,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}and a reputation
+Dialogue: 0,0:00:49.29,0:00:50.36,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}for making people
+Dialogue: 0,0:00:50.36,0:00:51.43,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}do strange things
+Dialogue: 0,0:00:51.43,0:00:52.35,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}on camera. And
+Dialogue: 0,0:00:52.35,0:00:53.42,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}instead of asking
+Dialogue: 0,0:00:53.42,0:00:54.54,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}Drake for jewelry,
+Dialogue: 0,0:00:54.54,0:00:55.35,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}or clout, or
+Dialogue: 0,0:00:55.35,0:00:56.27,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}a feature, she
+Dialogue: 0,0:00:56.27,0:00:57.08,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}pulled out a
+Dialogue: 0,0:00:57.08,0:00:58.00,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}deck of Magic:
+Dialogue: 0,0:00:58.00,0:00:59.22,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}The Gathering cards.
+Dialogue: 0,0:00:59.22,0:01:00.19,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Then she looked
+Dialogue: 0,0:01:00.19,0:01:00.95,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}him dead in
+Dialogue: 0,0:01:00.95,0:01:01.82,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}the eyes, and
+Dialogue: 0,0:01:01.82,0:01:02.69,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}asked him one
+Dialogue: 0,0:01:02.69,0:01:03.25,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}question.
+Dialogue: 0,0:01:04.20,0:01:05.22,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Would you {\c&H2E22E8&}bark{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.22,0:01:06.19,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}for me? Drake
+Dialogue: 0,0:01:06.19,0:01:07.39,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}smiled, and said:
+Dialogue: 0,0:01:07.39,0:01:08.30,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}you can look
+Dialogue: 0,0:01:08.30,0:01:09.10,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}me dead in
+Dialogue: 0,0:01:09.10,0:01:10.01,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}my eyes, and
+Dialogue: 0,0:01:10.01,0:01:10.81,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}if you say
+Dialogue: 0,0:01:10.81,0:01:11.83,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}do anything, I
+Dialogue: 0,0:01:11.83,0:01:12.92,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}would. And then
+Dialogue: 0,0:01:12.92,0:01:13.71,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}he did it.
+Dialogue: 0,0:01:13.71,0:01:14.74,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}Arf.{\c&HFFFFFF&} {\c&H2E22E8&}Arf.{\c&HFFFFFF&} {\c&H2E22E8&}Arf.{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.74,0:01:15.82,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}Complete with a
+Dialogue: 0,0:01:15.82,0:01:17.02,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}little {\c&H2E22E8&}whimper{\c&HFFFFFF&} at
+Dialogue: 0,0:01:17.02,0:01:18.10,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}the end. Within
+Dialogue: 0,0:01:18.10,0:01:19.19,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}hours, the clip
+Dialogue: 0,0:01:19.19,0:01:20.21,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}was everywhere.
+Dialogue: 0,0:01:20.21,0:01:21.52,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}The internet synced
+Dialogue: 0,0:01:21.52,0:01:22.38,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}his {\c&H2E22E8&}bark{\c&HFFFFFF&} to
+Dialogue: 0,0:01:22.38,0:01:23.40,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}Kendrick's "Not
+Dialogue: 0,0:01:23.40,0:01:24.37,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Like Us". The
+Dialogue: 0,0:01:24.37,0:01:25.91,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}memes wrote themselves.
+Dialogue: 0,0:01:25.91,0:01:26.82,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}And then, it
+Dialogue: 0,0:01:26.82,0:01:27.62,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}got bigger.
+Dialogue: 0,0:01:28.57,0:01:29.82,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Because here's the
+Dialogue: 0,0:01:29.82,0:01:30.83,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}thing. Pinkchyu
+Dialogue: 0,0:01:30.83,0:01:31.85,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}won the entire
+Dialogue: 0,0:01:31.85,0:01:32.87,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}show. And when
+Dialogue: 0,0:01:32.87,0:01:33.89,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}Drake told her
+Dialogue: 0,0:01:33.89,0:01:34.74,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}to name her
+Dialogue: 0,0:01:34.74,0:01:35.93,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}prize, she didn't
+Dialogue: 0,0:01:35.93,0:01:36.95,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}ask for money.
+Dialogue: 0,0:01:36.95,0:01:37.91,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}She asked him
+Dialogue: 0,0:01:37.91,0:01:38.70,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}to buy her
+Dialogue: 0,0:01:38.70,0:01:39.78,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}mother a {\c&H2E22E8&}house.{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.78,0:01:40.91,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}And according to
+Dialogue: 0,0:01:40.91,0:01:42.15,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}her, he's actually
+Dialogue: 0,0:01:42.15,0:01:43.12,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}doing it. Two
+Dialogue: 0,0:01:43.12,0:01:44.19,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}weeks later, he
+Dialogue: 0,0:01:44.19,0:01:45.21,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}reportedly flew
+Dialogue: 0,0:01:45.21,0:01:46.00,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}her out to
+Dialogue: 0,0:01:46.00,0:01:47.30,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}Toronto, and rented
+Dialogue: 0,0:01:47.30,0:01:48.21,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}Casa Loma. A
+Dialogue: 0,0:01:48.21,0:01:49.34,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}ninety-eight room
+Dialogue: 0,0:01:49.34,0:01:50.59,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}gothic {\c&H2E22E8&}castle.{\c&HFFFFFF&} For
+Dialogue: 0,0:01:50.59,0:01:51.66,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}a private sushi
+Dialogue: 0,0:01:51.66,0:01:52.74,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}dinner. For one
+Dialogue: 0,0:01:52.74,0:01:53.19,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}night.
+Dialogue: 0,0:01:54.14,0:01:55.18,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}And the internet
+Dialogue: 0,0:01:55.18,0:01:56.01,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}never let it
+Dialogue: 0,0:01:56.01,0:01:56.74,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}die. A few
+Dialogue: 0,0:01:56.74,0:01:57.63,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}days later, a
+Dialogue: 0,0:01:57.63,0:01:58.67,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}photo went viral
+Dialogue: 0,0:01:58.67,0:01:59.71,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}that appeared to
+Dialogue: 0,0:01:59.71,0:02:00.64,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}show Drake ...
+Dialogue: 0,0:02:00.64,0:02:01.43,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}on a {\c&H2E22E8&}leash.{\c&HFFFFFF&}
+Dialogue: 0,0:02:01.43,0:02:02.31,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}It was almost
+Dialogue: 0,0:02:02.31,0:02:03.66,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}certainly AI-generated,
+Dialogue: 0,0:02:03.66,0:02:04.39,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}and it did
+Dialogue: 0,0:02:04.39,0:02:05.43,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}not matter. Over
+Dialogue: 0,0:02:05.43,0:02:06.47,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}a million people
+Dialogue: 0,0:02:06.47,0:02:07.15,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}saw it in
+Dialogue: 0,0:02:07.15,0:02:08.04,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}days, and the
+Dialogue: 0,0:02:08.04,0:02:08.82,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}memes got a
+Dialogue: 0,0:02:08.82,0:02:09.96,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}name: Goth's Plan.
+Dialogue: 0,0:02:09.96,0:02:10.95,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}Because at this
+Dialogue: 0,0:02:10.95,0:02:11.89,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}point, everyone
+Dialogue: 0,0:02:11.89,0:02:13.19,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}agreed. Drake clearly
+Dialogue: 0,0:02:13.19,0:02:13.97,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}had a plan.
+Dialogue: 0,0:02:13.97,0:02:14.80,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}And the plan
+Dialogue: 0,0:02:14.80,0:02:15.43,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}was {\c&H2E22E8&}goth.{\c&HFFFFFF&}
+Dialogue: 0,0:02:16.38,0:02:17.41,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}Then came the
+Dialogue: 0,0:02:17.41,0:02:18.87,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}plot twist. Pinkchyu
+Dialogue: 0,0:02:18.87,0:02:19.91,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}told TMZ that
+Dialogue: 0,0:02:19.91,0:02:21.00,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}another massive
+Dialogue: 0,0:02:21.00,0:02:22.53,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}musician, a household
+Dialogue: 0,0:02:22.53,0:02:23.74,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}name she refuses
+Dialogue: 0,0:02:23.74,0:02:24.90,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}to reveal, sent
+Dialogue: 0,0:02:24.90,0:02:25.87,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}her an audio
+Dialogue: 0,0:02:25.87,0:02:27.09,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}recording ... of
+Dialogue: 0,0:02:27.09,0:02:28.25,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}him {\c&H2E22E8&}barking.{\c&HFFFFFF&} In
+Dialogue: 0,0:02:28.25,0:02:29.22,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}her DMs. She
+Dialogue: 0,0:02:29.22,0:02:30.32,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't respond.
+Dialogue: 0,0:02:30.32,0:02:31.29,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}She said she
+Dialogue: 0,0:02:31.29,0:02:32.51,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't know what
+Dialogue: 0,0:02:32.51,0:02:33.43,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}to say. One
+Dialogue: 0,0:02:33.43,0:02:34.46,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}question on a
+Dialogue: 0,0:02:34.46,0:02:35.56,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}livestream, and
+Dialogue: 0,0:02:35.56,0:02:36.65,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}now celebrities
+Dialogue: 0,0:02:36.65,0:02:37.81,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}are {\c&H2E22E8&}barking{\c&HFFFFFF&} for
+Dialogue: 0,0:02:37.81,0:02:38.85,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}her attention.
+Dialogue: 0,0:02:39.80,0:02:40.62,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}A {\c&H2E22E8&}goth{\c&HFFFFFF&} girl
+Dialogue: 0,0:02:40.62,0:02:41.55,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}walked into a
+Dialogue: 0,0:02:41.55,0:02:42.81,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}speed dating stream
+Dialogue: 0,0:02:42.81,0:02:43.64,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}with a deck
+Dialogue: 0,0:02:43.64,0:02:44.79,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}of trading cards,
+Dialogue: 0,0:02:44.79,0:02:45.78,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}and walked out
+Dialogue: 0,0:02:45.78,0:02:46.71,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}with a {\c&H2E22E8&}castle{\c&HFFFFFF&}
+Dialogue: 0,0:02:46.71,0:02:47.64,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}date, a {\c&H2E22E8&}house{\c&HFFFFFF&}
+Dialogue: 0,0:02:47.64,0:02:48.52,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}for her mum,
+Dialogue: 0,0:02:48.52,0:02:49.51,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}and the entire
+Dialogue: 0,0:02:49.51,0:02:50.49,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}internet saying
+Dialogue: 0,0:02:50.49,0:02:51.54,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}the same thing.
+Dialogue: 0,0:02:51.54,0:02:52.52,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}In 2026, Drake
+Dialogue: 0,0:02:52.52,0:02:53.46,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}didn't lose a
+Dialogue: 0,0:02:53.46,0:02:54.44,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}rap battle. He
+Dialogue: 0,0:02:54.44,0:02:55.71,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}lost something else
+Dialogue: 0,0:02:55.71,0:02:56.75,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}entirely. Nobody
+Dialogue: 0,0:02:56.75,0:02:57.85,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}saw this coming.
+Dialogue: 0,0:02:57.85,0:02:59.00,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}Subscribe, because
+Dialogue: 0,0:02:59.00,0:03:00.15,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}next week's story
+Dialogue: 0,0:03:00.15,0:03:01.30,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}is even stranger.

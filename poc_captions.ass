@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Pop,Archivo Black,54,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,92,1
+Style: PopBig,Archivo Black,68,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,92,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.45,PopBig,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}In August 2026,
+Dialogue: 0,0:00:01.45,0:00:03.01,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}the biggest rapper
+Dialogue: 0,0:00:03.01,0:00:04.14,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}alive got on
+Dialogue: 0,0:00:04.14,0:00:05.56,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}a livestream ...
+Dialogue: 0,0:00:05.56,0:00:06.77,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}to find love.
+Dialogue: 0,0:00:06.77,0:00:08.26,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}Twenty women. One
+Dialogue: 0,0:00:08.26,0:00:09.82,PopBig,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}winner. But nobody
+Dialogue: 0,0:00:09.82,0:00:11.31,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}expected what the
+Dialogue: 0,0:00:11.31,0:00:12.66,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}goth{\c&HFFFFFF&} girl would
+Dialogue: 0,0:00:12.66,0:00:13.79,PopBig,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}make him do.
+Dialogue: 0,0:00:13.10,0:00:14.13,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}Would you {\c&H2E22E8&}bark{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.13,0:00:15.09,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}for me? Drake
+Dialogue: 0,0:00:15.09,0:00:16.29,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}smiled, and said:
+Dialogue: 0,0:00:16.29,0:00:17.20,PopBig,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}you can look
+Dialogue: 0,0:00:17.20,0:00:18.00,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}me dead in
+Dialogue: 0,0:00:18.00,0:00:18.91,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}my eyes, and
+Dialogue: 0,0:00:18.91,0:00:19.71,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}if you say
+Dialogue: 0,0:00:19.71,0:00:20.74,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}do anything, I
+Dialogue: 0,0:00:20.74,0:00:21.82,PopBig,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}would. And then
+Dialogue: 0,0:00:21.82,0:00:22.62,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}he did it.
+Dialogue: 0,0:00:22.62,0:00:23.64,PopBig,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}Arf.{\c&HFFFFFF&} {\c&H2E22E8&}Arf.{\c&HFFFFFF&} {\c&H2E22E8&}Arf.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.64,0:00:24.73,PopBig,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}Complete with a
+Dialogue: 0,0:00:24.73,0:00:25.92,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}little {\c&H2E22E8&}whimper{\c&HFFFFFF&} at
+Dialogue: 0,0:00:25.92,0:00:27.01,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}the end. Within
+Dialogue: 0,0:00:27.01,0:00:28.09,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}hours, the clip
+Dialogue: 0,0:00:28.09,0:00:29.11,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}was everywhere.
+Dialogue: 0,0:00:29.11,0:00:30.43,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}The internet synced
+Dialogue: 0,0:00:30.43,0:00:31.28,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}his {\c&H2E22E8&}bark{\c&HFFFFFF&} to
+Dialogue: 0,0:00:31.28,0:00:32.31,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}Kendrick's "Not
+Dialogue: 0,0:00:32.31,0:00:33.27,PopBig,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}Like Us". The
+Dialogue: 0,0:00:33.27,0:00:34.81,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}memes wrote themselves.
+Dialogue: 0,0:00:34.81,0:00:35.73,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}And then, it
+Dialogue: 0,0:00:35.73,0:00:36.52,PopBig,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}got bigger.

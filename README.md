@@ -1,10 +1,11 @@
 # Senaste avsnittet
 
-**[Banned for Friends? The Kick Streamer Rank Dispute](episodes/kick_rank_drama/README.md)** — 20 september 2026, **3:41**, 720p/30 fps, engelsk brittisk berättarröst, två originalklipp med ljud, undertexter, thumbnail och källregister.
+**[Half a Billion Subscribers — and He Says He's Broke (MrBeast)](episodes/mrbeast_empire/README.md)** — 20 september 2026, **4:19**, 720p/30 fps, engelsk brittisk berättarröst, fyra originalklipp med ljud, kinetic captions, 3-pass-renderaren, verify_build **PASS**.
 
-[Öppna videon](episodes/kick_rank_drama/kick_rank_drama.mp4) · [Thumbnail](episodes/kick_rank_drama/thumbnail.jpg) · [Manus](episodes/kick_rank_drama/script/script.txt)
+[Öppna videon](episodes/mrbeast_empire/mrbeast_empire.mp4) · [Thumbnail](episodes/mrbeast_empire/thumbnail.jpg) · [Manus](episodes/mrbeast_empire/script/script.txt)
 
-Tidigare demo nedan är bevarad oförändrad. Dess faktauppgifter har inte verifierats i den nya produktionen.
+Tidigare avsnitt: [The Kick Streamer Rank Dispute](episodes/kick_rank_drama/README.md) (20 sep 2026, 3:41).
+Äldre demo nedan är bevarad oförändrad; dess fakta har inte verifierats i den nya produktionen.
 
 ---
 

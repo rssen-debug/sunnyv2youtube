@@ -1,0 +1,35 @@
+{
+  "retrieved": "2026-09-20",
+  "assets": [
+    {
+      "path": "assets/clips/train.mp4",
+      "source": "https://x.com/TrainUpdates/status/2100738581249814544",
+      "type": "original broadcast excerpt reposted on X",
+      "usage": "10.4-second commentary excerpt + real frames",
+      "rights": "third-party; clearance not established"
+    },
+    {
+      "path": "assets/clips/trick.mp4",
+      "source": "https://x.com/Trick2g/status/2100773329120465380",
+      "type": "public appeal video",
+      "usage": "16.767-second commentary excerpt; portrait and notice cropped from actual frame",
+      "rights": "third-party; clearance not established"
+    },
+    {
+      "path": "assets/src/train_portrait.jpg",
+      "source": "https://www.sportskeeda.com/us/streamers/news-a-thousand-times-worse-twitch-trainwreckstv-responds-qtcinderella-s-remarks-view-botting-kick-streamers-streamer-awards-2024",
+      "image_url": "https://staticg.sportskeeda.com/editor/2024/12/58a7d-17339459418308-1920.jpg",
+      "type": "archive portrait",
+      "rights": "third-party; clearance not established"
+    },
+    {
+      "path": "assets/src/bg_ai.png",
+      "type": "AI-generated abstract background",
+      "depicts_real_event": false
+    },
+    {
+      "path": "assets/gfx/",
+      "type": "original editorial graphics; attributed source excerpts, not website screenshots"
+    }
+  ]
+}

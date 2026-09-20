@@ -1,0 +1,536 @@
+[
+  {
+    "id": "A1_00_0",
+    "kind": "still",
+    "image": "A1_00.jpg",
+    "start": 0.0,
+    "dur": 3.966666666666667,
+    "variant": 0,
+    "chapter": "A1"
+  },
+  {
+    "id": "A1_01_0",
+    "kind": "still",
+    "image": "A1_01.jpg",
+    "start": 3.966666666666667,
+    "dur": 3.633333333333333,
+    "variant": 0,
+    "chapter": "A1"
+  },
+  {
+    "id": "A1_02_0",
+    "kind": "still",
+    "image": "A1_02.jpg",
+    "start": 7.6,
+    "dur": 4.333333333333334,
+    "variant": 0,
+    "chapter": "A1"
+  },
+  {
+    "id": "A1_03_0",
+    "kind": "still",
+    "image": "A1_03.jpg",
+    "start": 11.933333333333334,
+    "dur": 5.633333333333333,
+    "variant": 0,
+    "chapter": "A1"
+  },
+  {
+    "id": "A1_04_0",
+    "kind": "still",
+    "image": "A1_04.jpg",
+    "start": 17.566666666666666,
+    "dur": 3.033333333333335,
+    "variant": 0,
+    "chapter": "A1"
+  },
+  {
+    "id": "A1_04_1",
+    "kind": "still",
+    "image": "A1_04.jpg",
+    "start": 20.6,
+    "dur": 3.0,
+    "variant": 1,
+    "chapter": "A1"
+  },
+  {
+    "id": "A2_00_0",
+    "kind": "still",
+    "image": "A2_00.jpg",
+    "start": 23.6,
+    "dur": 5.533333333333331,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_01_0",
+    "kind": "still",
+    "image": "A2_01.jpg",
+    "start": 29.133333333333333,
+    "dur": 3.3999999999999986,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_02_0",
+    "kind": "still",
+    "image": "A2_02.jpg",
+    "start": 32.53333333333333,
+    "dur": 3.200000000000003,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_02_1",
+    "kind": "still",
+    "image": "A2_02.jpg",
+    "start": 35.733333333333334,
+    "dur": 3.2333333333333343,
+    "variant": 1,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_03_0",
+    "kind": "still",
+    "image": "A2_03.jpg",
+    "start": 38.96666666666667,
+    "dur": 3.0,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_04_0",
+    "kind": "still",
+    "image": "A2_04.jpg",
+    "start": 41.96666666666667,
+    "dur": 2.633333333333333,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "A2_05_0",
+    "kind": "still",
+    "image": "A2_05.jpg",
+    "start": 44.6,
+    "dur": 5.566666666666663,
+    "variant": 0,
+    "chapter": "A2"
+  },
+  {
+    "id": "C1_0",
+    "kind": "clip",
+    "file": "train.mp4",
+    "image": "C1_frame.jpg",
+    "cut": 0.2499999999999929,
+    "start": 50.166666666666664,
+    "dur": 5.200000000000003,
+    "variant": 0,
+    "chapter": "C1"
+  },
+  {
+    "id": "C1_1",
+    "kind": "clip",
+    "file": "train.mp4",
+    "image": "C1_frame.jpg",
+    "cut": 5.449999999999996,
+    "start": 55.36666666666667,
+    "dur": 5.200000000000003,
+    "variant": 1,
+    "chapter": "C1"
+  },
+  {
+    "id": "A3_00_0",
+    "kind": "still",
+    "image": "A3_00.jpg",
+    "start": 60.56666666666667,
+    "dur": 3.133333333333333,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A3_01_0",
+    "kind": "still",
+    "image": "A3_01.jpg",
+    "start": 63.7,
+    "dur": 3.799999999999997,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A3_02_0",
+    "kind": "still",
+    "image": "A3_02.jpg",
+    "start": 67.5,
+    "dur": 4.13333333333334,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A3_03_0",
+    "kind": "still",
+    "image": "A3_03.jpg",
+    "start": 71.63333333333334,
+    "dur": 2.9666666666666544,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A3_04_0",
+    "kind": "still",
+    "image": "A3_04.jpg",
+    "start": 74.6,
+    "dur": 5.766666666666666,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A3_05_0",
+    "kind": "still",
+    "image": "A3_05.jpg",
+    "start": 80.36666666666666,
+    "dur": 4.1000000000000085,
+    "variant": 0,
+    "chapter": "A3"
+  },
+  {
+    "id": "A4_00_0",
+    "kind": "still",
+    "image": "A4_00.jpg",
+    "start": 84.46666666666667,
+    "dur": 2.8333333333333286,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_01_0",
+    "kind": "still",
+    "image": "A4_01.jpg",
+    "start": 87.3,
+    "dur": 3.299999999999997,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_02_0",
+    "kind": "still",
+    "image": "A4_02.jpg",
+    "start": 90.6,
+    "dur": 4.333333333333343,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_03_0",
+    "kind": "still",
+    "image": "A4_03.jpg",
+    "start": 94.93333333333334,
+    "dur": 1.86666666666666,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_04_0",
+    "kind": "still",
+    "image": "A4_04.jpg",
+    "start": 96.8,
+    "dur": 3.799999999999997,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_04_1",
+    "kind": "still",
+    "image": "A4_04.jpg",
+    "start": 100.6,
+    "dur": 3.833333333333343,
+    "variant": 1,
+    "chapter": "A4"
+  },
+  {
+    "id": "A4_05_0",
+    "kind": "still",
+    "image": "A4_05.jpg",
+    "start": 104.43333333333334,
+    "dur": 2.299999999999997,
+    "variant": 0,
+    "chapter": "A4"
+  },
+  {
+    "id": "C2_0",
+    "kind": "clip",
+    "file": "trick.mp4",
+    "image": "C2_frame.jpg",
+    "cut": 10.65,
+    "start": 106.73333333333333,
+    "dur": 4.200000000000003,
+    "variant": 0,
+    "chapter": "C2"
+  },
+  {
+    "id": "C2_1",
+    "kind": "clip",
+    "file": "trick.mp4",
+    "image": "C2_frame.jpg",
+    "cut": 14.850000000000003,
+    "start": 110.93333333333334,
+    "dur": 4.200000000000003,
+    "variant": 1,
+    "chapter": "C2"
+  },
+  {
+    "id": "C2_2",
+    "kind": "clip",
+    "file": "trick.mp4",
+    "image": "C2_frame.jpg",
+    "cut": 19.050000000000004,
+    "start": 115.13333333333334,
+    "dur": 4.166666666666657,
+    "variant": 0,
+    "chapter": "C2"
+  },
+  {
+    "id": "C2_3",
+    "kind": "clip",
+    "file": "trick.mp4",
+    "image": "C2_frame.jpg",
+    "cut": 23.21666666666666,
+    "start": 119.3,
+    "dur": 4.200000000000003,
+    "variant": 1,
+    "chapter": "C2"
+  },
+  {
+    "id": "A5_00_0",
+    "kind": "still",
+    "image": "A5_00.jpg",
+    "start": 123.5,
+    "dur": 2.933333333333337,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "A5_01_0",
+    "kind": "still",
+    "image": "A5_01.jpg",
+    "start": 126.43333333333334,
+    "dur": 3.5333333333333314,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "A5_02_0",
+    "kind": "still",
+    "image": "A5_02.jpg",
+    "start": 129.96666666666667,
+    "dur": 4.199999999999989,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "A5_03_0",
+    "kind": "still",
+    "image": "A5_03.jpg",
+    "start": 134.16666666666666,
+    "dur": 4.966666666666669,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "A5_04_0",
+    "kind": "still",
+    "image": "A5_04.jpg",
+    "start": 139.13333333333333,
+    "dur": 5.0,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "A5_05_0",
+    "kind": "still",
+    "image": "A5_05.jpg",
+    "start": 144.13333333333333,
+    "dur": 4.533333333333331,
+    "variant": 0,
+    "chapter": "A5"
+  },
+  {
+    "id": "B1_00_0",
+    "kind": "still",
+    "image": "B1_00.jpg",
+    "start": 148.66666666666666,
+    "dur": 3.4000000000000057,
+    "variant": 0,
+    "chapter": "B1"
+  },
+  {
+    "id": "B1_01_0",
+    "kind": "still",
+    "image": "B1_01.jpg",
+    "start": 152.06666666666666,
+    "dur": 3.3666666666666742,
+    "variant": 0,
+    "chapter": "B1"
+  },
+  {
+    "id": "B1_02_0",
+    "kind": "still",
+    "image": "B1_02.jpg",
+    "start": 155.43333333333334,
+    "dur": 3.0,
+    "variant": 0,
+    "chapter": "B1"
+  },
+  {
+    "id": "B1_03_0",
+    "kind": "still",
+    "image": "B1_03.jpg",
+    "start": 158.43333333333334,
+    "dur": 5.466666666666669,
+    "variant": 0,
+    "chapter": "B1"
+  },
+  {
+    "id": "B1_04_0",
+    "kind": "still",
+    "image": "B1_04.jpg",
+    "start": 163.9,
+    "dur": 4.5,
+    "variant": 0,
+    "chapter": "B1"
+  },
+  {
+    "id": "B2_00_0",
+    "kind": "still",
+    "image": "B2_00.jpg",
+    "start": 168.4,
+    "dur": 3.5,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_01_0",
+    "kind": "still",
+    "image": "B2_01.jpg",
+    "start": 171.9,
+    "dur": 3.4666666666666686,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_02_0",
+    "kind": "still",
+    "image": "B2_02.jpg",
+    "start": 175.36666666666667,
+    "dur": 3.0333333333333314,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_03_0",
+    "kind": "still",
+    "image": "B2_03.jpg",
+    "start": 178.4,
+    "dur": 3.8666666666666742,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_04_0",
+    "kind": "still",
+    "image": "B2_04.jpg",
+    "start": 182.26666666666668,
+    "dur": 4.366666666666646,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_05_0",
+    "kind": "still",
+    "image": "B2_05.jpg",
+    "start": 186.63333333333333,
+    "dur": 4.166666666666686,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "B2_06_0",
+    "kind": "still",
+    "image": "B2_06.jpg",
+    "start": 190.8,
+    "dur": 3.666666666666657,
+    "variant": 0,
+    "chapter": "B2"
+  },
+  {
+    "id": "A6_00_0",
+    "kind": "still",
+    "image": "A6_00.jpg",
+    "start": 194.46666666666667,
+    "dur": 5.466666666666669,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_01_0",
+    "kind": "still",
+    "image": "A6_01.jpg",
+    "start": 199.93333333333334,
+    "dur": 4.633333333333326,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_02_0",
+    "kind": "still",
+    "image": "A6_02.jpg",
+    "start": 204.56666666666666,
+    "dur": 3.833333333333343,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_03_0",
+    "kind": "still",
+    "image": "A6_03.jpg",
+    "start": 208.4,
+    "dur": 2.799999999999983,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_04_0",
+    "kind": "still",
+    "image": "A6_04.jpg",
+    "start": 211.2,
+    "dur": 1.8000000000000114,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_05_0",
+    "kind": "still",
+    "image": "A6_05.jpg",
+    "start": 213.0,
+    "dur": 3.0999999999999943,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "A6_06_0",
+    "kind": "still",
+    "image": "A6_06.jpg",
+    "start": 216.1,
+    "dur": 2.4000000000000057,
+    "variant": 0,
+    "chapter": "A6"
+  },
+  {
+    "id": "END",
+    "kind": "still",
+    "image": "end.jpg",
+    "start": 218.49999999999997,
+    "dur": 2.5,
+    "variant": 0,
+    "chapter": "END"
+  }
+]

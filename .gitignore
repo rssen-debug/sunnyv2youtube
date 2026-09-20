@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 preview/f*.jpg
 preview/v3_*.jpg
+
+# Generated render cache / never commit secrets
+.cache/
+.env
+.env.*
+*.token

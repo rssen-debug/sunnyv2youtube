@@ -40,7 +40,7 @@ Topic: [TREND/PERSON HÄR]
 8. Uppdatera README.md (scenario/fakta/källor) + pusha
 ```
 
-**Reglerna för stilen** (hastighet, visual-var-2-6s, 7-stegsstrukturen, sound design) står i README:s stilsektion och är inbakade i build_video.py-scensystemet.
+**Reglerna för stilen** (hastighet, visual-var-2-6s, 7-stegsstrukturen, sound design) står ORDLAGRANT i **STYLE_GUIDE.md** — läs den också — och är inbakade i build_video.py-scensystemet.
 
 ---
 

@@ -1,0 +1,209 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Pop,Archivo Black,54,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,92,1
+Style: PopBig,Archivo Black,68,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,92,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.38,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}On June twelfth,
+Dialogue: 0,0:00:01.38,0:00:02.53,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}2026, a {\c&H2E22E8&}record{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.53,0:00:03.75,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}quietly fell on
+Dialogue: 0,0:00:03.75,0:00:05.03,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}YouTube. For the
+Dialogue: 0,0:00:05.03,0:00:06.31,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}first time ever,
+Dialogue: 0,0:00:06.31,0:00:07.53,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}a single person
+Dialogue: 0,0:00:07.53,0:00:08.61,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}passed half a
+Dialogue: 0,0:00:08.61,0:00:10.09,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}billion{\c&HFFFFFF&} {\c&H2E22E8&}subscribers.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.09,0:00:11.37,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}Not a company...
+Dialogue: 0,0:00:11.37,0:00:12.14,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}not a TV
+Dialogue: 0,0:00:12.14,0:00:13.48,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}network. One guy,
+Dialogue: 0,0:00:13.48,0:00:14.50,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}from a small
+Dialogue: 0,0:00:14.50,0:00:15.59,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}town in North
+Dialogue: 0,0:00:15.59,0:00:17.13,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Carolina. And here's
+Dialogue: 0,0:00:17.13,0:00:18.47,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}the strange part:
+Dialogue: 0,0:00:18.47,0:00:19.50,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}he says he's
+Dialogue: 0,0:00:19.50,0:00:20.59,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}broke.{\c&HFFFFFF&} So how
+Dialogue: 0,0:00:20.59,0:00:21.87,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}does the biggest
+Dialogue: 0,0:00:21.87,0:00:23.15,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}channel in human
+Dialogue: 0,0:00:23.15,0:00:24.68,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}history burn through
+Dialogue: 0,0:00:24.68,0:00:25.84,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}half a {\c&H2E22E8&}billion{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.84,0:00:27.12,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}dollars? This is
+Dialogue: 0,0:00:27.12,0:00:27.76,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}MrBeast.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.71,0:00:29.74,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}His real name
+Dialogue: 0,0:00:29.74,0:00:31.14,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}is Jimmy Donaldson.
+Dialogue: 0,0:00:31.14,0:00:31.99,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}He grew up
+Dialogue: 0,0:00:31.99,0:00:33.45,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}in Greenville, North
+Dialogue: 0,0:00:33.45,0:00:34.67,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}Carolina, and at
+Dialogue: 0,0:00:34.67,0:00:36.13,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}thirteen, he started
+Dialogue: 0,0:00:36.13,0:00:37.28,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}uploading videos
+Dialogue: 0,0:00:37.28,0:00:38.86,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}almost nobody watched.
+Dialogue: 0,0:00:38.86,0:00:40.02,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}For five years,
+Dialogue: 0,0:00:40.02,0:00:40.75,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}he and a
+Dialogue: 0,0:00:40.75,0:00:41.85,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}small group of
+Dialogue: 0,0:00:41.85,0:00:42.94,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}friends studied
+Dialogue: 0,0:00:42.94,0:00:44.28,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}exactly one thing,
+Dialogue: 0,0:00:44.28,0:00:45.68,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}every single day...
+Dialogue: 0,0:00:45.68,0:00:47.26,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}the YouTube {\c&H2E22E8&}algorithm.{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.26,0:00:48.35,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}What makes you
+Dialogue: 0,0:00:48.35,0:00:49.63,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}click. What makes
+Dialogue: 0,0:00:49.63,0:00:50.67,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}you stay. And
+Dialogue: 0,0:00:50.67,0:00:51.88,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}then, in January
+Dialogue: 0,0:00:51.88,0:00:52.92,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}2017, after a
+Dialogue: 0,0:00:52.92,0:00:54.01,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}thousand failed
+Dialogue: 0,0:00:54.01,0:00:55.41,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}uploads, he finally
+Dialogue: 0,0:00:55.41,0:00:56.26,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}cracked it.
+Dialogue: 0,0:00:57.21,0:00:58.34,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}He filmed himself
+Dialogue: 0,0:00:58.34,0:00:59.36,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}counting{\c&HFFFFFF&} to one
+Dialogue: 0,0:00:59.36,0:01:00.43,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}hundred thousand.
+Dialogue: 0,0:01:00.43,0:01:01.46,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}Forty hours, on
+Dialogue: 0,0:01:01.46,0:01:02.58,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}camera... and the
+Dialogue: 0,0:01:02.58,0:01:03.66,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}internet watched.
+Dialogue: 0,0:01:03.66,0:01:04.62,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}Within days it
+Dialogue: 0,0:01:04.62,0:01:05.86,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}exploded, and Jimmy
+Dialogue: 0,0:01:05.86,0:01:07.26,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}understood the formula
+Dialogue: 0,0:01:07.26,0:01:08.33,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}instantly: absurd
+Dialogue: 0,0:01:08.33,0:01:09.35,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}challenge, total
+Dialogue: 0,0:01:09.35,0:01:10.48,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}commitment, bigger
+Dialogue: 0,0:01:10.48,0:01:11.61,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}stakes. He {\c&H2E22E8&}buried{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.61,0:01:12.73,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}himself alive for
+Dialogue: 0,0:01:12.73,0:01:13.76,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}fifty hours. He
+Dialogue: 0,0:01:13.76,0:01:14.78,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}handed strangers
+Dialogue: 0,0:01:14.78,0:01:15.96,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}life-changing {\c&H2E22E8&}money{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.96,0:01:17.14,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}on camera, because
+Dialogue: 0,0:01:17.14,0:01:18.21,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}videos that cost
+Dialogue: 0,0:01:18.21,0:01:19.29,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}more, made more.
+Dialogue: 0,0:01:19.29,0:01:20.09,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}And then he
+Dialogue: 0,0:01:20.09,0:01:21.22,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}went further than
+Dialogue: 0,0:01:21.22,0:01:22.72,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}anyone thought possible.
+Dialogue: 0,0:01:31.27,0:01:32.38,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}He rebuilt Squid
+Dialogue: 0,0:01:32.38,0:01:33.26,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}Game in real
+Dialogue: 0,0:01:33.26,0:01:34.36,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}life, full sets,
+Dialogue: 0,0:01:34.36,0:01:35.79,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}four hundred fifty-six
+Dialogue: 0,0:01:35.79,0:01:36.84,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}thousand dollars
+Dialogue: 0,0:01:36.84,0:01:37.83,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}on the line...
+Dialogue: 0,0:01:37.83,0:01:38.88,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}and hundreds of
+Dialogue: 0,0:01:38.88,0:01:40.09,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}millions of people
+Dialogue: 0,0:01:40.09,0:01:41.41,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}watched. He launched
+Dialogue: 0,0:01:41.41,0:01:42.90,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}Feastables,{\c&HFFFFFF&} a chocolate
+Dialogue: 0,0:01:42.90,0:01:44.45,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}brand, into supermarkets
+Dialogue: 0,0:01:44.45,0:01:45.71,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}worldwide. And then
+Dialogue: 0,0:01:45.71,0:01:46.81,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}came the biggest
+Dialogue: 0,0:01:46.81,0:01:47.64,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}bet of all:
+Dialogue: 0,0:01:47.64,0:01:48.63,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}Beast{\c&HFFFFFF&} {\c&H2E22E8&}Games.{\c&HFFFFFF&} A
+Dialogue: 0,0:01:48.63,0:01:50.51,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}reported hundred-million-dollar
+Dialogue: 0,0:01:50.51,0:01:51.66,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}deal with Amazon.
+Dialogue: 0,0:01:51.66,0:01:52.71,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}A private city,
+Dialogue: 0,0:01:52.71,0:01:53.70,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}built just for
+Dialogue: 0,0:01:53.70,0:01:55.74,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}contestants. A ten-million-dollar
+Dialogue: 0,0:01:55.74,0:01:56.90,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}grand {\c&H2E22E8&}prize.{\c&HFFFFFF&} Look
+Dialogue: 0,0:01:56.90,0:01:57.51,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}at this.
+Dialogue: 0,0:02:12.66,0:02:13.44,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}But in the
+Dialogue: 0,0:02:13.44,0:02:14.60,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}summer of 2024...
+Dialogue: 0,0:02:14.60,0:02:15.55,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}it cracked. A
+Dialogue: 0,0:02:15.55,0:02:16.60,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}longtime co-host
+Dialogue: 0,0:02:16.60,0:02:17.66,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}faced disturbing
+Dialogue: 0,0:02:17.66,0:02:18.66,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}accusations and
+Dialogue: 0,0:02:18.66,0:02:19.72,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}stepped away; a
+Dialogue: 0,0:02:19.72,0:02:20.61,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}law firm his
+Dialogue: 0,0:02:20.61,0:02:21.89,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}company hired later
+Dialogue: 0,0:02:21.89,0:02:22.89,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}called the key
+Dialogue: 0,0:02:22.89,0:02:24.33,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}claims unsubstantiated.
+Dialogue: 0,0:02:24.33,0:02:25.50,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}Weeks after that,
+Dialogue: 0,0:02:25.50,0:02:26.67,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}former contestants
+Dialogue: 0,0:02:26.67,0:02:27.61,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}filed a class
+Dialogue: 0,0:02:27.61,0:02:28.84,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}action against him
+Dialogue: 0,0:02:28.84,0:02:30.17,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}and Amazon, alleging
+Dialogue: 0,0:02:30.17,0:02:31.34,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}unsafe conditions,
+Dialogue: 0,0:02:31.34,0:02:32.51,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}unpaid wages, and
+Dialogue: 0,0:02:32.51,0:02:33.78,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}harassment on {\c&H2E22E8&}Beast{\c&HFFFFFF&}
+Dialogue: 0,0:02:33.78,0:02:35.12,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}Games.{\c&HFFFFFF&} The headlines
+Dialogue: 0,0:02:35.12,0:02:36.29,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}that built him...
+Dialogue: 0,0:02:36.29,0:02:37.29,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}turned on him.
+Dialogue: 0,0:02:37.29,0:02:38.12,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}And for the
+Dialogue: 0,0:02:38.12,0:02:39.18,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}first time, the
+Dialogue: 0,0:02:39.18,0:02:40.18,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}question wasn't
+Dialogue: 0,0:02:40.18,0:02:40.96,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}how big he
+Dialogue: 0,0:02:40.96,0:02:41.90,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}could get. It
+Dialogue: 0,0:02:41.90,0:02:42.90,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}was whether it
+Dialogue: 0,0:02:42.90,0:02:44.12,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}would all survive.
+Dialogue: 0,0:02:45.07,0:02:46.08,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}His answer was
+Dialogue: 0,0:02:46.08,0:02:47.03,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}to go bigger.
+Dialogue: 0,0:02:47.03,0:02:47.81,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}A new CEO,
+Dialogue: 0,0:02:47.81,0:02:48.87,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}Jeff Housenbold,
+Dialogue: 0,0:02:48.87,0:02:49.65,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}came in to
+Dialogue: 0,0:02:49.65,0:02:50.65,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}turn a YouTube
+Dialogue: 0,0:02:50.65,0:02:51.66,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}channel into a
+Dialogue: 0,0:02:51.66,0:02:52.94,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}company. Eighty-five
+Dialogue: 0,0:02:52.94,0:02:53.94,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}million{\c&HFFFFFF&} dollars
+Dialogue: 0,0:02:53.94,0:02:55.12,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}built {\c&H2E22E8&}Beast{\c&HFFFFFF&} Land,
+Dialogue: 0,0:02:55.12,0:02:56.12,Pop,,0,0,0,,{\fscx62\fscy62\fr0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}a pop-up theme
+Dialogue: 0,0:02:56.12,0:02:57.07,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}park in Saudi
+Dialogue: 0,0:02:57.07,0:02:58.07,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}Arabia, and it
+Dialogue: 0,0:02:58.07,0:02:59.13,Pop,,0,0,0,,{\fscx62\fscy62\fr0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}turned a profit
+Dialogue: 0,0:02:59.13,0:03:00.42,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}in forty-five days.
+Dialogue: 0,0:03:00.42,0:03:01.53,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}And the lawsuit?
+Dialogue: 0,0:03:01.53,0:03:02.87,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}Still moving through
+Dialogue: 0,0:03:02.87,0:03:04.04,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}court, unresolved.
+Dialogue: 0,0:03:04.04,0:03:05.21,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}And the audience?
+Dialogue: 0,0:03:05.21,0:03:06.11,Pop,,0,0,0,,{\fscx62\fscy62\fr0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}It just kept
+Dialogue: 0,0:03:06.11,0:03:06.66,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}growing.
+Dialogue: 0,0:03:07.61,0:03:08.68,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}Fast forward to
+Dialogue: 0,0:03:08.68,0:03:09.92,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}right now. January
+Dialogue: 0,0:03:09.92,0:03:11.16,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}2026: {\c&H2E22E8&}Beast{\c&HFFFFFF&} {\c&H2E22E8&}Games,{\c&HFFFFFF&}
+Dialogue: 0,0:03:11.16,0:03:12.22,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}season two. Two
+Dialogue: 0,0:03:12.22,0:03:13.52,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}hundred contestants.
+Dialogue: 0,0:03:13.52,0:03:14.87,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}Strong versus smart.
+Dialogue: 0,0:03:14.87,0:03:16.22,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}A five-million-dollar
+Dialogue: 0,0:03:16.22,0:03:17.57,Pop,,0,0,0,,{\fscx62\fscy62\fr0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}prize...{\c&HFFFFFF&} and another
+Dialogue: 0,0:03:17.57,0:03:18.75,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}record{\c&HFFFFFF&} launch for
+Dialogue: 0,0:03:18.75,0:03:20.04,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}Prime Video. Behind
+Dialogue: 0,0:03:20.04,0:03:21.22,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}the scenes, {\c&H2E22E8&}Beast{\c&HFFFFFF&}
+Dialogue: 0,0:03:21.22,0:03:22.40,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}Industries is now
+Dialogue: 0,0:03:22.40,0:03:23.41,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}valued at five
+Dialogue: 0,0:03:23.41,0:03:24.59,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}point two {\c&H2E22E8&}billion{\c&HFFFFFF&}
+Dialogue: 0,0:03:24.59,0:03:25.89,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}dollars, with seven
+Dialogue: 0,0:03:25.89,0:03:27.07,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}hundred and fifty
+Dialogue: 0,0:03:27.07,0:03:28.13,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}employees, on a
+Dialogue: 0,0:03:28.13,0:03:29.77,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}hundred-and-thirty-two-acre
+Dialogue: 0,0:03:29.77,0:03:30.78,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}campus. And on
+Dialogue: 0,0:03:30.78,0:03:31.96,Pop,,0,0,0,,{\fscx62\fscy62\fr1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}June twelfth, the
+Dialogue: 0,0:03:31.96,0:03:33.25,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}channel passed five
+Dialogue: 0,0:03:33.25,0:03:34.26,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}hundred {\c&H2E22E8&}million{\c&HFFFFFF&}
+Dialogue: 0,0:03:34.26,0:03:35.33,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}subscribers,{\c&HFFFFFF&} and
+Dialogue: 0,0:03:35.33,0:03:36.62,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}just kept {\c&H2E22E8&}counting.{\c&HFFFFFF&}
+Dialogue: 0,0:03:36.62,0:03:38.48,Pop,,0,0,0,,{\fscx62\fscy62\fr0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}A two-point-six-billion-dollar
+Dialogue: 0,0:03:38.48,0:03:39.77,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}fortune on paper...
+Dialogue: 0,0:03:39.77,0:03:40.67,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}and he still
+Dialogue: 0,0:03:40.67,0:03:41.80,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}says he's {\c&H2E22E8&}broke.{\c&HFFFFFF&}
+Dialogue: 0,0:03:41.80,0:03:42.58,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.4\t(0,70,\fscx100\fscy100)\fad(35,45)}He said it
+Dialogue: 0,0:03:42.58,0:03:43.15,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}himself.
+Dialogue: 0,0:03:51.29,0:03:52.25,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}Which brings us
+Dialogue: 0,0:03:52.25,0:03:53.00,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}back to the
+Dialogue: 0,0:03:53.00,0:03:54.10,Pop,,0,0,0,,{\fscx62\fscy62\fr0.0\t(0,70,\fscx100\fscy100)\fad(35,45)}strange part. Half
+Dialogue: 0,0:03:54.10,0:03:55.40,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}a {\c&H2E22E8&}billion{\c&HFFFFFF&} {\c&H2E22E8&}subscribers.{\c&HFFFFFF&}
+Dialogue: 0,0:03:55.40,0:03:56.35,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.3\t(0,70,\fscx100\fscy100)\fad(35,45)}One point three
+Dialogue: 0,0:03:56.35,0:03:57.75,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}billion{\c&HFFFFFF&} people watching,
+Dialogue: 0,0:03:57.75,0:03:58.70,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}every quarter...
+Dialogue: 0,0:03:58.70,0:03:59.60,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}and a borrowed
+Dialogue: 0,0:03:59.60,0:04:00.65,Pop,,0,0,0,,{\fscx62\fscy62\fr1.1\t(0,70,\fscx100\fscy100)\fad(35,45)}bank account. The
+Dialogue: 0,0:04:00.65,0:04:01.70,Pop,,0,0,0,,{\fscx62\fscy62\fr0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}greatest stunt of
+Dialogue: 0,0:04:01.70,0:04:02.80,Pop,,0,0,0,,{\fscx62\fscy62\fr0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}MrBeast's life was
+Dialogue: 0,0:04:02.80,0:04:04.00,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}never getting {\c&H2E22E8&}buried{\c&HFFFFFF&}
+Dialogue: 0,0:04:04.00,0:04:05.00,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.1\t(0,70,\fscx100\fscy100)\fad(35,45)}alive, or buying
+Dialogue: 0,0:04:05.00,0:04:05.95,Pop,,0,0,0,,{\fscx62\fscy62\fr0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}an {\c&H2E22E8&}island.{\c&HFFFFFF&} It's
+Dialogue: 0,0:04:05.95,0:04:07.10,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.5\t(0,70,\fscx100\fscy100)\fad(35,45)}turning the biggest
+Dialogue: 0,0:04:07.10,0:04:08.45,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}audience ever assembled
+Dialogue: 0,0:04:08.45,0:04:09.55,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.7\t(0,70,\fscx100\fscy100)\fad(35,45)}into something the
+Dialogue: 0,0:04:09.55,0:04:10.45,Pop,,0,0,0,,{\fscx62\fscy62\fr-1.0\t(0,70,\fscx100\fscy100)\fad(35,45)}{\c&H2E22E8&}algorithm{\c&HFFFFFF&} can't
+Dialogue: 0,0:04:10.45,0:04:11.40,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.8\t(0,70,\fscx100\fscy100)\fad(35,45)}take away. He's
+Dialogue: 0,0:04:11.40,0:04:12.40,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}still {\c&H2E22E8&}counting...{\c&HFFFFFF&}
+Dialogue: 0,0:04:12.40,0:04:13.40,Pop,,0,0,0,,{\fscx62\fscy62\fr0.9\t(0,70,\fscx100\fscy100)\fad(35,45)}and he's nowhere
+Dialogue: 0,0:04:13.40,0:04:14.65,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.6\t(0,70,\fscx100\fscy100)\fad(35,45)}near done. Subscribe,
+Dialogue: 0,0:04:14.65,0:04:15.55,Pop,,0,0,0,,{\fscx62\fscy62\fr-0.2\t(0,70,\fscx100\fscy100)\fad(35,45)}and watch what
+Dialogue: 0,0:04:15.55,0:04:16.25,Pop,,0,0,0,,{\fscx62\fscy62\fr1.2\t(0,70,\fscx100\fscy100)\fad(35,45)}comes next.

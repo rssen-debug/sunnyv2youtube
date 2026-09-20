@@ -1,3 +1,13 @@
+# Senaste avsnittet
+
+**[Banned for Friends? The Kick Streamer Rank Dispute](episodes/kick_rank_drama/README.md)** — 20 september 2026, **3:41**, 720p/30 fps, engelsk brittisk berättarröst, två originalklipp med ljud, undertexter, thumbnail och källregister.
+
+[Öppna videon](episodes/kick_rank_drama/kick_rank_drama.mp4) · [Thumbnail](episodes/kick_rank_drama/thumbnail.jpg) · [Manus](episodes/kick_rank_drama/script/script.txt)
+
+Tidigare demo nedan är bevarad oförändrad. Dess faktauppgifter har inte verifierats i den nya produktionen.
+
+---
+
 # sunnyv2youtube — AI-dokumentär-pipeline
 
 **Demo-video:** `drake_goth_girl_sunnyv2.mp4` — "Drake × The Goth Girl (Pinkchyu)" — **3:06**, 1280×720/30fps, engelsk TTS-berättarröst, word-by-word-popcaptions, **riktiga videoklipp med ljud** (bark-ögonblicket, TMZ-interview, E! News, Casa Loma-drone, iShowSpeed-reaction), sound design (impacts, risers, whooshes, musik-duckning), kamerablixtar, cirkelporträtt, name reveals, infinite-zoom-bakgrund.

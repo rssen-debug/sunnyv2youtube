@@ -1,0 +1,110 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/sunnyv2youtube/episodes/kick_rank_drama/kick_rank_drama.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Banned for Friends? The Kick Streamer Rank Dispute
+    encoder         : Lavf61.1.100
+  Duration: 00:03:41.00, start: 0.000000, bitrate: 670 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 502 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 159 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Banned for Friends? The Kick Streamer Rank Dispute
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+size=N/A time=00:01:58.83 bitrate=N/A speed= 237x    
+[Parsed_astats_0 @ 0x7eff7c001e00] Channel: 1
+[Parsed_astats_0 @ 0x7eff7c001e00] DC offset: 0.000784
+[Parsed_astats_0 @ 0x7eff7c001e00] Min level: -0.715765
+[Parsed_astats_0 @ 0x7eff7c001e00] Max level: 0.621708
+[Parsed_astats_0 @ 0x7eff7c001e00] Min difference: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Max difference: 0.415047
+[Parsed_astats_0 @ 0x7eff7c001e00] Mean difference: 0.006791
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS difference: 0.015100
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak level dB: -2.904588
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS level dB: -20.030467
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS peak dB: -10.298379
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS trough dB: -71.557838
+[Parsed_astats_0 @ 0x7eff7c001e00] Crest factor: 7.182803
+[Parsed_astats_0 @ 0x7eff7c001e00] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak count: 2
+[Parsed_astats_0 @ 0x7eff7c001e00] Abs Peak count: 1
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor dB: -74.358154
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor count: 6
+[Parsed_astats_0 @ 0x7eff7c001e00] Entropy: 0.792815
+[Parsed_astats_0 @ 0x7eff7c001e00] Bit depth: 31/32/32/32
+[Parsed_astats_0 @ 0x7eff7c001e00] Dynamic range: 224.849505
+[Parsed_astats_0 @ 0x7eff7c001e00] Zero crossings: 462962
+[Parsed_astats_0 @ 0x7eff7c001e00] Zero crossings rate: 0.047501
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of NaNs: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of Infs: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of denormals: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Channel: 2
+[Parsed_astats_0 @ 0x7eff7c001e00] DC offset: 0.000783
+[Parsed_astats_0 @ 0x7eff7c001e00] Min level: -0.713395
+[Parsed_astats_0 @ 0x7eff7c001e00] Max level: 0.623318
+[Parsed_astats_0 @ 0x7eff7c001e00] Min difference: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Max difference: 0.408817
+[Parsed_astats_0 @ 0x7eff7c001e00] Mean difference: 0.006792
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS difference: 0.015101
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak level dB: -2.933399
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS level dB: -20.030035
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS peak dB: -10.298471
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS trough dB: -71.283254
+[Parsed_astats_0 @ 0x7eff7c001e00] Crest factor: 7.158661
+[Parsed_astats_0 @ 0x7eff7c001e00] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak count: 2
+[Parsed_astats_0 @ 0x7eff7c001e00] Abs Peak count: 1
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor dB: -70.339573
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor count: 670
+[Parsed_astats_0 @ 0x7eff7c001e00] Entropy: 0.792962
+[Parsed_astats_0 @ 0x7eff7c001e00] Bit depth: 31/32/32/32
+[Parsed_astats_0 @ 0x7eff7c001e00] Dynamic range: 179.949058
+[Parsed_astats_0 @ 0x7eff7c001e00] Zero crossings: 461052
+[Parsed_astats_0 @ 0x7eff7c001e00] Zero crossings rate: 0.047305
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of NaNs: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of Infs: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of denormals: 0
+[Parsed_astats_0 @ 0x7eff7c001e00] Overall
+[Parsed_astats_0 @ 0x7eff7c001e00] DC offset: 0.000784
+[Parsed_astats_0 @ 0x7eff7c001e00] Min level: -0.715765
+[Parsed_astats_0 @ 0x7eff7c001e00] Max level: 0.623318
+[Parsed_astats_0 @ 0x7eff7c001e00] Min difference: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Max difference: 0.415047
+[Parsed_astats_0 @ 0x7eff7c001e00] Mean difference: 0.006792
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS difference: 0.015100
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak level dB: -2.904588
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS level dB: -20.030251
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS peak dB: -10.298379
+[Parsed_astats_0 @ 0x7eff7c001e00] RMS trough dB: -71.557838
+[Parsed_astats_0 @ 0x7eff7c001e00] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Peak count: 2.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Abs Peak count: 1.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor dB: -70.339573
+[Parsed_astats_0 @ 0x7eff7c001e00] Noise floor count: 338.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Entropy: 0.792888
+[Parsed_astats_0 @ 0x7eff7c001e00] Bit depth: 31/32/32/32
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of samples: 9746432
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of NaNs: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of Infs: 0.000000
+[Parsed_astats_0 @ 0x7eff7c001e00] Number of denormals: 0.000000
+[out#0/null @ 0x19ec2000] video:0KiB audio:38072KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:03:41.00 bitrate=N/A speed= 253x    

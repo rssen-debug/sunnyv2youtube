@@ -1,0 +1,28 @@
+/usr/local/bin/ffmpeg
+fil: /home/user/drake-video/drake_v4_poc.mp4 | duration: 40.8s
+
+--- MÄTVARDEN ---
+activity median: 2.664 (krav > 0.25)
+ljud-höjdpunkter: 4 (krav >= 3)
+audio RMS median: 0.085
+
+--- RESULTAT ---
+PASS ✅  (alla TVÅNGSKRAV som är mätbara är uppfyllda — gör även manuellt QA-sheet-byte!)
+EPISODE: drake x goth girl (POC)
+timeline: {'A1': 0.0, 'A4': 14.6} | total 40.8 s
+glow_title: cfg_glow_0.png
+glow_title: cfg_glow_1.png
+lower_third: cfg_lt_drake.png
+lower_third: cfg_lt_pink.png
+tweet_ui: cfg_tweet.png 940x466
+stat_card: cfg_stat_0.png
+circle_portrait: cfg_circle_drake.png
+circle_portrait: cfg_circle_pink.png
+captions: 34 events
+PASS 1/4: base 41 s ...
+PASS 2/4: segment 1/2 (A1) ...
+glow_title: cfg_endcard.png
+PASS 2/4: segment 2/2 (A4) ...
+PASS 3/4: ljudmix ...
+PASS 4/4: concat + cinematic + captions ...
+KLART: /home/user/drake-video/drake_v4_poc.mp4 3157 KB

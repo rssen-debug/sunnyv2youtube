@@ -1,0 +1,23 @@
+###A1
+A Kick streamer says he was banned for playing with his friends. Riot says its crackdown targets rank manipulation. Then a public apology changes the conversation... but not the rules. This is the Trainwrecks and Trick2g dispute, reported this September. And the detail that matters is not who was in the lobby. It is which accounts they were using.
+
+###A2
+First, a distinction: these are League of Legends bans, not Kick bans. Trainwrecks discussed his account on a Kick broadcast. He said he had queued with long-time friends, including Tyler1, Trick2g and Yassuo, then found himself banned with his rank rolled back. To him, the punishment made no sense. His defence was friendship, not a paid service. Listen to his explanation.
+
+###A3
+But this story was already bigger than one streamer. On September seventeenth, Riot announced two hundred and ninety-six thousand, four hundred and sixteen accounts penalised across League and Valorant. That was a running total, not one night's sweep. Riot's message was blunt: boosting, smurfing and hitchhiking were all cheating. The streamers' complaints landed inside that much wider crackdown.
+
+###A4
+Then Trick2g appealed publicly. He said a friend had placed too low in Flex to queue with the group. So some players switched accounts, returning to their mains when the ranks allowed it. He denied that they were boosting. That distinction became the entire argument: changing accounts to play together, versus changing the competitive conditions. Here is how he described it.
+
+###A5
+Now look at the detail behind the argument. Reporting identifies that friend as Alicopter, already a Challenger-level player, but placed in Gold in Flex. That supports Trick2g's objection to the idea that they were carrying a beginner. It does not, by itself, settle whether switching accounts broke the rules. A player's skill and an account's current rank are not the same thing.
+
+###B1
+Riot's Drew Levin initially replied that high-ranked players using alternate accounts to move a friend from Gold towards Emerald was basically the definition of boosting. That was his interpretation of the explanation, not a public release of the full match evidence. The dispute had become a very public argument about what the system was actually punishing.
+
+###B2
+Then came the apology. On September eighteenth, Levin called his reply off the cuff and incurious. He said Riot was in direct contact with the group, and admitted its guidance on playing with friends had not been clear enough. But he also said the stance on smurfing and boosting remained unchanged. An apology for the response is not proof that a ban was reversed. The reporting reviewed here does not establish that outcome.
+
+###A6
+So the payoff is not that friendship became illegal, or that Riot admitted every ban was wrong. It is that a simple complaint exposed a complicated boundary: who you queue with, which account they use, and what the rules actually permit. Trainwrecks asked why he could not play with friends. Riot promised clearer guidance. Whether that resolves the dispute remains open. Subscribe for the next verified update.

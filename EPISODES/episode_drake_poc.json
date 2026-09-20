@@ -1,0 +1,42 @@
+{
+  "topic": "drake x goth girl (POC)",
+  "out": "drake_v4_poc.mp4",
+  "look": "DEFAULT",
+  "gap": 0.7,
+  "keywords": ["bark", "barking", "goth", "arf", "castle", "house", "leash", "whimper"],
+  "blocks": [
+    {"id": "A1", "text": "In August 2026, the biggest rapper alive got on a livestream ... to find love. Twenty women. One winner. But nobody expected what the goth girl would make him do. Listen to this."},
+    {"id": "A4", "text": "Would you bark for me? Drake smiled, and said: you can look me dead in my eyes, and if you say do anything, I would. And then he did it. Here's the moment. Complete with a little whimper at the end. Within hours, the clip was everywhere. The internet synced his bark to Kendrick's \"Not Like Us\". The memes wrote themselves. And then, it got bigger."}
+  ],
+  "people": [
+    {"key": "drake", "img": "assets/src/drake.jpg", "name": "DRAKE", "sub": "THE BIGGEST RAPPER ALIVE", "accent": [232, 34, 46, 255]},
+    {"key": "pink", "img": "assets/src/pinkchyu.jpg", "name": "PINKCHYU", "sub": "LIN LAMAR · THE GOTH BADDIE · 2M+", "accent": [200, 60, 220, 255]}
+  ],
+  "glows": [
+    {"text": "DRAKE", "px": 200, "glow": [232, 34, 46, 150]},
+    {"text": "\"WOULD YOU BARK?\"", "px": 110, "glow": [120, 220, 255, 140]}
+  ],
+  "tweet": {
+    "name": "ryan", "handle": "@scubaryan_",
+    "body": "Drake instantly folded and started barking after this goth baddie told him to",
+    "meta": "9:12 PM · Aug 8, 2026", "likes": "4.1M", "avatar": "assets/src/pinkchyu.jpg"
+  },
+  "stats": [
+    {"big": "1M+", "label": "VIEWS IN HOURS"}
+  ],
+  "beats": [
+    {"block": "A1", "asset": "cfg_circle_drake.png", "at": 0.3, "until": "end-0.4", "anim": "drift", "w": 500, "x": 700, "y": 150},
+    {"block": "A1", "asset": "cfg_glow_0.png", "at": 1.333, "until": "end-0.4", "anim": "slideL", "w": 560, "x": 120, "y": 250, "impact": true},
+    {"block": "A1", "asset": "cfg_lt_drake.png", "at": 2.6, "until": "end-1", "anim": "slideL", "w": 760, "x": 46, "y": 468},
+    {"block": "A1", "asset": "cfg_stat_0.png", "at": 8.0, "until": 9.8, "anim": "pop", "w": 260, "x": 510, "y": 300, "impact": true},
+    {"block": "A4", "asset": "cfg_glow_1.png", "at": 0.333, "until": 8.5, "anim": "slideR", "w": 880, "x": 140, "y": 120, "impact": true},
+    {"block": "A4", "asset": "cfg_circle_pink.png", "at": 3.0, "until": 8.5, "anim": "slideL", "w": 330, "x": 880, "y": 330},
+    {"block": "A4", "asset": "card_arf.png", "at": 9.0, "until": 15.0, "anim": "rise", "w": 700, "x": 290, "y": 260, "impact": true},
+    {"block": "A4", "asset": "card_nlu.png", "at": 15.0, "until": 16.5, "anim": "slideR", "w": 760, "x": 200, "y": 170},
+    {"block": "A4", "asset": "cfg_tweet.png", "at": "mid+2", "until": "end-7.5", "anim": "rise", "w": 500, "x": 392, "y": 240, "impact": true}
+  ],
+  "clips": [
+    {"file": "bark.mp4", "cut": 5.5, "dur": 6.5, "block": "A4", "at": 18.3, "vol": 1.4, "w": 940, "y": 86}
+  ],
+  "endcard": {"text": "SUBSCRIBE", "glow": [60, 220, 120, 140]}
+}

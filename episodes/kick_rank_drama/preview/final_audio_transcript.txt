@@ -1,0 +1,53 @@
+0.00–4.08  A kick streamer says he was banned for playing with his friends.
+4.08–10.38  Riot says it's crackdown targets rank manipulation, then a public apology changes the conversation,
+10.38–12.16  but not the rules.
+12.16–18.44  This is the Trainwrecks and Trick2g dispute, reported this September, and the detail that
+18.44–23.52  matters is not who was in the lobby, it is which accounts they were using.
+23.52–25.64  First, a distinction.
+25.64–29.40  These are League of Legends bands, not kick bands.
+29.40–32.64  Trainwrecks discussed his account on a kick broadcast.
+32.64–39.12  He said he had queued with long-time friends, including Tyler1, Trick2g, and Yassuo.
+39.12–42.04  Then found himself banned with his rank rolled back.
+42.04–44.76  To him, the punishment made no sense.
+44.76–48.44  His defense was friendship, not a paid service.
+48.44–63.72  But this story was already bigger than one streamer.
+63.72–71.76  On September 17th, Riot announced 296,416 accounts penalized across League and Valorant.
+71.76–74.68  That was a running total, not one night sweep.
+74.68–76.68  Riot's message was blunt.
+76.68–80.40  Boosting, smurfing, and hitchhiking were all cheating.
+80.40–84.36  The streamers' complaints landed inside that much wider crackdown.
+84.36–87.28  Then, Trick2g appealed publicly.
+87.28–91.72  He said a friend had placed too low in flex to queue with the group, so some players switched
+91.72–95.00  accounts, returning to their mains when the ranks allowed it.
+95.00–97.00  He denied that they were boosting.
+97.00–102.48  That distinction became the entire argument, changing accounts to play together versus changing
+102.48–104.08  the competitive conditions.
+104.08–107.04  Here is how he described it.
+107.04–110.24  It's saying that we're a boosting.
+110.24–113.44  No boosting was happening.
+113.44–118.08  What happened was somebody never played flex was too low.
+118.08–123.72  We couldn't play with them, so me and Cookie and Mo had to switch accounts sometimes.
+123.72–126.60  Now look at the detail behind the argument.
+126.60–132.52  Reporting identifies that friend as Alicopter, already a challenger-level player, but placed
+132.52–134.32  in gold in flex.
+134.32–139.20  That supports Trick2g's objection to the idea that they were carrying a beginner.
+139.20–144.16  It does not, by itself, settle whether switching accounts broke the rules.
+144.16–148.84  A player's skill and an account's current rank are not the same thing.
+148.84–153.48  Riot's Drew Levin initially replied that high-ranked players using alternate accounts
+153.48–158.56  to move a friend from gold towards Emerald was basically the definition of boosting.
+158.56–163.92  That was his interpretation of the explanation, not a public release of the full match evidence.
+163.92–168.80  The dispute had become a very public argument about what the system was actually punishing.
+168.80–170.64  Then came the apology.
+170.64–175.44  On September 18th, Levin called his reply off the cuff and in curious.
+175.44–180.16  He said Riot was in direct contact with the group and admitted its guidance on playing with
+180.16–184.80  friends had not been clear enough, but he also said the stance on smurfing and boosting
+184.80–186.64  remained unchanged.
+186.64–190.80  An apology for the response is not proof that a ban was reversed.
+190.80–194.64  The reporting reviewed here does not establish that outcome.
+194.64–197.48  So the payoff is not that friendship became illegal.
+197.48–202.48  All that Riot admitted every ban was wrong, it is that a simple complaint exposed a complicated
+202.48–203.48  boundary.
+203.48–208.32  Who you queue with, which account they use, and what the rules actually permit.
+208.32–211.04  Train Rex asked why he could not play with friends.
+211.04–215.92  Riot promised clearer guidance, whether that resolves the dispute remains open.
+215.92–217.92  Subscribe for the next verified update.

@@ -1,0 +1,225 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Pop,DejaVu Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,1,2,50,50,69,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}A Kick streamer
+Dialogue: 0,0:00:01.00,0:00:01.62,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}says he was
+Dialogue: 0,0:00:01.62,0:00:02.44,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}banned for playing
+Dialogue: 0,0:00:02.44,0:00:03.04,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}with his friends.
+Dialogue: 0,0:00:03.96,0:00:04.86,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Riot says its
+Dialogue: 0,0:00:04.86,0:00:06.06,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}crackdown targets rank
+Dialogue: 0,0:00:06.06,0:00:06.58,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}manipulation.
+Dialogue: 0,0:00:07.60,0:00:08.00,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Then a public
+Dialogue: 0,0:00:08.00,0:00:09.20,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}apology changes the
+Dialogue: 0,0:00:09.20,0:00:09.44,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}conversation...
+Dialogue: 0,0:00:10.24,0:00:10.76,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}but not the
+Dialogue: 0,0:00:10.76,0:00:10.96,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}rules.
+Dialogue: 0,0:00:11.92,0:00:12.62,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}This is the
+Dialogue: 0,0:00:12.62,0:00:14.44,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Trainwrecks and Trick2g
+Dialogue: 0,0:00:14.44,0:00:16.14,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}dispute, reported this
+Dialogue: 0,0:00:16.14,0:00:16.90,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}September.
+Dialogue: 0,0:00:17.58,0:00:18.18,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}And the detail
+Dialogue: 0,0:00:18.18,0:00:19.04,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}that matters is
+Dialogue: 0,0:00:19.04,0:00:20.00,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}not who was
+Dialogue: 0,0:00:20.00,0:00:20.46,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}in the lobby.
+Dialogue: 0,0:00:20.98,0:00:21.46,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}It is which
+Dialogue: 0,0:00:21.46,0:00:22.50,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}accounts they were
+Dialogue: 0,0:00:22.50,0:00:22.84,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}using.
+Dialogue: 0,0:00:23.60,0:00:24.68,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}First, a distinction:
+Dialogue: 0,0:00:25.60,0:00:26.18,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}these are League
+Dialogue: 0,0:00:26.18,0:00:27.22,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}of Legends bans,
+Dialogue: 0,0:00:27.78,0:00:28.44,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}not Kick bans.
+Dialogue: 0,0:00:29.14,0:00:29.80,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Trainwrecks discussed
+Dialogue: 0,0:00:29.80,0:00:30.94,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}his account on
+Dialogue: 0,0:00:30.94,0:00:31.72,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}a Kick broadcast.
+Dialogue: 0,0:00:32.52,0:00:33.10,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}He said he
+Dialogue: 0,0:00:33.10,0:00:33.86,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}had queued with
+Dialogue: 0,0:00:33.86,0:00:34.70,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}long-time friends,
+Dialogue: 0,0:00:35.14,0:00:36.32,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}including Tyler1,
+Dialogue: 0,0:00:36.80,0:00:38.38,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Trick2g and Yassuo,
+Dialogue: 0,0:00:38.98,0:00:39.66,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}then found himself
+Dialogue: 0,0:00:39.66,0:00:40.56,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}banned with his
+Dialogue: 0,0:00:40.56,0:00:41.42,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}rank rolled back.
+Dialogue: 0,0:00:41.96,0:00:42.66,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}To him, the
+Dialogue: 0,0:00:42.66,0:00:43.58,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}punishment made no
+Dialogue: 0,0:00:43.58,0:00:43.84,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}sense.
+Dialogue: 0,0:00:44.60,0:00:45.26,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}His defence was
+Dialogue: 0,0:00:45.26,0:00:46.72,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}friendship, not a
+Dialogue: 0,0:00:46.72,0:00:47.34,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}paid service.
+Dialogue: 0,0:00:47.98,0:00:48.68,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Listen to his
+Dialogue: 0,0:00:48.68,0:00:49.00,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}explanation.
+Dialogue: 0,0:00:50.28,0:00:50.96,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Guys, they banned
+Dialogue: 0,0:00:50.96,0:00:51.30,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}me on League
+Dialogue: 0,0:00:51.30,0:00:52.40,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}of Legends for
+Dialogue: 0,0:00:52.40,0:00:53.46,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}playing with Tyler1,
+Dialogue: 0,0:00:53.64,0:00:55.24,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Trick2g, Yassuo, and
+Dialogue: 0,0:00:55.24,0:00:55.70,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}all these guys
+Dialogue: 0,0:00:55.70,0:00:56.14,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}on stream.
+Dialogue: 0,0:00:56.90,0:00:57.74,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}I don't get
+Dialogue: 0,0:00:57.74,0:00:57.88,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}it.
+Dialogue: 0,0:00:58.98,0:00:59.78,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}What do they
+Dialogue: 0,0:00:59.78,0:01:00.24,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}expect me to
+Dialogue: 0,0:01:00.24,0:01:00.34,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}do?
+Dialogue: 0,0:01:00.57,0:01:01.23,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}But this story
+Dialogue: 0,0:01:01.23,0:01:02.11,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}was already bigger
+Dialogue: 0,0:01:02.11,0:01:03.09,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}than one streamer.
+Dialogue: 0,0:01:03.69,0:01:03.93,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}On September
+Dialogue: 0,0:01:03.93,0:01:05.35,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}seventeenth, Riot
+Dialogue: 0,0:01:05.35,0:01:06.01,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}announced two hundred
+Dialogue: 0,0:01:06.01,0:01:06.45,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and ninety-six
+Dialogue: 0,0:01:06.45,0:01:07.12,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}thousand, four hundred
+Dialogue: 0,0:01:07.12,0:01:09.25,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and sixteen accounts
+Dialogue: 0,0:01:09.25,0:01:10.55,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}penalised across League
+Dialogue: 0,0:01:10.55,0:01:11.17,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and Valorant.
+Dialogue: 0,0:01:11.63,0:01:11.99,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}That was a
+Dialogue: 0,0:01:11.99,0:01:13.31,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}running total, not
+Dialogue: 0,0:01:13.31,0:01:13.99,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}one night's sweep.
+Dialogue: 0,0:01:14.61,0:01:15.53,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Riot's message was
+Dialogue: 0,0:01:15.53,0:01:17.07,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}blunt: boosting,
+Dialogue: 0,0:01:17.23,0:01:17.89,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}smurfing and
+Dialogue: 0,0:01:17.89,0:01:19.11,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}hitchhiking were all
+Dialogue: 0,0:01:19.11,0:01:19.47,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}cheating.
+Dialogue: 0,0:01:20.37,0:01:20.85,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}The streamers'
+Dialogue: 0,0:01:20.97,0:01:21.65,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}complaints landed
+Dialogue: 0,0:01:21.65,0:01:22.73,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}inside that much
+Dialogue: 0,0:01:22.73,0:01:23.49,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}wider crackdown.
+Dialogue: 0,0:01:24.47,0:01:25.95,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Then Trick2g appealed
+Dialogue: 0,0:01:25.95,0:01:26.53,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}publicly.
+Dialogue: 0,0:01:27.31,0:01:27.57,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}He said a
+Dialogue: 0,0:01:27.57,0:01:28.21,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}friend had placed
+Dialogue: 0,0:01:28.21,0:01:28.89,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}too low in
+Dialogue: 0,0:01:28.89,0:01:29.57,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Flex to queue
+Dialogue: 0,0:01:29.57,0:01:30.09,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}with the group.
+Dialogue: 0,0:01:30.61,0:01:31.25,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}So some players
+Dialogue: 0,0:01:31.25,0:01:31.91,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}switched accounts,
+Dialogue: 0,0:01:32.41,0:01:33.11,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}returning to their
+Dialogue: 0,0:01:33.11,0:01:33.75,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}mains when the
+Dialogue: 0,0:01:33.75,0:01:34.47,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}ranks allowed it.
+Dialogue: 0,0:01:34.93,0:01:35.67,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}He denied that
+Dialogue: 0,0:01:35.67,0:01:36.27,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}they were boosting.
+Dialogue: 0,0:01:36.81,0:01:37.73,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}That distinction became
+Dialogue: 0,0:01:37.73,0:01:38.99,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the entire argument:
+Dialogue: 0,0:01:39.71,0:01:40.59,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}changing accounts to
+Dialogue: 0,0:01:40.59,0:01:41.83,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}play together, versus
+Dialogue: 0,0:01:41.83,0:01:42.63,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}changing the
+Dialogue: 0,0:01:42.63,0:01:43.47,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}competitive conditions.
+Dialogue: 0,0:01:44.43,0:01:45.23,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Here is how
+Dialogue: 0,0:01:45.23,0:01:46.01,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}he described it.
+Dialogue: 0,0:01:47.06,0:01:48.48,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}It's saying that
+Dialogue: 0,0:01:48.48,0:01:49.42,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}we're boosting.
+Dialogue: 0,0:01:49.96,0:01:50.80,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}No boosting was
+Dialogue: 0,0:01:50.80,0:01:51.08,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}happening.
+Dialogue: 0,0:01:52.42,0:01:53.72,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}What happened was
+Dialogue: 0,0:01:53.72,0:01:55.02,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}somebody who has
+Dialogue: 0,0:01:55.02,0:01:56.32,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}never played Flex
+Dialogue: 0,0:01:56.90,0:01:57.70,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}was too low.
+Dialogue: 0,0:01:57.98,0:01:58.45,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}We couldn't play
+Dialogue: 0,0:01:58.45,0:01:58.76,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}with him.
+Dialogue: 0,0:01:58.92,0:02:00.00,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}So me and
+Dialogue: 0,0:02:00.00,0:02:01.89,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Cookie and Moe
+Dialogue: 0,0:02:01.89,0:02:02.75,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}had to switch
+Dialogue: 0,0:02:02.75,0:02:03.32,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}accounts sometimes.
+Dialogue: 0,0:02:03.50,0:02:04.10,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Now look at
+Dialogue: 0,0:02:04.10,0:02:04.86,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the detail behind
+Dialogue: 0,0:02:04.86,0:02:05.52,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the argument.
+Dialogue: 0,0:02:06.42,0:02:06.86,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Reporting identifies
+Dialogue: 0,0:02:06.86,0:02:08.52,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}that friend as
+Dialogue: 0,0:02:08.52,0:02:10.50,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Alicopter, already a
+Dialogue: 0,0:02:10.50,0:02:11.18,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Challenger-level
+Dialogue: 0,0:02:11.18,0:02:12.36,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}player, but placed
+Dialogue: 0,0:02:12.36,0:02:13.26,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}in Gold in
+Dialogue: 0,0:02:13.26,0:02:13.46,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Flex.
+Dialogue: 0,0:02:14.16,0:02:15.78,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}That supports Trick2g's
+Dialogue: 0,0:02:15.78,0:02:16.50,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}objection to the
+Dialogue: 0,0:02:16.50,0:02:17.48,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}idea that they
+Dialogue: 0,0:02:17.48,0:02:18.26,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}were carrying a
+Dialogue: 0,0:02:18.26,0:02:18.50,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}beginner.
+Dialogue: 0,0:02:19.14,0:02:19.62,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}It does not,
+Dialogue: 0,0:02:20.02,0:02:21.52,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}by itself, settle
+Dialogue: 0,0:02:21.52,0:02:22.18,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}whether switching
+Dialogue: 0,0:02:22.18,0:02:23.16,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}accounts broke the
+Dialogue: 0,0:02:23.16,0:02:23.36,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}rules.
+Dialogue: 0,0:02:24.14,0:02:24.82,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}A player's skill
+Dialogue: 0,0:02:24.82,0:02:25.82,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and an account's
+Dialogue: 0,0:02:25.82,0:02:26.80,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}current rank are
+Dialogue: 0,0:02:26.80,0:02:27.68,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}not the same
+Dialogue: 0,0:02:27.68,0:02:27.96,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}thing.
+Dialogue: 0,0:02:28.67,0:02:29.59,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Riot's Drew Levin
+Dialogue: 0,0:02:29.59,0:02:31.03,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}initially replied that
+Dialogue: 0,0:02:31.03,0:02:32.07,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}high-ranked players
+Dialogue: 0,0:02:32.07,0:02:32.85,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}using alternate
+Dialogue: 0,0:02:32.85,0:02:33.79,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}accounts to move
+Dialogue: 0,0:02:33.79,0:02:34.47,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}a friend from
+Dialogue: 0,0:02:34.47,0:02:35.45,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Gold towards Emerald
+Dialogue: 0,0:02:35.45,0:02:36.73,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}was basically the
+Dialogue: 0,0:02:36.73,0:02:37.59,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}definition of boosting.
+Dialogue: 0,0:02:38.43,0:02:38.97,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}That was his
+Dialogue: 0,0:02:38.97,0:02:40.03,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}interpretation of the
+Dialogue: 0,0:02:40.03,0:02:41.27,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}explanation, not a
+Dialogue: 0,0:02:41.27,0:02:42.15,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}public release of
+Dialogue: 0,0:02:42.15,0:02:42.73,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the full match
+Dialogue: 0,0:02:42.73,0:02:43.09,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}evidence.
+Dialogue: 0,0:02:43.91,0:02:44.47,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}The dispute had
+Dialogue: 0,0:02:44.47,0:02:45.01,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}become a very
+Dialogue: 0,0:02:45.01,0:02:46.13,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}public argument about
+Dialogue: 0,0:02:46.13,0:02:46.71,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}what the system
+Dialogue: 0,0:02:46.71,0:02:47.49,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}was actually punishing.
+Dialogue: 0,0:02:48.40,0:02:49.26,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Then came the
+Dialogue: 0,0:02:49.26,0:02:49.44,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}apology.
+Dialogue: 0,0:02:50.58,0:02:50.88,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}On September
+Dialogue: 0,0:02:50.88,0:02:52.02,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}eighteenth, Levin
+Dialogue: 0,0:02:52.02,0:02:52.86,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}called his reply
+Dialogue: 0,0:02:52.86,0:02:53.64,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}off the cuff
+Dialogue: 0,0:02:53.64,0:02:54.56,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and incurious.
+Dialogue: 0,0:02:55.38,0:02:55.92,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}He said Riot
+Dialogue: 0,0:02:55.92,0:02:56.68,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}was in direct
+Dialogue: 0,0:02:56.68,0:02:57.62,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}contact with the
+Dialogue: 0,0:02:57.62,0:02:58.80,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}group, and admitted
+Dialogue: 0,0:02:58.80,0:02:59.72,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}its guidance on
+Dialogue: 0,0:02:59.72,0:03:00.46,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}playing with friends
+Dialogue: 0,0:03:00.46,0:03:01.12,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}had not been
+Dialogue: 0,0:03:01.12,0:03:01.70,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}clear enough.
+Dialogue: 0,0:03:02.26,0:03:02.56,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}But he also
+Dialogue: 0,0:03:02.56,0:03:03.38,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}said the stance
+Dialogue: 0,0:03:03.38,0:03:04.34,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}on smurfing and
+Dialogue: 0,0:03:04.34,0:03:05.14,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}boosting remained
+Dialogue: 0,0:03:05.14,0:03:05.60,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}unchanged.
+Dialogue: 0,0:03:06.64,0:03:07.32,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}An apology for
+Dialogue: 0,0:03:07.32,0:03:08.34,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the response is
+Dialogue: 0,0:03:08.34,0:03:09.16,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}not proof that
+Dialogue: 0,0:03:09.16,0:03:09.66,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}a ban was
+Dialogue: 0,0:03:09.66,0:03:09.90,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}reversed.
+Dialogue: 0,0:03:10.80,0:03:11.52,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}The reporting reviewed
+Dialogue: 0,0:03:11.52,0:03:12.58,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}here does not
+Dialogue: 0,0:03:12.58,0:03:13.74,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}establish that outcome.
+Dialogue: 0,0:03:14.47,0:03:15.03,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}So the payoff
+Dialogue: 0,0:03:15.03,0:03:15.65,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}is not that
+Dialogue: 0,0:03:15.65,0:03:16.37,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}friendship became
+Dialogue: 0,0:03:16.37,0:03:17.71,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}illegal, or that
+Dialogue: 0,0:03:17.71,0:03:18.69,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Riot admitted every
+Dialogue: 0,0:03:18.69,0:03:19.49,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}ban was wrong.
+Dialogue: 0,0:03:19.93,0:03:20.25,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}It is that
+Dialogue: 0,0:03:20.25,0:03:21.13,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}a simple complaint
+Dialogue: 0,0:03:21.13,0:03:22.21,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}exposed a complicated
+Dialogue: 0,0:03:22.21,0:03:23.73,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}boundary: who you
+Dialogue: 0,0:03:23.73,0:03:24.79,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}queue with, which
+Dialogue: 0,0:03:24.79,0:03:25.65,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}account they use,
+Dialogue: 0,0:03:26.09,0:03:26.55,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}and what the
+Dialogue: 0,0:03:26.55,0:03:27.55,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}rules actually permit.
+Dialogue: 0,0:03:28.39,0:03:29.21,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Trainwrecks asked why
+Dialogue: 0,0:03:29.21,0:03:29.71,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}he could not
+Dialogue: 0,0:03:29.71,0:03:30.33,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}play with friends.
+Dialogue: 0,0:03:31.21,0:03:32.01,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Riot promised clearer
+Dialogue: 0,0:03:32.01,0:03:32.41,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}guidance.
+Dialogue: 0,0:03:32.99,0:03:33.77,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Whether that resolves
+Dialogue: 0,0:03:33.77,0:03:34.93,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}the dispute remains
+Dialogue: 0,0:03:34.93,0:03:35.33,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}open.
+Dialogue: 0,0:03:36.11,0:03:36.67,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}Subscribe for the
+Dialogue: 0,0:03:36.67,0:03:37.77,Pop,,0,0,0,,{\fscx86\fscy86\t(0,65,\fscx100\fscy100)\fad(20,35)}next verified update.

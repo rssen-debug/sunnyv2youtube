@@ -1,0 +1,36 @@
+/usr/local/bin/ffmpeg
+fil: /home/user/drake-video/drake_v4_full.mp4 | duration: 184.0s
+
+--- MÄTVARDEN ---
+activity median: 0.715 (krav > 0.25)
+ljud-höjdpunkter: 16 (krav >= 3)
+audio RMS median: 0.091
+
+--- RESULTAT ---
+PASS ✅  (alla TVÅNGSKRAV som är mätbara är uppfyllda — gör även manuellt QA-sheet-byte!)
+EPISODE: drake x goth girl (FULL 3min)
+timeline: {'A1': 0.0, 'A2': 14.6, 'A3': 39.8, 'A4': 64.1, 'A5': 88.5, 'B1': 114.0, 'B2': 136.3, 'A6': 159.7} | total 184.0 s
+glow_title: cfg_glow_0.png
+glow_title: cfg_glow_1.png
+glow_title: cfg_glow_2.png
+lower_third: cfg_lt_drake.png
+lower_third: cfg_lt_pink.png
+tweet_ui: cfg_tweet.png 940x466
+stat_card: cfg_stat_0.png
+stat_card: cfg_stat_1.png
+circle_portrait: cfg_circle_drake.png
+circle_portrait: cfg_circle_pink.png
+captions: 166 events
+PASS 1/4: base 184 s ...
+PASS 2/4: segment 1/8 (A1) ...
+PASS 2/4: segment 2/8 (A2) ...
+PASS 2/4: segment 3/8 (A3) ...
+PASS 2/4: segment 4/8 (A4) ...
+PASS 2/4: segment 5/8 (A5) ...
+PASS 2/4: segment 6/8 (B1) ...
+PASS 2/4: segment 7/8 (B2) ...
+glow_title: cfg_endcard.png
+PASS 2/4: segment 8/8 (A6) ...
+PASS 3/4: ljudmix ...
+PASS 4/4: concat + cinematic + captions ...
+KLART: /home/user/drake-video/drake_v4_full.mp4 11847 KB

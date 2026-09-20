@@ -1,0 +1,14 @@
+{
+  "duration_seconds": 220.99999999999997,
+  "resolution": "1280x720",
+  "fps": 30,
+  "audio": "AAC 44100 Hz stereo",
+  "shots": 58,
+  "max_shot_seconds": 5.766666666666666,
+  "timeline_contiguous": true,
+  "caption_method": "Whisper word timestamps aligned to reference; clip C2 phrase timings manually corrected",
+  "checks": "See QA_FINAL_1\u20133.jpg and final_audio_stats.txt. Visual review required.",
+  "visual_review": "All 58 sampled final frames reviewed; no identified caption collisions.",
+  "decoded_audio_peak_dbfs": -2.904588,
+  "decoded_audio_rms_dbfs": -20.030251
+}

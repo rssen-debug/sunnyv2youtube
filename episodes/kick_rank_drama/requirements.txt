@@ -1,0 +1,5 @@
+pillow
+numpy
+imageio-ffmpeg
+# Optional for downloading source footage: yt-dlp
+# Optional for regenerating word timestamps: faster-whisper

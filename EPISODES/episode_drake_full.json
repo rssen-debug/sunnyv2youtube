@@ -1,0 +1,65 @@
+{
+  "topic": "drake x goth girl (FULL 3min)",
+  "out": "drake_v4_full.mp4",
+  "look": "DEFAULT",
+  "keywords": ["bark", "barking", "goth", "arf", "castle", "house", "leash", "whimper"],
+  "blocks": [
+    {"id": "A1", "text": "In August 2026, the biggest rapper alive got on a livestream ... to find love. Twenty women. One winner. But nobody expected what the goth girl would make him do. Listen to this."},
+    {"id": "A2", "text": "It was August 8th. Drake hosted a twenty-women-versus-one speed dating stream, produced by NELK, celebrating nine years of the crypto casino Stake. For most of the night, it was standard speed dating. Questions about red flags. First dates. Dealbreakers. But one contestant had a different plan. She didn't really want to flirt. She wanted to run a social experiment."},
+    {"id": "A3", "text": "Her name was Lin Lamar. The internet knows her as Pinkchyu. A twenty-three-year-old goth creator from Texas, with over two million followers, and a reputation for making people do strange things on camera. And instead of asking Drake for jewelry, or clout, or a feature, she pulled out a deck of Magic: The Gathering cards. Then she looked him dead in the eyes, and asked him one question."},
+    {"id": "A4", "text": "Would you bark for me? Drake smiled, and said: you can look me dead in my eyes, and if you say do anything, I would. And then he did it. Here's the moment. Complete with a little whimper at the end. Within hours, the clip was everywhere. The internet synced his bark to Kendrick's \"Not Like Us\". The memes wrote themselves. And then, it got bigger."},
+    {"id": "A5", "text": "Because here's the thing. Pinkchyu won the entire show. And when Drake told her to name her prize, she didn't ask for money. She asked him to buy her mother a house. And according to her, he's actually doing it. Two weeks later, he reportedly flew her out to Toronto, and rented Casa Loma. A ninety-eight room gothic castle. For a private sushi dinner. For one night. Look at this place."},
+    {"id": "B1", "text": "And the internet never let it die. A few days later, a photo went viral that appeared to show Drake ... on a leash. It was almost certainly AI-generated, and it did not matter. Over a million people saw it in days, and the memes got a name: Goth's Plan. And the streamers? They reacted exactly how you'd expect."},
+    {"id": "B2", "text": "Then came the plot twist. Here she is, telling TMZ what happened next. Another massive musician, a household name she refuses to reveal, sent her an audio recording ... of him barking. In her DMs. She didn't respond. She said she didn't know what to say. One question on a livestream, and now celebrities are barking for her attention."},
+    {"id": "A6", "text": "A goth girl walked into a speed dating stream with a deck of trading cards, and walked out with a castle date, a house for her mum, and the entire internet saying the same thing. In 2026, Drake didn't lose a rap battle. He lost something else entirely. Nobody saw this coming. Subscribe, because next week's story is even stranger."}
+  ],
+  "people": [
+    {"key": "drake", "img": "assets/src/drake.jpg", "name": "DRAKE", "sub": "THE BIGGEST RAPPER ALIVE · STAKE 9TH ANNIVERSARY", "accent": [232, 34, 46, 255]},
+    {"key": "pink", "img": "assets/src/pinkchyu.jpg", "name": "PINKCHYU", "sub": "LIN LAMAR · 23 · GOTH CREATOR · 2M+ FOLLOWERS", "accent": [200, 60, 220, 255]}
+  ],
+  "glows": [
+    {"text": "DRAKE", "px": 200, "glow": [232, 34, 46, 150]},
+    {"text": "\"WOULD YOU BARK?\"", "px": 110, "glow": [120, 220, 255, 140]},
+    {"text": "GOTH'S PLAN", "px": 130, "glow": [232, 34, 46, 160]}
+  ],
+  "tweet": {
+    "name": "ryan", "handle": "@scubaryan_",
+    "body": "Drake instantly folded and started barking after this goth baddie told him to",
+    "meta": "9:12 PM · Aug 8, 2026", "likes": "4.1M", "avatar": "assets/src/pinkchyu.jpg"
+  },
+  "stats": [
+    {"big": "1M+", "label": "VIEWS IN HOURS"},
+    {"big": "98", "label": "ROOMS · CASA LOMA"}
+  ],
+  "beats": [
+    {"block": "A1", "asset": "cfg_circle_drake.png", "at": 0.3, "until": "end-0.4", "anim": "drift", "w": 500, "x": 700, "y": 150},
+    {"block": "A1", "asset": "cfg_glow_0.png", "at": 1.333, "until": "end-0.4", "anim": "slideL", "w": 560, "x": 120, "y": 250, "impact": true},
+    {"block": "A1", "asset": "cfg_lt_drake.png", "at": 2.6, "until": "end-1", "anim": "slideL", "w": 760, "x": 46, "y": 468},
+    {"block": "A1", "asset": "cfg_stat_0.png", "at": 8.0, "until": 9.6, "anim": "pop", "w": 260, "x": 510, "y": 300, "impact": true},
+    {"block": "A2", "asset": "card_20v1.png", "at": 0.5, "until": "end-0.4", "anim": "slam", "w": 1000, "x": 140, "y": 180, "impact": true},
+    {"block": "A2", "asset": "cfg_circle_drake.png", "at": 2.2, "until": "end-0.4", "anim": "slideL", "w": 320, "x": 850, "y": 390},
+    {"block": "A3", "asset": "cfg_circle_pink.png", "at": 0.3, "until": "end-0.4", "anim": "slideL", "w": 470, "x": 110, "y": 140, "impact": true},
+    {"block": "A3", "asset": "cfg_lt_pink.png", "at": 1.2, "until": "end-1", "anim": "slideL", "w": 760, "x": 46, "y": 468},
+    {"block": "A3", "asset": "card_mtg.png", "at": "end-7", "until": "end-0.4", "anim": "slideR", "w": 780, "x": 240, "y": 540},
+    {"block": "A4", "asset": "cfg_glow_1.png", "at": 0.333, "until": 8.5, "anim": "slideR", "w": 880, "x": 140, "y": 120, "impact": true},
+    {"block": "A4", "asset": "card_arf.png", "at": 9.0, "until": 15.0, "anim": "rise", "w": 700, "x": 290, "y": 260, "impact": true},
+    {"block": "A4", "asset": "card_nlu.png", "at": 15.0, "until": 17.5, "anim": "slideR", "w": 760, "x": 200, "y": 170},
+    {"block": "A4", "asset": "cfg_tweet.png", "at": "end-9", "until": "end-3", "anim": "rise", "w": 500, "x": 392, "y": 240, "impact": true, "reveal": true},
+    {"block": "A5", "asset": "card_house.png", "at": 1.2, "until": "end-11", "anim": "slam", "w": 640, "x": 320, "y": 240, "impact": true},
+    {"block": "A5", "asset": "cfg_stat_1.png", "at": "end-10", "until": "end-6", "anim": "pop", "w": 300, "x": 500, "y": 180},
+    {"block": "A5", "asset": "casa_card.png", "at": "end-7", "until": "end-0.4", "anim": "rise", "w": 560, "x": 350, "y": 60, "impact": true},
+    {"block": "B1", "asset": "card_leash.png", "at": 0.5, "until": "end-12", "anim": "slam", "w": 880, "x": 200, "y": 250, "impact": true},
+    {"block": "B1", "asset": "cfg_glow_2.png", "at": "end-12", "until": "end-5", "anim": "slideR", "w": 820, "x": 190, "y": 240},
+    {"block": "B2", "asset": "card_dm.png", "at": 0.5, "until": "end-6", "anim": "slideR", "w": 940, "x": 150, "y": 280, "impact": true},
+    {"block": "B2", "asset": "cfg_circle_pink.png", "at": 1.2, "until": "end-6", "anim": "slideL", "w": 330, "x": 830, "y": 400},
+    {"block": "A6", "asset": "card_arf.png", "at": 0.3, "until": 6, "anim": "drift", "w": 600, "x": 340, "y": 220}
+  ],
+  "clips": [
+    {"file": "enews.mp4", "cut": 26.0, "dur": 5.0, "block": "A1", "at": "end-5", "vol": 0.95, "w": 860, "y": 80},
+    {"file": "bark.mp4", "cut": 5.5, "dur": 6.5, "block": "A4", "at": 18.3, "vol": 1.4, "w": 940, "y": 86},
+    {"file": "casaloma.mp4", "cut": 0.5, "dur": 7.0, "block": "A5", "at": "end-7", "vol": 0.75, "w": 920, "y": 55},
+    {"file": "speed.mp4", "cut": 27.0, "dur": 5.0, "block": "B1", "at": "end-5", "vol": 0.85, "w": 820, "y": 85},
+    {"file": "tmz.mp4", "cut": 3.5, "dur": 6.5, "block": "B2", "at": 3.2, "vol": 1.35, "w": 880, "y": 70}
+  ],
+  "endcard": {"text": "SUBSCRIBE", "glow": [60, 220, 120, 140]}
+}

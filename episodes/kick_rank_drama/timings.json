@@ -1,0 +1,2942 @@
+{
+  "segments": [
+    {
+      "id": "A1",
+      "text": "A Kick streamer says he was banned for playing with his friends. Riot says its crackdown targets rank manipulation. Then a public apology changes the conversation... but not the rules. This is the Trainwrecks and Trick2g dispute, reported this September. And the detail that matters is not who was in the lobby. It is which accounts they were using.",
+      "start": 0,
+      "dur": 23.6,
+      "vo_dur": 23.238684807256234,
+      "words": [
+        {
+          "word": "A",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "word": "Kick",
+          "start": 0.26,
+          "end": 0.5375
+        },
+        {
+          "word": "streamer",
+          "start": 0.5375,
+          "end": 1.0
+        },
+        {
+          "word": "says",
+          "start": 1.0,
+          "end": 1.22
+        },
+        {
+          "word": "he",
+          "start": 1.22,
+          "end": 1.5
+        },
+        {
+          "word": "was",
+          "start": 1.5,
+          "end": 1.62
+        },
+        {
+          "word": "banned",
+          "start": 1.62,
+          "end": 1.86
+        },
+        {
+          "word": "for",
+          "start": 1.86,
+          "end": 2.18
+        },
+        {
+          "word": "playing",
+          "start": 2.18,
+          "end": 2.44
+        },
+        {
+          "word": "with",
+          "start": 2.44,
+          "end": 2.6
+        },
+        {
+          "word": "his",
+          "start": 2.6,
+          "end": 2.74
+        },
+        {
+          "word": "friends.",
+          "start": 2.74,
+          "end": 3.04
+        },
+        {
+          "word": "Riot",
+          "start": 3.96,
+          "end": 4.22
+        },
+        {
+          "word": "says",
+          "start": 4.22,
+          "end": 4.6
+        },
+        {
+          "word": "its",
+          "start": 4.6,
+          "end": 4.86
+        },
+        {
+          "word": "crackdown",
+          "start": 4.86,
+          "end": 5.16
+        },
+        {
+          "word": "targets",
+          "start": 5.16,
+          "end": 5.84
+        },
+        {
+          "word": "rank",
+          "start": 5.84,
+          "end": 6.06
+        },
+        {
+          "word": "manipulation.",
+          "start": 6.06,
+          "end": 6.58
+        },
+        {
+          "word": "Then",
+          "start": 7.6,
+          "end": 7.62
+        },
+        {
+          "word": "a",
+          "start": 7.62,
+          "end": 7.76
+        },
+        {
+          "word": "public",
+          "start": 7.76,
+          "end": 8.0
+        },
+        {
+          "word": "apology",
+          "start": 8.0,
+          "end": 8.28
+        },
+        {
+          "word": "changes",
+          "start": 8.28,
+          "end": 8.94
+        },
+        {
+          "word": "the",
+          "start": 8.94,
+          "end": 9.2
+        },
+        {
+          "word": "conversation...",
+          "start": 9.2,
+          "end": 9.44
+        },
+        {
+          "word": "but",
+          "start": 10.24,
+          "end": 10.36
+        },
+        {
+          "word": "not",
+          "start": 10.36,
+          "end": 10.56
+        },
+        {
+          "word": "the",
+          "start": 10.56,
+          "end": 10.76
+        },
+        {
+          "word": "rules.",
+          "start": 10.76,
+          "end": 10.96
+        },
+        {
+          "word": "This",
+          "start": 11.92,
+          "end": 12.04
+        },
+        {
+          "word": "is",
+          "start": 12.04,
+          "end": 12.42
+        },
+        {
+          "word": "the",
+          "start": 12.42,
+          "end": 12.62
+        },
+        {
+          "word": "Trainwrecks",
+          "start": 12.62,
+          "end": 13.2
+        },
+        {
+          "word": "and",
+          "start": 13.2,
+          "end": 13.32
+        },
+        {
+          "word": "Trick2g",
+          "start": 13.32,
+          "end": 14.44
+        },
+        {
+          "word": "dispute,",
+          "start": 14.44,
+          "end": 14.92
+        },
+        {
+          "word": "reported",
+          "start": 15.36,
+          "end": 15.72
+        },
+        {
+          "word": "this",
+          "start": 15.72,
+          "end": 16.14
+        },
+        {
+          "word": "September.",
+          "start": 16.14,
+          "end": 16.9
+        },
+        {
+          "word": "And",
+          "start": 17.58,
+          "end": 17.72
+        },
+        {
+          "word": "the",
+          "start": 17.72,
+          "end": 17.9
+        },
+        {
+          "word": "detail",
+          "start": 17.9,
+          "end": 18.18
+        },
+        {
+          "word": "that",
+          "start": 18.18,
+          "end": 18.42
+        },
+        {
+          "word": "matters",
+          "start": 18.42,
+          "end": 18.58
+        },
+        {
+          "word": "is",
+          "start": 18.58,
+          "end": 19.04
+        },
+        {
+          "word": "not",
+          "start": 19.04,
+          "end": 19.26
+        },
+        {
+          "word": "who",
+          "start": 19.26,
+          "end": 19.74
+        },
+        {
+          "word": "was",
+          "start": 19.74,
+          "end": 20.0
+        },
+        {
+          "word": "in",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "word": "the",
+          "start": 20.16,
+          "end": 20.28
+        },
+        {
+          "word": "lobby.",
+          "start": 20.28,
+          "end": 20.46
+        },
+        {
+          "word": "It",
+          "start": 20.98,
+          "end": 21.06
+        },
+        {
+          "word": "is",
+          "start": 21.06,
+          "end": 21.18
+        },
+        {
+          "word": "which",
+          "start": 21.18,
+          "end": 21.46
+        },
+        {
+          "word": "accounts",
+          "start": 21.46,
+          "end": 21.98
+        },
+        {
+          "word": "they",
+          "start": 21.98,
+          "end": 22.36
+        },
+        {
+          "word": "were",
+          "start": 22.36,
+          "end": 22.5
+        },
+        {
+          "word": "using.",
+          "start": 22.5,
+          "end": 22.84
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "A2",
+      "text": "First, a distinction: these are League of Legends bans, not Kick bans. Trainwrecks discussed his account on a Kick broadcast. He said he had queued with long-time friends, including Tyler1, Trick2g and Yassuo, then found himself banned with his rank rolled back. To him, the punishment made no sense. His defence was friendship, not a paid service. Listen to his explanation.",
+      "start": 23.6,
+      "dur": 26.566666666666666,
+      "vo_dur": 26.192108843537415,
+      "words": [
+        {
+          "word": "First,",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": "a",
+          "start": 0.7,
+          "end": 0.84
+        },
+        {
+          "word": "distinction:",
+          "start": 0.84,
+          "end": 1.08
+        },
+        {
+          "word": "these",
+          "start": 2.0,
+          "end": 2.02
+        },
+        {
+          "word": "are",
+          "start": 2.02,
+          "end": 2.18
+        },
+        {
+          "word": "League",
+          "start": 2.18,
+          "end": 2.58
+        },
+        {
+          "word": "of",
+          "start": 2.58,
+          "end": 2.86
+        },
+        {
+          "word": "Legends",
+          "start": 2.86,
+          "end": 3.08
+        },
+        {
+          "word": "bans,",
+          "start": 3.08,
+          "end": 3.62
+        },
+        {
+          "word": "not",
+          "start": 4.18,
+          "end": 4.28
+        },
+        {
+          "word": "Kick",
+          "start": 4.28,
+          "end": 4.5
+        },
+        {
+          "word": "bans.",
+          "start": 4.5,
+          "end": 4.84
+        },
+        {
+          "word": "Trainwrecks",
+          "start": 5.54,
+          "end": 6.02
+        },
+        {
+          "word": "discussed",
+          "start": 6.02,
+          "end": 6.2
+        },
+        {
+          "word": "his",
+          "start": 6.2,
+          "end": 6.6
+        },
+        {
+          "word": "account",
+          "start": 6.6,
+          "end": 6.88
+        },
+        {
+          "word": "on",
+          "start": 6.88,
+          "end": 7.34
+        },
+        {
+          "word": "a",
+          "start": 7.34,
+          "end": 7.42
+        },
+        {
+          "word": "Kick",
+          "start": 7.42,
+          "end": 7.62
+        },
+        {
+          "word": "broadcast.",
+          "start": 7.62,
+          "end": 8.12
+        },
+        {
+          "word": "He",
+          "start": 8.92,
+          "end": 9.04
+        },
+        {
+          "word": "said",
+          "start": 9.04,
+          "end": 9.28
+        },
+        {
+          "word": "he",
+          "start": 9.28,
+          "end": 9.5
+        },
+        {
+          "word": "had",
+          "start": 9.5,
+          "end": 9.66
+        },
+        {
+          "word": "queued",
+          "start": 9.66,
+          "end": 10.14
+        },
+        {
+          "word": "with",
+          "start": 10.14,
+          "end": 10.26
+        },
+        {
+          "word": "long-time",
+          "start": 10.26,
+          "end": 10.46
+        },
+        {
+          "word": "friends,",
+          "start": 10.46,
+          "end": 11.1
+        },
+        {
+          "word": "including",
+          "start": 11.54,
+          "end": 11.8
+        },
+        {
+          "word": "Tyler1,",
+          "start": 11.8,
+          "end": 12.72
+        },
+        {
+          "word": "Trick2g",
+          "start": 13.2,
+          "end": 13.92
+        },
+        {
+          "word": "and",
+          "start": 14.3,
+          "end": 14.38
+        },
+        {
+          "word": "Yassuo,",
+          "start": 14.38,
+          "end": 14.78
+        },
+        {
+          "word": "then",
+          "start": 15.38,
+          "end": 15.48
+        },
+        {
+          "word": "found",
+          "start": 15.48,
+          "end": 15.7
+        },
+        {
+          "word": "himself",
+          "start": 15.7,
+          "end": 16.06
+        },
+        {
+          "word": "banned",
+          "start": 16.06,
+          "end": 16.46
+        },
+        {
+          "word": "with",
+          "start": 16.46,
+          "end": 16.8
+        },
+        {
+          "word": "his",
+          "start": 16.8,
+          "end": 16.96
+        },
+        {
+          "word": "rank",
+          "start": 16.96,
+          "end": 17.16
+        },
+        {
+          "word": "rolled",
+          "start": 17.16,
+          "end": 17.48
+        },
+        {
+          "word": "back.",
+          "start": 17.48,
+          "end": 17.82
+        },
+        {
+          "word": "To",
+          "start": 18.36,
+          "end": 18.44
+        },
+        {
+          "word": "him,",
+          "start": 18.44,
+          "end": 18.64
+        },
+        {
+          "word": "the",
+          "start": 18.96,
+          "end": 19.06
+        },
+        {
+          "word": "punishment",
+          "start": 19.06,
+          "end": 19.28
+        },
+        {
+          "word": "made",
+          "start": 19.28,
+          "end": 19.76
+        },
+        {
+          "word": "no",
+          "start": 19.76,
+          "end": 19.98
+        },
+        {
+          "word": "sense.",
+          "start": 19.98,
+          "end": 20.24
+        },
+        {
+          "word": "His",
+          "start": 21.0,
+          "end": 21.1
+        },
+        {
+          "word": "defence",
+          "start": 21.1,
+          "end": 21.38
+        },
+        {
+          "word": "was",
+          "start": 21.38,
+          "end": 21.66
+        },
+        {
+          "word": "friendship,",
+          "start": 21.66,
+          "end": 21.92
+        },
+        {
+          "word": "not",
+          "start": 22.56,
+          "end": 22.86
+        },
+        {
+          "word": "a",
+          "start": 22.86,
+          "end": 23.12
+        },
+        {
+          "word": "paid",
+          "start": 23.12,
+          "end": 23.26
+        },
+        {
+          "word": "service.",
+          "start": 23.26,
+          "end": 23.74
+        },
+        {
+          "word": "Listen",
+          "start": 24.38,
+          "end": 24.6
+        },
+        {
+          "word": "to",
+          "start": 24.6,
+          "end": 24.9
+        },
+        {
+          "word": "his",
+          "start": 24.9,
+          "end": 25.08
+        },
+        {
+          "word": "explanation.",
+          "start": 25.08,
+          "end": 25.4
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "C1",
+      "file": "train.mp4",
+      "cut": 0.25,
+      "dur": 10.4,
+      "speaker": "TRAINWRECKSTV",
+      "source": "X / @TrainUpdates \u2022 original Kick broadcast",
+      "start": 50.16666666666667,
+      "kind": "clip",
+      "words": [
+        {
+          "word": "Guys,",
+          "start": 0.11000000000000054,
+          "end": 0.47
+        },
+        {
+          "word": "they",
+          "start": 0.51,
+          "end": 0.63
+        },
+        {
+          "word": "banned",
+          "start": 0.63,
+          "end": 0.79
+        },
+        {
+          "word": "me",
+          "start": 0.79,
+          "end": 0.95
+        },
+        {
+          "word": "on",
+          "start": 0.95,
+          "end": 1.03
+        },
+        {
+          "word": "League",
+          "start": 1.03,
+          "end": 1.13
+        },
+        {
+          "word": "of",
+          "start": 1.13,
+          "end": 1.25
+        },
+        {
+          "word": "Legends",
+          "start": 1.25,
+          "end": 1.49
+        },
+        {
+          "word": "for",
+          "start": 2.03,
+          "end": 2.23
+        },
+        {
+          "word": "playing",
+          "start": 2.23,
+          "end": 2.41
+        },
+        {
+          "word": "with",
+          "start": 2.41,
+          "end": 2.55
+        },
+        {
+          "word": "Tyler1,",
+          "start": 2.55,
+          "end": 3.29
+        },
+        {
+          "word": "Trick2g,",
+          "start": 3.47,
+          "end": 3.99
+        },
+        {
+          "word": "Yassuo,",
+          "start": 4.27,
+          "end": 4.91
+        },
+        {
+          "word": "and",
+          "start": 4.91,
+          "end": 5.07
+        },
+        {
+          "word": "all",
+          "start": 5.07,
+          "end": 5.17
+        },
+        {
+          "word": "these",
+          "start": 5.17,
+          "end": 5.31
+        },
+        {
+          "word": "guys",
+          "start": 5.31,
+          "end": 5.53
+        },
+        {
+          "word": "on",
+          "start": 5.53,
+          "end": 5.71
+        },
+        {
+          "word": "stream.",
+          "start": 5.71,
+          "end": 5.97
+        },
+        {
+          "word": "I",
+          "start": 6.73,
+          "end": 6.77
+        },
+        {
+          "word": "don't",
+          "start": 6.77,
+          "end": 7.41
+        },
+        {
+          "word": "get",
+          "start": 7.41,
+          "end": 7.57
+        },
+        {
+          "word": "it.",
+          "start": 7.57,
+          "end": 7.71
+        },
+        {
+          "word": "What",
+          "start": 8.81,
+          "end": 9.17
+        },
+        {
+          "word": "do",
+          "start": 9.17,
+          "end": 9.53
+        },
+        {
+          "word": "they",
+          "start": 9.53,
+          "end": 9.61
+        },
+        {
+          "word": "expect",
+          "start": 9.61,
+          "end": 9.81
+        },
+        {
+          "word": "me",
+          "start": 9.81,
+          "end": 9.97
+        },
+        {
+          "word": "to",
+          "start": 9.97,
+          "end": 10.07
+        },
+        {
+          "word": "do?",
+          "start": 10.07,
+          "end": 10.17
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "text": "But this story was already bigger than one streamer. On September seventeenth, Riot announced two hundred and ninety-six thousand, four hundred and sixteen accounts penalised across League and Valorant. That was a running total, not one night's sweep. Riot's message was blunt: boosting, smurfing and hitchhiking were all cheating. The streamers' complaints landed inside that much wider crackdown.",
+      "start": 60.56666666666667,
+      "dur": 23.9,
+      "vo_dur": 23.54503401360544,
+      "words": [
+        {
+          "word": "But",
+          "start": 0.0,
+          "end": 0.18
+        },
+        {
+          "word": "this",
+          "start": 0.18,
+          "end": 0.32
+        },
+        {
+          "word": "story",
+          "start": 0.32,
+          "end": 0.66
+        },
+        {
+          "word": "was",
+          "start": 0.66,
+          "end": 0.9
+        },
+        {
+          "word": "already",
+          "start": 0.9,
+          "end": 1.2
+        },
+        {
+          "word": "bigger",
+          "start": 1.2,
+          "end": 1.54
+        },
+        {
+          "word": "than",
+          "start": 1.54,
+          "end": 1.8
+        },
+        {
+          "word": "one",
+          "start": 1.8,
+          "end": 1.98
+        },
+        {
+          "word": "streamer.",
+          "start": 1.98,
+          "end": 2.52
+        },
+        {
+          "word": "On",
+          "start": 3.12,
+          "end": 3.16
+        },
+        {
+          "word": "September",
+          "start": 3.16,
+          "end": 3.36
+        },
+        {
+          "word": "seventeenth,",
+          "start": 3.36,
+          "end": 4.54
+        },
+        {
+          "word": "Riot",
+          "start": 4.58,
+          "end": 4.78
+        },
+        {
+          "word": "announced",
+          "start": 4.78,
+          "end": 5.08
+        },
+        {
+          "word": "two",
+          "start": 5.08,
+          "end": 5.209577464788732
+        },
+        {
+          "word": "hundred",
+          "start": 5.209577464788732,
+          "end": 5.442816901408451
+        },
+        {
+          "word": "and",
+          "start": 5.442816901408451,
+          "end": 5.572394366197183
+        },
+        {
+          "word": "ninety-six",
+          "start": 5.572394366197183,
+          "end": 5.88338028169014
+        },
+        {
+          "word": "thousand,",
+          "start": 5.88338028169014,
+          "end": 6.168450704225352
+        },
+        {
+          "word": "four",
+          "start": 6.168450704225352,
+          "end": 6.323943661971831
+        },
+        {
+          "word": "hundred",
+          "start": 6.323943661971831,
+          "end": 6.557183098591549
+        },
+        {
+          "word": "and",
+          "start": 6.557183098591549,
+          "end": 6.686760563380282
+        },
+        {
+          "word": "sixteen",
+          "start": 6.686760563380282,
+          "end": 6.92
+        },
+        {
+          "word": "accounts",
+          "start": 6.92,
+          "end": 8.68
+        },
+        {
+          "word": "penalised",
+          "start": 8.68,
+          "end": 9.46
+        },
+        {
+          "word": "across",
+          "start": 9.46,
+          "end": 9.7
+        },
+        {
+          "word": "League",
+          "start": 9.7,
+          "end": 9.98
+        },
+        {
+          "word": "and",
+          "start": 9.98,
+          "end": 10.22
+        },
+        {
+          "word": "Valorant.",
+          "start": 10.22,
+          "end": 10.6
+        },
+        {
+          "word": "That",
+          "start": 11.06,
+          "end": 11.18
+        },
+        {
+          "word": "was",
+          "start": 11.18,
+          "end": 11.3
+        },
+        {
+          "word": "a",
+          "start": 11.3,
+          "end": 11.42
+        },
+        {
+          "word": "running",
+          "start": 11.42,
+          "end": 11.64
+        },
+        {
+          "word": "total,",
+          "start": 11.64,
+          "end": 11.92
+        },
+        {
+          "word": "not",
+          "start": 12.5,
+          "end": 12.74
+        },
+        {
+          "word": "one",
+          "start": 12.74,
+          "end": 12.92
+        },
+        {
+          "word": "night's",
+          "start": 12.92,
+          "end": 13.14
+        },
+        {
+          "word": "sweep.",
+          "start": 13.14,
+          "end": 13.42
+        },
+        {
+          "word": "Riot's",
+          "start": 14.04,
+          "end": 14.42
+        },
+        {
+          "word": "message",
+          "start": 14.42,
+          "end": 14.68
+        },
+        {
+          "word": "was",
+          "start": 14.68,
+          "end": 14.96
+        },
+        {
+          "word": "blunt:",
+          "start": 14.96,
+          "end": 15.26
+        },
+        {
+          "word": "boosting,",
+          "start": 16.26,
+          "end": 16.5
+        },
+        {
+          "word": "smurfing",
+          "start": 16.66,
+          "end": 17.1
+        },
+        {
+          "word": "and",
+          "start": 17.1,
+          "end": 17.32
+        },
+        {
+          "word": "hitchhiking",
+          "start": 17.32,
+          "end": 17.9
+        },
+        {
+          "word": "were",
+          "start": 17.9,
+          "end": 18.24
+        },
+        {
+          "word": "all",
+          "start": 18.24,
+          "end": 18.54
+        },
+        {
+          "word": "cheating.",
+          "start": 18.54,
+          "end": 18.9
+        },
+        {
+          "word": "The",
+          "start": 19.8,
+          "end": 19.86
+        },
+        {
+          "word": "streamers'",
+          "start": 19.86,
+          "end": 20.28
+        },
+        {
+          "word": "complaints",
+          "start": 20.4,
+          "end": 20.52
+        },
+        {
+          "word": "landed",
+          "start": 20.52,
+          "end": 21.08
+        },
+        {
+          "word": "inside",
+          "start": 21.08,
+          "end": 21.42
+        },
+        {
+          "word": "that",
+          "start": 21.42,
+          "end": 21.92
+        },
+        {
+          "word": "much",
+          "start": 21.92,
+          "end": 22.16
+        },
+        {
+          "word": "wider",
+          "start": 22.16,
+          "end": 22.56
+        },
+        {
+          "word": "crackdown.",
+          "start": 22.56,
+          "end": 22.92
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "A4",
+      "text": "Then Trick2g appealed publicly. He said a friend had placed too low in Flex to queue with the group. So some players switched accounts, returning to their mains when the ranks allowed it. He denied that they were boosting. That distinction became the entire argument: changing accounts to play together, versus changing the competitive conditions. Here is how he described it.",
+      "start": 84.46666666666667,
+      "dur": 22.266666666666666,
+      "vo_dur": 21.884807256235828,
+      "words": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "Trick2g",
+          "start": 0.56,
+          "end": 1.2
+        },
+        {
+          "word": "appealed",
+          "start": 1.2,
+          "end": 1.48
+        },
+        {
+          "word": "publicly.",
+          "start": 1.48,
+          "end": 2.06
+        },
+        {
+          "word": "He",
+          "start": 2.84,
+          "end": 2.86
+        },
+        {
+          "word": "said",
+          "start": 2.86,
+          "end": 3.04
+        },
+        {
+          "word": "a",
+          "start": 3.04,
+          "end": 3.1
+        },
+        {
+          "word": "friend",
+          "start": 3.1,
+          "end": 3.34
+        },
+        {
+          "word": "had",
+          "start": 3.34,
+          "end": 3.54
+        },
+        {
+          "word": "placed",
+          "start": 3.54,
+          "end": 3.74
+        },
+        {
+          "word": "too",
+          "start": 3.74,
+          "end": 4.04
+        },
+        {
+          "word": "low",
+          "start": 4.04,
+          "end": 4.28
+        },
+        {
+          "word": "in",
+          "start": 4.28,
+          "end": 4.42
+        },
+        {
+          "word": "Flex",
+          "start": 4.42,
+          "end": 4.62
+        },
+        {
+          "word": "to",
+          "start": 4.62,
+          "end": 4.94
+        },
+        {
+          "word": "queue",
+          "start": 4.94,
+          "end": 5.1
+        },
+        {
+          "word": "with",
+          "start": 5.1,
+          "end": 5.34
+        },
+        {
+          "word": "the",
+          "start": 5.34,
+          "end": 5.42
+        },
+        {
+          "word": "group.",
+          "start": 5.42,
+          "end": 5.62
+        },
+        {
+          "word": "So",
+          "start": 6.14,
+          "end": 6.24
+        },
+        {
+          "word": "some",
+          "start": 6.24,
+          "end": 6.48
+        },
+        {
+          "word": "players",
+          "start": 6.48,
+          "end": 6.78
+        },
+        {
+          "word": "switched",
+          "start": 6.78,
+          "end": 7.08
+        },
+        {
+          "word": "accounts,",
+          "start": 7.08,
+          "end": 7.44
+        },
+        {
+          "word": "returning",
+          "start": 7.94,
+          "end": 8.24
+        },
+        {
+          "word": "to",
+          "start": 8.24,
+          "end": 8.5
+        },
+        {
+          "word": "their",
+          "start": 8.5,
+          "end": 8.64
+        },
+        {
+          "word": "mains",
+          "start": 8.64,
+          "end": 8.86
+        },
+        {
+          "word": "when",
+          "start": 8.86,
+          "end": 9.16
+        },
+        {
+          "word": "the",
+          "start": 9.16,
+          "end": 9.28
+        },
+        {
+          "word": "ranks",
+          "start": 9.28,
+          "end": 9.44
+        },
+        {
+          "word": "allowed",
+          "start": 9.44,
+          "end": 9.74
+        },
+        {
+          "word": "it.",
+          "start": 9.74,
+          "end": 10.0
+        },
+        {
+          "word": "He",
+          "start": 10.46,
+          "end": 10.56
+        },
+        {
+          "word": "denied",
+          "start": 10.56,
+          "end": 10.74
+        },
+        {
+          "word": "that",
+          "start": 10.74,
+          "end": 11.2
+        },
+        {
+          "word": "they",
+          "start": 11.2,
+          "end": 11.32
+        },
+        {
+          "word": "were",
+          "start": 11.32,
+          "end": 11.44
+        },
+        {
+          "word": "boosting.",
+          "start": 11.44,
+          "end": 11.8
+        },
+        {
+          "word": "That",
+          "start": 12.34,
+          "end": 12.48
+        },
+        {
+          "word": "distinction",
+          "start": 12.48,
+          "end": 12.86
+        },
+        {
+          "word": "became",
+          "start": 12.86,
+          "end": 13.26
+        },
+        {
+          "word": "the",
+          "start": 13.26,
+          "end": 13.6
+        },
+        {
+          "word": "entire",
+          "start": 13.6,
+          "end": 13.8
+        },
+        {
+          "word": "argument:",
+          "start": 13.8,
+          "end": 14.52
+        },
+        {
+          "word": "changing",
+          "start": 15.24,
+          "end": 15.44
+        },
+        {
+          "word": "accounts",
+          "start": 15.44,
+          "end": 15.76
+        },
+        {
+          "word": "to",
+          "start": 15.76,
+          "end": 16.12
+        },
+        {
+          "word": "play",
+          "start": 16.12,
+          "end": 16.28
+        },
+        {
+          "word": "together,",
+          "start": 16.28,
+          "end": 16.72
+        },
+        {
+          "word": "versus",
+          "start": 16.72,
+          "end": 17.36
+        },
+        {
+          "word": "changing",
+          "start": 17.36,
+          "end": 17.98
+        },
+        {
+          "word": "the",
+          "start": 17.98,
+          "end": 18.16
+        },
+        {
+          "word": "competitive",
+          "start": 18.16,
+          "end": 18.58
+        },
+        {
+          "word": "conditions.",
+          "start": 18.58,
+          "end": 19.0
+        },
+        {
+          "word": "Here",
+          "start": 19.96,
+          "end": 20.08
+        },
+        {
+          "word": "is",
+          "start": 20.08,
+          "end": 20.56
+        },
+        {
+          "word": "how",
+          "start": 20.56,
+          "end": 20.76
+        },
+        {
+          "word": "he",
+          "start": 20.76,
+          "end": 20.94
+        },
+        {
+          "word": "described",
+          "start": 20.94,
+          "end": 21.2
+        },
+        {
+          "word": "it.",
+          "start": 21.2,
+          "end": 21.54
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "C2",
+      "file": "trick.mp4",
+      "cut": 10.65,
+      "dur": 16.766666666666666,
+      "speaker": "TRICK2G",
+      "source": "X / @Trick2g \u2022 public appeal",
+      "start": 106.73333333333333,
+      "kind": "clip",
+      "words": [
+        {
+          "word": "It's",
+          "start": 0.33000000000000007,
+          "end": 0.8019999999999999
+        },
+        {
+          "word": "saying",
+          "start": 0.8019999999999999,
+          "end": 1.2739999999999998
+        },
+        {
+          "word": "that",
+          "start": 1.2739999999999998,
+          "end": 1.7459999999999998
+        },
+        {
+          "word": "we're",
+          "start": 1.7459999999999998,
+          "end": 2.2179999999999995
+        },
+        {
+          "word": "boosting.",
+          "start": 2.2179999999999995,
+          "end": 2.6899999999999995
+        },
+        {
+          "word": "No",
+          "start": 3.2300000000000004,
+          "end": 3.5100000000000002
+        },
+        {
+          "word": "boosting",
+          "start": 3.5100000000000002,
+          "end": 3.79
+        },
+        {
+          "word": "was",
+          "start": 3.79,
+          "end": 4.07
+        },
+        {
+          "word": "happening.",
+          "start": 4.07,
+          "end": 4.35
+        },
+        {
+          "word": "What",
+          "start": 5.6899999999999995,
+          "end": 6.123333333333333
+        },
+        {
+          "word": "happened",
+          "start": 6.123333333333333,
+          "end": 6.556666666666666
+        },
+        {
+          "word": "was",
+          "start": 6.556666666666666,
+          "end": 6.989999999999999
+        },
+        {
+          "word": "somebody",
+          "start": 6.989999999999999,
+          "end": 7.423333333333332
+        },
+        {
+          "word": "who",
+          "start": 7.423333333333332,
+          "end": 7.856666666666666
+        },
+        {
+          "word": "has",
+          "start": 7.856666666666666,
+          "end": 8.29
+        },
+        {
+          "word": "never",
+          "start": 8.29,
+          "end": 8.723333333333333
+        },
+        {
+          "word": "played",
+          "start": 8.723333333333333,
+          "end": 9.156666666666665
+        },
+        {
+          "word": "Flex",
+          "start": 9.156666666666665,
+          "end": 9.589999999999998
+        },
+        {
+          "word": "was",
+          "start": 10.17,
+          "end": 10.436666666666667
+        },
+        {
+          "word": "too",
+          "start": 10.436666666666667,
+          "end": 10.703333333333333
+        },
+        {
+          "word": "low.",
+          "start": 10.703333333333333,
+          "end": 10.97
+        },
+        {
+          "word": "We",
+          "start": 11.249999999999998,
+          "end": 11.405999999999999
+        },
+        {
+          "word": "couldn't",
+          "start": 11.405999999999999,
+          "end": 11.562
+        },
+        {
+          "word": "play",
+          "start": 11.562,
+          "end": 11.717999999999998
+        },
+        {
+          "word": "with",
+          "start": 11.717999999999998,
+          "end": 11.873999999999999
+        },
+        {
+          "word": "him.",
+          "start": 11.873999999999999,
+          "end": 12.03
+        },
+        {
+          "word": "So",
+          "start": 12.19,
+          "end": 12.55
+        },
+        {
+          "word": "me",
+          "start": 12.55,
+          "end": 12.91
+        },
+        {
+          "word": "and",
+          "start": 12.91,
+          "end": 13.27
+        },
+        {
+          "word": "Cookie",
+          "start": 13.27,
+          "end": 13.63
+        },
+        {
+          "word": "and",
+          "start": 14.589999999999998,
+          "end": 14.875714285714285
+        },
+        {
+          "word": "Moe",
+          "start": 14.875714285714285,
+          "end": 15.16142857142857
+        },
+        {
+          "word": "had",
+          "start": 15.16142857142857,
+          "end": 15.447142857142856
+        },
+        {
+          "word": "to",
+          "start": 15.447142857142856,
+          "end": 15.73285714285714
+        },
+        {
+          "word": "switch",
+          "start": 15.73285714285714,
+          "end": 16.018571428571427
+        },
+        {
+          "word": "accounts",
+          "start": 16.018571428571427,
+          "end": 16.30428571428571
+        },
+        {
+          "word": "sometimes.",
+          "start": 16.30428571428571,
+          "end": 16.589999999999996
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "text": "Now look at the detail behind the argument. Reporting identifies that friend as Alicopter, already a Challenger-level player, but placed in Gold in Flex. That supports Trick2g's objection to the idea that they were carrying a beginner. It does not, by itself, settle whether switching accounts broke the rules. A player's skill and an account's current rank are not the same thing.",
+      "start": 123.5,
+      "dur": 25.166666666666668,
+      "vo_dur": 24.787301587301588,
+      "words": [
+        {
+          "word": "Now",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "word": "look",
+          "start": 0.26,
+          "end": 0.5
+        },
+        {
+          "word": "at",
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "word": "the",
+          "start": 0.6,
+          "end": 0.68
+        },
+        {
+          "word": "detail",
+          "start": 0.68,
+          "end": 1.02
+        },
+        {
+          "word": "behind",
+          "start": 1.02,
+          "end": 1.36
+        },
+        {
+          "word": "the",
+          "start": 1.36,
+          "end": 1.66
+        },
+        {
+          "word": "argument.",
+          "start": 1.66,
+          "end": 2.02
+        },
+        {
+          "word": "Reporting",
+          "start": 2.92,
+          "end": 2.92
+        },
+        {
+          "word": "identifies",
+          "start": 2.92,
+          "end": 3.36
+        },
+        {
+          "word": "that",
+          "start": 3.36,
+          "end": 4.0
+        },
+        {
+          "word": "friend",
+          "start": 4.0,
+          "end": 4.32
+        },
+        {
+          "word": "as",
+          "start": 4.32,
+          "end": 5.02
+        },
+        {
+          "word": "Alicopter,",
+          "start": 5.02,
+          "end": 5.88
+        },
+        {
+          "word": "already",
+          "start": 6.48,
+          "end": 6.74
+        },
+        {
+          "word": "a",
+          "start": 6.74,
+          "end": 7.0
+        },
+        {
+          "word": "Challenger-level",
+          "start": 7.0,
+          "end": 7.68
+        },
+        {
+          "word": "player,",
+          "start": 7.68,
+          "end": 8.06
+        },
+        {
+          "word": "but",
+          "start": 8.56,
+          "end": 8.66
+        },
+        {
+          "word": "placed",
+          "start": 8.66,
+          "end": 8.86
+        },
+        {
+          "word": "in",
+          "start": 8.86,
+          "end": 9.16
+        },
+        {
+          "word": "Gold",
+          "start": 9.16,
+          "end": 9.4
+        },
+        {
+          "word": "in",
+          "start": 9.4,
+          "end": 9.76
+        },
+        {
+          "word": "Flex.",
+          "start": 9.76,
+          "end": 9.96
+        },
+        {
+          "word": "That",
+          "start": 10.66,
+          "end": 10.76
+        },
+        {
+          "word": "supports",
+          "start": 10.76,
+          "end": 11.12
+        },
+        {
+          "word": "Trick2g's",
+          "start": 11.12,
+          "end": 12.28
+        },
+        {
+          "word": "objection",
+          "start": 12.28,
+          "end": 12.38
+        },
+        {
+          "word": "to",
+          "start": 12.38,
+          "end": 12.9
+        },
+        {
+          "word": "the",
+          "start": 12.9,
+          "end": 13.0
+        },
+        {
+          "word": "idea",
+          "start": 13.0,
+          "end": 13.3
+        },
+        {
+          "word": "that",
+          "start": 13.3,
+          "end": 13.84
+        },
+        {
+          "word": "they",
+          "start": 13.84,
+          "end": 13.98
+        },
+        {
+          "word": "were",
+          "start": 13.98,
+          "end": 14.1
+        },
+        {
+          "word": "carrying",
+          "start": 14.1,
+          "end": 14.48
+        },
+        {
+          "word": "a",
+          "start": 14.48,
+          "end": 14.76
+        },
+        {
+          "word": "beginner.",
+          "start": 14.76,
+          "end": 15.0
+        },
+        {
+          "word": "It",
+          "start": 15.64,
+          "end": 15.68
+        },
+        {
+          "word": "does",
+          "start": 15.68,
+          "end": 15.84
+        },
+        {
+          "word": "not,",
+          "start": 15.84,
+          "end": 16.12
+        },
+        {
+          "word": "by",
+          "start": 16.52,
+          "end": 16.8
+        },
+        {
+          "word": "itself,",
+          "start": 16.8,
+          "end": 17.2
+        },
+        {
+          "word": "settle",
+          "start": 17.68,
+          "end": 18.02
+        },
+        {
+          "word": "whether",
+          "start": 18.02,
+          "end": 18.36
+        },
+        {
+          "word": "switching",
+          "start": 18.36,
+          "end": 18.68
+        },
+        {
+          "word": "accounts",
+          "start": 18.68,
+          "end": 19.1
+        },
+        {
+          "word": "broke",
+          "start": 19.1,
+          "end": 19.46
+        },
+        {
+          "word": "the",
+          "start": 19.46,
+          "end": 19.66
+        },
+        {
+          "word": "rules.",
+          "start": 19.66,
+          "end": 19.86
+        },
+        {
+          "word": "A",
+          "start": 20.64,
+          "end": 20.72
+        },
+        {
+          "word": "player's",
+          "start": 20.72,
+          "end": 21.08
+        },
+        {
+          "word": "skill",
+          "start": 21.08,
+          "end": 21.32
+        },
+        {
+          "word": "and",
+          "start": 21.32,
+          "end": 21.8
+        },
+        {
+          "word": "an",
+          "start": 21.8,
+          "end": 21.9
+        },
+        {
+          "word": "account's",
+          "start": 21.9,
+          "end": 22.32
+        },
+        {
+          "word": "current",
+          "start": 22.32,
+          "end": 22.6
+        },
+        {
+          "word": "rank",
+          "start": 22.6,
+          "end": 22.86
+        },
+        {
+          "word": "are",
+          "start": 22.86,
+          "end": 23.3
+        },
+        {
+          "word": "not",
+          "start": 23.3,
+          "end": 23.54
+        },
+        {
+          "word": "the",
+          "start": 23.54,
+          "end": 23.94
+        },
+        {
+          "word": "same",
+          "start": 23.94,
+          "end": 24.18
+        },
+        {
+          "word": "thing.",
+          "start": 24.18,
+          "end": 24.46
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "B1",
+      "text": "Riot's Drew Levin initially replied that high-ranked players using alternate accounts to move a friend from Gold towards Emerald was basically the definition of boosting. That was his interpretation of the explanation, not a public release of the full match evidence. The dispute had become a very public argument about what the system was actually punishing.",
+      "start": 148.66666666666666,
+      "dur": 19.733333333333334,
+      "vo_dur": 19.365442176870747,
+      "words": [
+        {
+          "word": "Riot's",
+          "start": 0.0,
+          "end": 0.54
+        },
+        {
+          "word": "Drew",
+          "start": 0.54,
+          "end": 0.72
+        },
+        {
+          "word": "Levin",
+          "start": 0.72,
+          "end": 0.92
+        },
+        {
+          "word": "initially",
+          "start": 0.92,
+          "end": 1.34
+        },
+        {
+          "word": "replied",
+          "start": 1.34,
+          "end": 1.84
+        },
+        {
+          "word": "that",
+          "start": 1.84,
+          "end": 2.36
+        },
+        {
+          "word": "high-ranked",
+          "start": 2.36,
+          "end": 2.9
+        },
+        {
+          "word": "players",
+          "start": 2.9,
+          "end": 3.4
+        },
+        {
+          "word": "using",
+          "start": 3.4,
+          "end": 3.7
+        },
+        {
+          "word": "alternate",
+          "start": 3.7,
+          "end": 4.18
+        },
+        {
+          "word": "accounts",
+          "start": 4.18,
+          "end": 4.56
+        },
+        {
+          "word": "to",
+          "start": 4.56,
+          "end": 4.96
+        },
+        {
+          "word": "move",
+          "start": 4.96,
+          "end": 5.12
+        },
+        {
+          "word": "a",
+          "start": 5.12,
+          "end": 5.24
+        },
+        {
+          "word": "friend",
+          "start": 5.24,
+          "end": 5.52
+        },
+        {
+          "word": "from",
+          "start": 5.52,
+          "end": 5.8
+        },
+        {
+          "word": "Gold",
+          "start": 5.8,
+          "end": 6.08
+        },
+        {
+          "word": "towards",
+          "start": 6.08,
+          "end": 6.46
+        },
+        {
+          "word": "Emerald",
+          "start": 6.46,
+          "end": 6.78
+        },
+        {
+          "word": "was",
+          "start": 6.78,
+          "end": 7.36
+        },
+        {
+          "word": "basically",
+          "start": 7.36,
+          "end": 7.78
+        },
+        {
+          "word": "the",
+          "start": 7.78,
+          "end": 8.06
+        },
+        {
+          "word": "definition",
+          "start": 8.06,
+          "end": 8.44
+        },
+        {
+          "word": "of",
+          "start": 8.44,
+          "end": 8.74
+        },
+        {
+          "word": "boosting.",
+          "start": 8.74,
+          "end": 8.92
+        },
+        {
+          "word": "That",
+          "start": 9.76,
+          "end": 9.86
+        },
+        {
+          "word": "was",
+          "start": 9.86,
+          "end": 10.04
+        },
+        {
+          "word": "his",
+          "start": 10.04,
+          "end": 10.3
+        },
+        {
+          "word": "interpretation",
+          "start": 10.3,
+          "end": 10.74
+        },
+        {
+          "word": "of",
+          "start": 10.74,
+          "end": 11.26
+        },
+        {
+          "word": "the",
+          "start": 11.26,
+          "end": 11.36
+        },
+        {
+          "word": "explanation,",
+          "start": 11.36,
+          "end": 11.64
+        },
+        {
+          "word": "not",
+          "start": 12.28,
+          "end": 12.46
+        },
+        {
+          "word": "a",
+          "start": 12.46,
+          "end": 12.6
+        },
+        {
+          "word": "public",
+          "start": 12.6,
+          "end": 12.88
+        },
+        {
+          "word": "release",
+          "start": 12.88,
+          "end": 13.2
+        },
+        {
+          "word": "of",
+          "start": 13.2,
+          "end": 13.48
+        },
+        {
+          "word": "the",
+          "start": 13.48,
+          "end": 13.58
+        },
+        {
+          "word": "full",
+          "start": 13.58,
+          "end": 13.8
+        },
+        {
+          "word": "match",
+          "start": 13.8,
+          "end": 14.06
+        },
+        {
+          "word": "evidence.",
+          "start": 14.06,
+          "end": 14.42
+        },
+        {
+          "word": "The",
+          "start": 15.24,
+          "end": 15.28
+        },
+        {
+          "word": "dispute",
+          "start": 15.28,
+          "end": 15.56
+        },
+        {
+          "word": "had",
+          "start": 15.56,
+          "end": 15.8
+        },
+        {
+          "word": "become",
+          "start": 15.8,
+          "end": 15.94
+        },
+        {
+          "word": "a",
+          "start": 15.94,
+          "end": 16.18
+        },
+        {
+          "word": "very",
+          "start": 16.18,
+          "end": 16.34
+        },
+        {
+          "word": "public",
+          "start": 16.34,
+          "end": 16.66
+        },
+        {
+          "word": "argument",
+          "start": 16.66,
+          "end": 17.02
+        },
+        {
+          "word": "about",
+          "start": 17.02,
+          "end": 17.46
+        },
+        {
+          "word": "what",
+          "start": 17.46,
+          "end": 17.68
+        },
+        {
+          "word": "the",
+          "start": 17.68,
+          "end": 17.8
+        },
+        {
+          "word": "system",
+          "start": 17.8,
+          "end": 18.04
+        },
+        {
+          "word": "was",
+          "start": 18.04,
+          "end": 18.28
+        },
+        {
+          "word": "actually",
+          "start": 18.28,
+          "end": 18.56
+        },
+        {
+          "word": "punishing.",
+          "start": 18.56,
+          "end": 18.82
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "B2",
+      "text": "Then came the apology. On September eighteenth, Levin called his reply off the cuff and incurious. He said Riot was in direct contact with the group, and admitted its guidance on playing with friends had not been clear enough. But he also said the stance on smurfing and boosting remained unchanged. An apology for the response is not proof that a ban was reversed. The reporting reviewed here does not establish that outcome.",
+      "start": 168.39999999999998,
+      "dur": 26.066666666666666,
+      "vo_dur": 25.71609977324263,
+      "words": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.38
+        },
+        {
+          "word": "came",
+          "start": 0.38,
+          "end": 0.66
+        },
+        {
+          "word": "the",
+          "start": 0.66,
+          "end": 0.86
+        },
+        {
+          "word": "apology.",
+          "start": 0.86,
+          "end": 1.04
+        },
+        {
+          "word": "On",
+          "start": 2.18,
+          "end": 2.24
+        },
+        {
+          "word": "September",
+          "start": 2.24,
+          "end": 2.48
+        },
+        {
+          "word": "eighteenth,",
+          "start": 2.48,
+          "end": 3.5
+        },
+        {
+          "word": "Levin",
+          "start": 3.5,
+          "end": 3.62
+        },
+        {
+          "word": "called",
+          "start": 3.62,
+          "end": 3.96
+        },
+        {
+          "word": "his",
+          "start": 3.96,
+          "end": 4.18
+        },
+        {
+          "word": "reply",
+          "start": 4.18,
+          "end": 4.46
+        },
+        {
+          "word": "off",
+          "start": 4.46,
+          "end": 4.86
+        },
+        {
+          "word": "the",
+          "start": 4.86,
+          "end": 5.02
+        },
+        {
+          "word": "cuff",
+          "start": 5.02,
+          "end": 5.24
+        },
+        {
+          "word": "and",
+          "start": 5.24,
+          "end": 5.58
+        },
+        {
+          "word": "incurious.",
+          "start": 5.58,
+          "end": 6.16
+        },
+        {
+          "word": "He",
+          "start": 6.98,
+          "end": 7.04
+        },
+        {
+          "word": "said",
+          "start": 7.04,
+          "end": 7.24
+        },
+        {
+          "word": "Riot",
+          "start": 7.24,
+          "end": 7.52
+        },
+        {
+          "word": "was",
+          "start": 7.52,
+          "end": 7.88
+        },
+        {
+          "word": "in",
+          "start": 7.88,
+          "end": 8.04
+        },
+        {
+          "word": "direct",
+          "start": 8.04,
+          "end": 8.28
+        },
+        {
+          "word": "contact",
+          "start": 8.28,
+          "end": 8.78
+        },
+        {
+          "word": "with",
+          "start": 8.78,
+          "end": 9.12
+        },
+        {
+          "word": "the",
+          "start": 9.12,
+          "end": 9.22
+        },
+        {
+          "word": "group,",
+          "start": 9.22,
+          "end": 9.44
+        },
+        {
+          "word": "and",
+          "start": 10.0,
+          "end": 10.12
+        },
+        {
+          "word": "admitted",
+          "start": 10.12,
+          "end": 10.4
+        },
+        {
+          "word": "its",
+          "start": 10.4,
+          "end": 10.74
+        },
+        {
+          "word": "guidance",
+          "start": 10.74,
+          "end": 10.96
+        },
+        {
+          "word": "on",
+          "start": 10.96,
+          "end": 11.32
+        },
+        {
+          "word": "playing",
+          "start": 11.32,
+          "end": 11.56
+        },
+        {
+          "word": "with",
+          "start": 11.56,
+          "end": 11.76
+        },
+        {
+          "word": "friends",
+          "start": 11.76,
+          "end": 12.06
+        },
+        {
+          "word": "had",
+          "start": 12.06,
+          "end": 12.34
+        },
+        {
+          "word": "not",
+          "start": 12.34,
+          "end": 12.54
+        },
+        {
+          "word": "been",
+          "start": 12.54,
+          "end": 12.72
+        },
+        {
+          "word": "clear",
+          "start": 12.72,
+          "end": 12.98
+        },
+        {
+          "word": "enough.",
+          "start": 12.98,
+          "end": 13.3
+        },
+        {
+          "word": "But",
+          "start": 13.86,
+          "end": 13.9
+        },
+        {
+          "word": "he",
+          "start": 13.9,
+          "end": 14.0
+        },
+        {
+          "word": "also",
+          "start": 14.0,
+          "end": 14.16
+        },
+        {
+          "word": "said",
+          "start": 14.16,
+          "end": 14.64
+        },
+        {
+          "word": "the",
+          "start": 14.64,
+          "end": 14.8
+        },
+        {
+          "word": "stance",
+          "start": 14.8,
+          "end": 14.98
+        },
+        {
+          "word": "on",
+          "start": 14.98,
+          "end": 15.32
+        },
+        {
+          "word": "smurfing",
+          "start": 15.32,
+          "end": 15.78
+        },
+        {
+          "word": "and",
+          "start": 15.78,
+          "end": 15.94
+        },
+        {
+          "word": "boosting",
+          "start": 15.94,
+          "end": 16.14
+        },
+        {
+          "word": "remained",
+          "start": 16.14,
+          "end": 16.74
+        },
+        {
+          "word": "unchanged.",
+          "start": 16.74,
+          "end": 17.2
+        },
+        {
+          "word": "An",
+          "start": 18.24,
+          "end": 18.26
+        },
+        {
+          "word": "apology",
+          "start": 18.26,
+          "end": 18.52
+        },
+        {
+          "word": "for",
+          "start": 18.52,
+          "end": 18.92
+        },
+        {
+          "word": "the",
+          "start": 18.92,
+          "end": 19.0
+        },
+        {
+          "word": "response",
+          "start": 19.0,
+          "end": 19.28
+        },
+        {
+          "word": "is",
+          "start": 19.28,
+          "end": 19.94
+        },
+        {
+          "word": "not",
+          "start": 19.94,
+          "end": 20.14
+        },
+        {
+          "word": "proof",
+          "start": 20.14,
+          "end": 20.44
+        },
+        {
+          "word": "that",
+          "start": 20.44,
+          "end": 20.76
+        },
+        {
+          "word": "a",
+          "start": 20.76,
+          "end": 20.8
+        },
+        {
+          "word": "ban",
+          "start": 20.8,
+          "end": 21.02
+        },
+        {
+          "word": "was",
+          "start": 21.02,
+          "end": 21.26
+        },
+        {
+          "word": "reversed.",
+          "start": 21.26,
+          "end": 21.5
+        },
+        {
+          "word": "The",
+          "start": 22.4,
+          "end": 22.44
+        },
+        {
+          "word": "reporting",
+          "start": 22.44,
+          "end": 22.68
+        },
+        {
+          "word": "reviewed",
+          "start": 22.68,
+          "end": 23.12
+        },
+        {
+          "word": "here",
+          "start": 23.12,
+          "end": 23.6
+        },
+        {
+          "word": "does",
+          "start": 23.6,
+          "end": 23.96
+        },
+        {
+          "word": "not",
+          "start": 23.96,
+          "end": 24.18
+        },
+        {
+          "word": "establish",
+          "start": 24.18,
+          "end": 24.72
+        },
+        {
+          "word": "that",
+          "start": 24.72,
+          "end": 24.96
+        },
+        {
+          "word": "outcome.",
+          "start": 24.96,
+          "end": 25.34
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "A6",
+      "text": "So the payoff is not that friendship became illegal, or that Riot admitted every ban was wrong. It is that a simple complaint exposed a complicated boundary: who you queue with, which account they use, and what the rules actually permit. Trainwrecks asked why he could not play with friends. Riot promised clearer guidance. Whether that resolves the dispute remains open. Subscribe for the next verified update.",
+      "start": 194.46666666666664,
+      "dur": 24.033333333333335,
+      "vo_dur": 23.672743764172335,
+      "words": [
+        {
+          "word": "So",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "the",
+          "start": 0.2,
+          "end": 0.3
+        },
+        {
+          "word": "payoff",
+          "start": 0.3,
+          "end": 0.56
+        },
+        {
+          "word": "is",
+          "start": 0.56,
+          "end": 0.84
+        },
+        {
+          "word": "not",
+          "start": 0.84,
+          "end": 1.0
+        },
+        {
+          "word": "that",
+          "start": 1.0,
+          "end": 1.18
+        },
+        {
+          "word": "friendship",
+          "start": 1.18,
+          "end": 1.5
+        },
+        {
+          "word": "became",
+          "start": 1.5,
+          "end": 1.9
+        },
+        {
+          "word": "illegal,",
+          "start": 1.9,
+          "end": 2.18
+        },
+        {
+          "word": "or",
+          "start": 2.96,
+          "end": 3.02
+        },
+        {
+          "word": "that",
+          "start": 3.02,
+          "end": 3.24
+        },
+        {
+          "word": "Riot",
+          "start": 3.24,
+          "end": 3.46
+        },
+        {
+          "word": "admitted",
+          "start": 3.46,
+          "end": 3.84
+        },
+        {
+          "word": "every",
+          "start": 3.84,
+          "end": 4.22
+        },
+        {
+          "word": "ban",
+          "start": 4.22,
+          "end": 4.54
+        },
+        {
+          "word": "was",
+          "start": 4.54,
+          "end": 4.74
+        },
+        {
+          "word": "wrong.",
+          "start": 4.74,
+          "end": 5.02
+        },
+        {
+          "word": "It",
+          "start": 5.46,
+          "end": 5.54
+        },
+        {
+          "word": "is",
+          "start": 5.54,
+          "end": 5.64
+        },
+        {
+          "word": "that",
+          "start": 5.64,
+          "end": 5.78
+        },
+        {
+          "word": "a",
+          "start": 5.78,
+          "end": 5.84
+        },
+        {
+          "word": "simple",
+          "start": 5.84,
+          "end": 6.14
+        },
+        {
+          "word": "complaint",
+          "start": 6.14,
+          "end": 6.66
+        },
+        {
+          "word": "exposed",
+          "start": 6.66,
+          "end": 7.06
+        },
+        {
+          "word": "a",
+          "start": 7.06,
+          "end": 7.32
+        },
+        {
+          "word": "complicated",
+          "start": 7.32,
+          "end": 7.74
+        },
+        {
+          "word": "boundary:",
+          "start": 7.74,
+          "end": 8.24
+        },
+        {
+          "word": "who",
+          "start": 8.96,
+          "end": 9.08
+        },
+        {
+          "word": "you",
+          "start": 9.08,
+          "end": 9.26
+        },
+        {
+          "word": "queue",
+          "start": 9.26,
+          "end": 9.5
+        },
+        {
+          "word": "with,",
+          "start": 9.5,
+          "end": 9.76
+        },
+        {
+          "word": "which",
+          "start": 10.1,
+          "end": 10.32
+        },
+        {
+          "word": "account",
+          "start": 10.32,
+          "end": 10.62
+        },
+        {
+          "word": "they",
+          "start": 10.62,
+          "end": 10.84
+        },
+        {
+          "word": "use,",
+          "start": 10.84,
+          "end": 11.18
+        },
+        {
+          "word": "and",
+          "start": 11.62,
+          "end": 11.76
+        },
+        {
+          "word": "what",
+          "start": 11.76,
+          "end": 11.92
+        },
+        {
+          "word": "the",
+          "start": 11.92,
+          "end": 12.08
+        },
+        {
+          "word": "rules",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "word": "actually",
+          "start": 12.24,
+          "end": 12.68
+        },
+        {
+          "word": "permit.",
+          "start": 12.68,
+          "end": 13.08
+        },
+        {
+          "word": "Trainwrecks",
+          "start": 13.92,
+          "end": 14.24
+        },
+        {
+          "word": "asked",
+          "start": 14.24,
+          "end": 14.4
+        },
+        {
+          "word": "why",
+          "start": 14.4,
+          "end": 14.74
+        },
+        {
+          "word": "he",
+          "start": 14.74,
+          "end": 14.92
+        },
+        {
+          "word": "could",
+          "start": 14.92,
+          "end": 15.06
+        },
+        {
+          "word": "not",
+          "start": 15.06,
+          "end": 15.24
+        },
+        {
+          "word": "play",
+          "start": 15.24,
+          "end": 15.46
+        },
+        {
+          "word": "with",
+          "start": 15.46,
+          "end": 15.62
+        },
+        {
+          "word": "friends.",
+          "start": 15.62,
+          "end": 15.86
+        },
+        {
+          "word": "Riot",
+          "start": 16.74,
+          "end": 16.74
+        },
+        {
+          "word": "promised",
+          "start": 16.74,
+          "end": 17.12
+        },
+        {
+          "word": "clearer",
+          "start": 17.12,
+          "end": 17.54
+        },
+        {
+          "word": "guidance.",
+          "start": 17.54,
+          "end": 17.94
+        },
+        {
+          "word": "Whether",
+          "start": 18.52,
+          "end": 18.74
+        },
+        {
+          "word": "that",
+          "start": 18.74,
+          "end": 19.02
+        },
+        {
+          "word": "resolves",
+          "start": 19.02,
+          "end": 19.3
+        },
+        {
+          "word": "the",
+          "start": 19.3,
+          "end": 19.62
+        },
+        {
+          "word": "dispute",
+          "start": 19.62,
+          "end": 19.92
+        },
+        {
+          "word": "remains",
+          "start": 19.92,
+          "end": 20.46
+        },
+        {
+          "word": "open.",
+          "start": 20.46,
+          "end": 20.86
+        },
+        {
+          "word": "Subscribe",
+          "start": 21.64,
+          "end": 21.64
+        },
+        {
+          "word": "for",
+          "start": 21.64,
+          "end": 22.1
+        },
+        {
+          "word": "the",
+          "start": 22.1,
+          "end": 22.2
+        },
+        {
+          "word": "next",
+          "start": 22.2,
+          "end": 22.46
+        },
+        {
+          "word": "verified",
+          "start": 22.46,
+          "end": 22.68
+        },
+        {
+          "word": "update.",
+          "start": 22.68,
+          "end": 23.3
+        }
+      ],
+      "kind": "narration"
+    },
+    {
+      "id": "END",
+      "kind": "end",
+      "start": 218.49999999999997,
+      "dur": 2.5,
+      "words": []
+    }
+  ],
+  "total": 220.99999999999997,
+  "fps": 30
+}

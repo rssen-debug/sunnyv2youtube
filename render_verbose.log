@@ -1,0 +1,52 @@
+/usr/local/bin/ffmpeg
+EPISODE: drake x goth girl (FULL 3min)
+timeline: {'A1': 0.0, 'A2': 14.6, 'A3': 39.8, 'A4': 64.1, 'A5': 88.5, 'B1': 114.0, 'B2': 136.3, 'A6': 159.7} | total 184.0 s
+glow_title: cfg_glow_0.png
+glow_title: cfg_glow_1.png
+glow_title: cfg_glow_2.png
+lower_third: cfg_lt_drake.png
+lower_third: cfg_lt_pink.png
+tweet_ui: cfg_tweet.png 940x466
+stat_card: cfg_stat_0.png
+stat_card: cfg_stat_1.png
+circle_portrait: cfg_circle_drake.png
+circle_portrait: cfg_circle_pink.png
+captions: 166 events
+glow_title: cfg_endcard.png
+renderar 184.0 s -> drake_v4_full.mp4
+btitles_283 @ 0x7f7a0fb59780] fontselect: (Archivo Black, 700, 0) -> /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf, 0, DejaVuSans-Bold
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:8.000000 t:0.185760 pts:8192.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:9.000000 t:0.208980 pts:9216.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:10.000000 t:0.232200 pts:10240.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:11.000000 t:0.255420 pts:11264.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:12.000000 t:0.278639 pts:12288.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:13.000000 t:0.301859 pts:13312.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:14.000000 t:0.325079 pts:14336.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:15.000000 t:0.348299 pts:15360.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:16.000000 t:0.371519 pts:16384.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:17.000000 t:0.394739 pts:17408.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:18.000000 t:0.417959 pts:18432.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:19.000000 t:0.441179 pts:19456.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:20.000000 t:0.464399 pts:20480.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:21.000000 t:0.487619 pts:21504.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:22.000000 t:0.510839 pts:22528.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:23.000000 t:0.534059 pts:23552.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:24.000000 t:0.557279 pts:24576.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:25.000000 t:0.580499 pts:25600.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:26.000000 t:0.603719 pts:26624.000000 precision:float frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+[Parsed_volume_198 @ 0x7f7a0f924a80] volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:27.000000 t:0.626939 pts:27648.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:28.000000 t:0.650159 pts:28672.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:29.000000 t:0.673379 pts:29696.000000 precision:float volume:0.320000 volume_dB:-9.897000
+[Parsed_volume_198 @ 0x7f7a0f924a80] n:30.000000 t:0.696599 pts:30720.000000 precision:float volume:0.320000 volume_dB:-9.897000
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+

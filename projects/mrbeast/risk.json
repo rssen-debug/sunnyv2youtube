@@ -6,6 +6,26 @@
    "severity": "medium",
    "type": "copyright_review",
    "detail": "5 assets kräver licensbeslut (fair use)"
+  },
+  {
+   "severity": "medium",
+   "type": "copyright_fairuse",
+   "detail": "assets/clips/mrbeast_clip1.mp4 — YouTube-material; transformation krävs för reused-content-policy"
+  },
+  {
+   "severity": "medium",
+   "type": "copyright_fairuse",
+   "detail": "assets/clips/mrbeast_clip1.mp4 — YouTube-material; transformation krävs för reused-content-policy"
+  },
+  {
+   "severity": "medium",
+   "type": "copyright_fairuse",
+   "detail": "assets/clips/mrbeast_clip3.mp4 — YouTube-material; transformation krävs för reused-content-policy"
+  },
+  {
+   "severity": "medium",
+   "type": "reused_content",
+   "detail": "3 klipp från YouTube — risk för reused-content-strike om inte transformativt"
   }
  ]
 }

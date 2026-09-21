@@ -1,6 +1,6 @@
 {
  "title": "The Story of MrBeast",
- "title_candidates": [
+ "candidates": [
   {
    "title": "How MrBeast Took Over the Internet",
    "type": "Curiosity",
@@ -87,16 +87,5 @@
    ]
   }
  ],
- "thumbnail": "projects/mrbeast/thumbnail.jpg",
- "video": "videos2026/mrbeast_sunnyv2_v1_2026-09-21.mp4",
- "description": "How MrBeast Took Over the Internet. A fast-paced internet documentary about MrBeast. Research-backed, citing public sources. Hook: Everyone knows MrBeast. Or thinks they do. But the real story? It's stranger than anything you've seen on your feed. Stick with me.",
- "tags": [
-  "mrbeast",
-  "mrbeast",
-  "james stephen",
-  "jimmy",
-  "donaldson",
-  "mrbeast"
- ],
- "language": "en"
+ "chosen": "The Story of MrBeast"
 }

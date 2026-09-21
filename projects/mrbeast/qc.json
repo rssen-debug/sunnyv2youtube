@@ -2,8 +2,17 @@
  "pass": true,
  "issues": [],
  "measurements": {
-  "verify": "fil: /home/user/sunnyv2youtube/videos2026/mrbeast_sunnyv2_v1_2026-09-20.mp4 | duration: 94.3s\n\n--- MÄTVARDEN ---\nactivity median: 1.286 (krav > 0.25)\nljud-höjdpunkter: 11 (krav >= 3)\naudio RMS median: 0.072\n\n--- RESULTAT ---\nPASS ✅  (alla TVÅNGSKRAV som är mätbara är uppfyllda — gör även manuellt QA-sheet-byte!)",
-  "verify_pass": true
+  "verify": "fil: /home/user/sunnyv2youtube/videos2026/mrbeast_sunnyv2_v1_2026-09-21.mp4 | duration: 94.3s\n\n--- MÄTVARDEN ---\nactivity median: 1.280 (krav > 0.25)\nljud-höjdpunkter: 12 (krav >= 3)\naudio RMS median: 0.072\n\n--- RESULTAT ---\nPASS ✅  (alla TVÅNGSKRAV som är mätbara är uppfyllda — gör även manuellt QA-sheet-byte!)",
+  "verify_pass": true,
+  "black_frames": [],
+  "audio": {
+   "silence_sections": [
+    92.0
+   ],
+   "clip_risk": null,
+   "speech_energy": 0.0722,
+   "music_energy": null
+  }
  },
  "critic": []
 }

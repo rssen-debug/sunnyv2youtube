@@ -3,11 +3,23 @@
   "slug": "mrbeast",
   "topic": "MrBeast",
   "date": "2026-09-21",
-  "title": "How MrBeast Took Over the Internet",
-  "video": "videos2026/mrbeast_sunnyv2_v1_2026-09-20.mp4",
+  "title": "The Story of MrBeast",
+  "video": "videos2026/mrbeast_sunnyv2_v1_2026-09-21.mp4",
   "thumbnail": "projects/mrbeast/thumbnail.jpg",
   "duration": 94.324,
   "qc": "True",
-  "risk": "REVIEW"
+  "risk": "REVIEW",
+  "youtube_id": "",
+  "analytics": {
+   "ctr": 7.2,
+   "avd": "3:41",
+   "retention": "3:41",
+   "likes": 12000,
+   "comments": 340,
+   "views": 410000,
+   "sections_lost_viewers": [
+    "2:10-2:40"
+   ]
+  }
  }
 ]

@@ -8,7 +8,7 @@ render → QC → färdig MP4 (+ thumbnail, titel, metadata, risk-rapport).
 # Ett ämne:
 python3 sunny_auto.py --topic "MrBeast"
 
-# Helt autonomt (hittar ämnet själv via trends/news/Youtube):
+# Helt autonomt (ranking med story-potential + full pipeline):
 python3 sunny_auto.py --auto
 
 # Med LLM som hjärna (creative director / researcher / editor-planner):
@@ -17,6 +17,17 @@ python3 sunny_auto.py --topic "MrBeast"
 
 # Utan LLM (deterministiskt manussyntes ur research):
 python3 sunny_auto.py --topic "MrBeast" --no-llm
+
+# Uppladdning till YouTube (kräver OAuth2-uppgifter, PRIVAT som default):
+export YT_CLIENT_SECRETS=/path/client_secrets.json
+python3 sunny_auto.py --topic "MrBeast" --upload            # om QC+risk tillåter
+python3 sunny_auto.py --topic "MrBeast" --upload --auto-publish
+
+# Learning-loop: mata in analytics efter publicering:
+python3 sunny_auto.py --ingest-analytics meta.json
+# meta.json = {"slug":"mrbeast","ctr":7.2,"avd":"3:41","retention":"3:41",
+#              "likes":12000,"comments":340,"views":410000,
+#              "sections_lost_viewers":["2:10-2:40"]}
 ```
 
 ## Flaggor
@@ -34,6 +45,9 @@ python3 sunny_auto.py --topic "MrBeast" --no-llm
 | `--max-clips 6` | max nedladdade klipp | `6` |
 | `--dry-run` | research+manus+voice+grafik men INGEN render | av |
 | `--list` | lista edge-tts-röster | — |
+| `--upload` | ladda upp till YouTube (OAuth2; `YT_CLIENT_SECRETS`; privat) | av |
+| `--auto-publish` | tillsammans med `--upload`: publicera direkt | av |
+| `--ingest-analytics <f>` | mata in CTR/AVD/retention m.m. för slug | — |
 
 **Exempel på full körning:**
 
@@ -45,13 +59,11 @@ python3 sunny_auto.py --topic "MrBeast" --duration 8m --language en --style sunn
 ## Vad som händer (pipelinen)
 
 ```
-TOPIC → RESEARCH → STORY(hooks/vinklar) → LLM SCRIPT+PRODUKTIONSPLAN
-   → FACT-CHECK(re-write vid behov) → VISUALS(bilder/bg) → VOICE(TTS per block)
-   → TIMELINE(runt VERKLIG röst-längd) → CAPTIONS(kinetic v2) → GRAPHICS(gfx_kit)
-   → FOOTAGE(yt-dlp sök→ladda→trimma m ljud) → LICENSLAGER
-   → EPISODES/episode_<slug>.json → make_video.py → cinema/gfx/captions → ffmpeg
-   → QC(verify_build) → (retry-loop) → thumbnail/titel/metadata → risk-scan
-   → videos2026/<slug>_<style>_v1_<datum>.mp4
+TOPIC(discovery+scoring) → RESEARCH(claims+tier+typologi) → STORY/HOOK-MOTOR
+   → LLM MANUS+PLAN → FACT-CHECK(rewrite) → VISUALS → VOICE → TIMELINE(audio-driven)
+   → PACING-GATE(2-6s-rytm, SFX-budget) → CAPTIONS → GRAPHICS(gfx_kit)
+   → FOOTAGE(yt-dlp, med ljud) → LICENS → RENDER(make_video+cinema) → QC
+   → THUMBNAIL → TITEL-MOTOR(verifiering) → RISK → METADATA → (UPLOAD)
 ```
 
 Varje steg loggas `[01]..[20]` i terminalen och avslutas med:
@@ -70,31 +82,41 @@ VIDEO:       videos2026/mrbeast_sunnyv2_v1_2026-09-21.mp4
 ## Arkitektur — LLM bestämmer, Python utför
 
 ```
-sunny_auto.py                      orchestrator (CLI + flöde + retries)
+sunny_auto.py                      orchestrator (CLI + flöde + retries + upload)
 agents/
+  topic_agent.py                   ämnesupptäckt + ranking (story-potential)
   research_agent.py                källor → claims (typ+tier+confidence)
-  story_agent.py                   vinklar/hook (story.json)
+  story_agent.py                   vinklar + driver hook-motorn (story.json)
+  hook_agent.py                    HOOK-MOTORN: hooks/openings/gaps/cold opens
   llm_client.py                    "hjärnan": production_plan (eller offline-syntes)
   script_agent.py                  script.json (block/scener)
   factcheck_agent.py               os­tödda siffror/namn → rewrite/flagga
   visual_agent.py                  porträtt/bg (Wikimedia tier1-2 → synth-fallback)
-  footprint: audio_agent.py        TTS per block (edge-tts; mäter VERKLIG dur)
+  audio_agent.py                   TTS per block (edge-tts; mäter VERKLIG dur)
   footage_agent.py                 sök→ladda→RMS-ögonblick→trimma (MED ljud)
   graphics_agent.py                plan → PNG via gfx_kit + EPISODES-json
-  thumbnail_agent.py               thumbnail + titel + metadata
-  qc_agent.py                      verify_build + grundkontroller + LLM-kritik
-  risk_agent.py                    copyright/defamation → GO|REVIEW|HOLD
+  edit_agent.py                    production_plan.json (hela planen i en fil)
+  title_agent.py                   TITEL-MOTORN: typer + verifiering (löfte, inga
+                                   upprepningar, max 100 tecken, ej clickbait)
+  thumbnail_agent.py               thumbnail-paket + titel + metadata
+  qc_agent.py                      verify_build + svart/frys/tystnad + LLM-kritik
+  risk_agent.py                    copyright/fair-use/reused-content/defamation
+                                   → GO|REVIEW|HOLD
+  upload_agent.py                  YouTube Data API v3 (resumable, OAuth2 device)
   licensing.py                     asset → tier/status (allowed|review|reject)
 engine/
   timeline.py                      audio-driven timeline (beat-synk, 90 BPM)
-  media.py                         ffmpeg-inspect/heal, trim, RMS, grids
-  audio.py                         TTS-motorer + musikintensitet + SFX-budget
+  pacing.py                        PACING-MOTORN: 2-6s-rytm, SFX-budget, musik-
+                                   kollision → deterministiska fixar
+  media.py                         ffmpeg-inspect/heal, trim, RMS, frys/svart
+  audio.py                         TTS-motorer + musikintensitet
   captions.py                      tunnt lager över make_captions.py v2
   retry.py                         diagnos → fix → retry (max N)
-  knowledge.py                     channel_knowledge.json (learning-loop)
+  knowledge.py                     channel_knowledge.json + analytics-ingest
+                                   (CTR/AVD/retention → learning-loop)
 research/
   sources.py                       HTTP/Wikipedia/News/Wikimedia/yt-dlp + cache
-  trends.py                        --auto: trends/news/autocomplete + scoring
+  trends.py                        trends/news/autocomplete-kandidater
   claims.py                        claim-typologi + källhierarki + research.json
 ```
 

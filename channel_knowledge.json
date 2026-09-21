@@ -5,7 +5,14 @@
  "weak_topics": [],
  "successful_hooks": [],
  "thumbnail_patterns": [],
- "audience_patterns": [],
+ "audience_patterns": [
+  {
+   "topic": "MrBeast",
+   "lost_sections": [
+    "2:10-2:40"
+   ]
+  }
+ ],
  "retention_patterns": [],
  "formats_used": [
   {
@@ -16,6 +23,11 @@
   {
    "slug": "mrbeast",
    "title": "How MrBeast Took Over the Internet",
+   "date": "2026-09-21"
+  },
+  {
+   "slug": "mrbeast",
+   "title": "The Story of MrBeast",
    "date": "2026-09-21"
   }
  ],

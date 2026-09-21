@@ -35,7 +35,29 @@ def _best_num(facts, allow=("500", "million", "billion", "subscriber", "$")):
     return ""
 
 # ---------------- LLM-PLAN ----------------
-def _llm_plan(topic, research, goal_dur):
+def _memory_prompt(memory):
+    """LLM-minne: do-not-repeat + format-mönster från tidigare körningar."""
+    if not memory:
+        return ""
+    avoid = memory.get("avoid_repeat", []) or []
+    used = [f.get("title", "") for f in (memory.get("formats_used", []) or [])]
+    weak = memory.get("weak_topics", []) or []
+    good = memory.get("successful_topics", []) or []
+    parts = []
+    if avoid:
+        parts.append("UPPREPA INTE dessa ämnen/titlar: " + ", ".join(avoid[:8]))
+    if used:
+        parts.append("Tidigare titlar (välj en ANNAN vinkel): " + ", ".join(used[:8]))
+    if good:
+        parts.append("Historik som funkat (liknande vinklar ok): " + ", ".join(good[:5]))
+    if weak:
+        parts.append("Svagare hittills (undvik): " + ", ".join(weak[:5]))
+    if not parts:
+        return ""
+    return "KANAL-MINNE (följ, men gör INTE varje video till samma mall):\n" + \
+           "\n".join(parts) + "\n\n"
+
+def _llm_plan(topic, research, goal_dur, memory=None):
     facts = research["facts"][:80]
     fact_blob = json.dumps(
         [{"claim": f["claim"], "kind": f["kind"], "tier": f["tier"],
@@ -45,6 +67,7 @@ def _llm_plan(topic, research, goal_dur):
 sunnyv2-stil dokumentärstudio (dark, cinematic, fast-paced internet-dokumentär).
 
 SKRIV INGA DOKUMENTÄRREGLER OM — jag ger dig dem redan. Följ dem.
+{_memory_prompt(memory)}
 Ämne: {topic}. Mål: ~{goal_dur}s, {blocks_n} voiceover-block (A1..A{blocks_n-2}, B1, A{blocks_n-1}),
 varje block 25-45 ord (350-560 tecken), storytelling-struktur:
 hook(curiosity gap) -> vem -> uppgång -> vändpunkt -> eskalering -> konsekvens -> payoff+CTA.
@@ -208,9 +231,9 @@ def _offline_plan(topic, research, goal_dur):
         "_offline": True,
     }
 
-def plan(topic, research, goal_dur, no_llm=False):
+def plan(topic, research, goal_dur, no_llm=False, memory=None):
     if not no_llm and llm.is_available():
-        obj = _llm_plan(topic, research, goal_dur)
+        obj = _llm_plan(topic, research, goal_dur, memory=memory)
         if obj is not None:
             obj["hook"] = obj.get("hook", "") or obj["blocks"][0]["voiceover"]
             obj["title"] = obj.get("title", "") or topic

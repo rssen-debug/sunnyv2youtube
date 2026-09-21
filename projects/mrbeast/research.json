@@ -1,14 +1,14 @@
 {
  "schema": "sunny.research/1",
  "topic": "MrBeast",
- "generated": "2026-09-20",
+ "generated": "2026-09-21",
  "facts": [
   {
-   "id": "c352991306",
+   "id": "c971297445",
    "claim": "James Stephen \"Jimmy\" Donaldson (born May 7, 1998), better known as MrBeast, is an American YouTuber, media personality, businessman, philanthropist, and actor.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "James Stephen \"Jimmy\" Donaldson (born May 7, 1998), better known as MrBeast, is an American YouTuber, media personality, businessman, philanthropist, and actor.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -16,11 +16,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c846989433",
+   "id": "c750747341",
    "claim": "With more than 516 million subscribers, his main channel is the most subscribed on YouTube.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "With more than 516 million subscribers, his main channel is the most subscribed on YouTube.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -28,11 +28,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c932000387",
+   "id": "c364964690",
    "claim": "He began posting videos to YouTube in early 2012 under the username MrBeast6000.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "He began posting videos to YouTube in early 2012 under the username MrBeast6000.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -40,11 +40,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c683868344",
+   "id": "c568822332",
    "claim": "In January 2017, after his video \"I Counted to 100,000!\" drew tens of thousands of views within days, his productions quickly became more extravagant.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "In January 2017, after his video \"I Counted to 100,000!\" drew tens of thousands of views within days, his productions quickly became more extravagant.",
    "confidence": 0.85,
    "kind": "CLAIM",
@@ -52,11 +52,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c819062740",
+   "id": "c470314311",
    "claim": "As the audience expanded, Donaldson brought longtime friends into the brand and launched companion channels including Beast Reacts (inactive as of 2026, formerly BeastHacks), MrBeast Gaming, MrBeast 2 (formerly MrBeast Shorts), and Beast Philanthropy.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "As the audience expanded, Donaldson brought longtime friends into the brand and launched companion channels including Beast Reacts (inactive as of 2026, formerly BeastHacks), MrBeast Gaming, MrBeast 2 (formerly MrBeast Shorts), and Beast Philanthropy.",
    "confidence": 0.85,
    "kind": "CLAIM",
@@ -64,11 +64,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c677021842",
+   "id": "c458665893",
    "claim": "He co-founded Team Trees—a fundraiser for the Arbor Day Foundation that has raised more than $24 million—and launched Lunchly, a food and snack brand meant to compete with Lunchables.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "He co-founded Team Trees—a fundraiser for the Arbor Day Foundation that has raised more than $24 million—and launched Lunchly, a food and snack brand meant to compete with Lunchables.",
    "confidence": 0.85,
    "kind": "CLAIM",
@@ -76,11 +76,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c972707107",
+   "id": "c408590436",
    "claim": "He also co-founded Team Seas, a fundraiser for Ocean Conservancy and The Ocean Cleanup that has raised over $30 million, and created the reality competition series Beast Games.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "He also co-founded Team Seas, a fundraiser for Ocean Conservancy and The Ocean Cleanup that has raised over $30 million, and created the reality competition series Beast Games.",
    "confidence": 0.85,
    "kind": "CLAIM",
@@ -88,11 +88,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c619404649",
+   "id": "c299127591",
    "claim": "In 2025, he co-founded Team Water, another fundraiser that raised over $40 million for WaterAid.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "In 2025, he co-founded Team Water, another fundraiser that raised over $40 million for WaterAid.",
    "confidence": 0.85,
    "kind": "CLAIM",
@@ -100,11 +100,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c79517337",
+   "id": "c399297456",
    "claim": "Donaldson won the Creator of the Year award at the Streamy Awards in 2020, 2021, 2022, and 2023.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "Donaldson won the Creator of the Year award at the Streamy Awards in 2020, 2021, 2022, and 2023.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -112,11 +112,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c976713082",
+   "id": "c895745691",
    "claim": "He also won Favorite Male Creator at the 2022, 2023, 2024, and 2025 Nickelodeon Kids' Choice Awards.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "He also won Favorite Male Creator at the 2022, 2023, 2024, and 2025 Nickelodeon Kids' Choice Awards.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -124,11 +124,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c908760550",
+   "id": "c428318724",
    "claim": "In 2023, Time named him one of the world's 100 most influential people, and the magazine included him in its 2025 Time 100 Creators list.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "In 2023, Time named him one of the world's 100 most influential people, and the magazine included him in its 2025 Time 100 Creators list.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -136,11 +136,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c745239142",
+   "id": "c949121414",
    "claim": "Forbes ranked him first among the highest-paid YouTube creators in 2024.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "Forbes ranked him first among the highest-paid YouTube creators in 2024.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -148,11 +148,11 @@
    "query": "MrBeast"
   },
   {
-   "id": "c950943195",
+   "id": "c564953324",
    "claim": "Fortune estimated his net worth at approximately $2.6 billion in 2026.",
    "source": "wikipedia",
    "url": "https://en.wikipedia.org/wiki/MrBeast",
-   "date": "2026-09-20",
+   "date": "2026-09-21",
    "evidence": "Fortune estimated his net worth at approximately $2.6 billion in 2026.",
    "confidence": 0.85,
    "kind": "FACT",
@@ -160,7 +160,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c133254069",
+   "id": "c588358633",
    "claim": "How an American YouTuber rebuilt a rundown village in Ghana with just $10 million",
    "source": "GhanaWeb",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGVZY3pmdGN3ajRTX21GdlVaMm85U1BHTFlfSG9mRzM3d0RrTnZfVWl6U190ZnRLMy1TOWZjdGg1ZlBBb25CUUFmUUFnQkpULWY3V3dNMFAzSU1ub3ZqWlJNcTE0VENpN05sV1BoR0tTZnhxVE5xTWNKbzB6WTh6dWwyaDNNZXBJblpxdUl0bGYxVXlhTk9jQmVDSTd2YzlNNGFIQ2lxSGdPUzVmZEhwWlU4dmhUQlNnaFNPTS1MeXJZa3dpcHlJY2tEcHRiUjBDZmF6Z0JB?oc=5",
@@ -172,7 +172,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c429961313",
+   "id": "c227070847",
    "claim": "MrBeast's pitch decks reveal how the creator's business ambitions have changed over time",
    "source": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1JRYTdwdWNwM01ER25BcnlIUFJQdzlILXhNdXVERHM2MjBlUTBXY0hYM0tLVmRnbFM0cmZ3M2Q1WEs4dm1NVW00NXpISWpDd19haEpwT3VNOU5WekhBdGxIZlZUd2QyR3laSzMxZFBscHdmOVphZUpHS3RyOUdZUGNTTXRKUmhrUndKdzRsMExHZjQ0WUI2Q3IwRGxXZkRicXJuakFQMUdwcnl0Y21JQkY2aw?oc=5",
@@ -184,7 +184,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c80674794",
+   "id": "c845008698",
    "claim": "Can MrBeast Get Gen Z to Read James Patterson?",
    "source": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWJkcUdqMS11X1JNM09Za3UzMm9vZF9VWUMtMVZKNUJoaXZsR2FDMEpZMFcxYzhMb2xJczE2ci1NLWtrRGJVNlJkaW5TOVFhZlotTzVzaWhTdnc0dTdlMnZLdzYwLXJTTm0tMEhldDNYVHRDX0FIOTcxTGtQeWFfd1ZSM0txdW40ZmwtTlJmLUM0RlAtbWFxemZuY3o?oc=5",
@@ -196,7 +196,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c527340613",
+   "id": "c512156204",
    "claim": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
    "source": "Marketing Dive",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzUzZVNaYkxLaF9MX011R3BWdFIwODB4TG04UGkzNFdyUmpjVExmODF3aTR0UWtfUTkxaDd4cEVsdFJGZlp2djJxdGM5Z2ZONDVxeTQ2OGJrblczdl9GQmRIeGwxeHo1VjNCVWxFQnhVWW8zZUVBMjBXLXVCRFE0aG9mRUNObVpmSWxEV0VDUFBSUU5fejVWMTQxNTM0N3pSeXdaYzdnYm9wRF9CMkd0VA?oc=5",
@@ -208,7 +208,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c220342837",
+   "id": "c446356799",
    "claim": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
    "source": "blog.google",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXB5Sms5NzNXdVdEM0FBcGU1WmJxNkUwVlBZNFUyd3lmdVNaTWRLWVA3b1FQX1NaNHFVR3g1aDZvQkZnd1g0N1ExRnZRVFhPYVBHdENSWWhkWjRSVWNQTHVZYndJMm5tSjZJc3o0R2FWRnItd1YwajlBUkFYNU5td01lYjdiYndtSHh2aU1adjlkXzBwYWJBT0hoUjRPOG8?oc=5",
@@ -220,7 +220,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c242743270",
+   "id": "c806171264",
    "claim": "Despite his $2.6 billion net worth, MrBeast said he’s had to borrow cash",
    "source": "Fortune",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNV9HcDh2blYycXlsZXpfZDRCQTc3SUNPODJUUTlWTlh2Tmlsa2hmV2ZTREgyUnJseDc4LUR3WVFQRjZqNkFCRmV6UFBwYTZ1LXBXMnMxcHB4TXVhYTZIYXQ2eXg3UlVpd19oWHpDcWJWaGhtZXlTSENLcWstZjFXQURKdlRvZnJibVQxRldEUTczMWNjczQ3M3R2VEl5OG5GcERpLW44aTRiM1JiRVNYLWJmTmt6WFpW?oc=5",
@@ -232,7 +232,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c60452746",
+   "id": "c432653571",
    "claim": "Is MrBeast and James Patterson’s Novel Collaboration Headed for a Disastrous Debut?",
    "source": "The Hollywood Reporter",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSU1qeUIxLTVRNmtXTnBsNmR3TXJaOWxTU1pkQWlSTEhqdHRDRXNHOEljUHNnRlBnSkF4VF94M3EzZ3JtLWkwYTV0RXF3ZGw2bV8xN01lbWlMem0teW5tWFhHdkEzQ1pMWGxNNmFLckxBNmd0VVVnZ1FEZVAwMXdxbFlyT1J6TEd0cXFpd21DTnJld3VHVnF1aUl2cHRTTDdvZ251SFpqb0RSaW81S2xfNnlLazlpMHhIVUw4eQ?oc=5",
@@ -244,7 +244,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c599468136",
+   "id": "c910256940",
    "claim": "New court docs show how MrBeast woos brands like Slack and Walmart",
    "source": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0Z1enhHVUFxazNEdkhzdnktRTI2LW4zOGJ5elFYN0oxXzlIZktGYUdkb2RvNnNIN1dCd3JwemNMRlZnTmlJS2FYWjlVZW4wcWNVeWhTSEhnWkdsRXk3Y3BzamNXOHZlRlF5S3Q0WnFTZ0pxQmxwaTVMMUV1TjEwcjFjZGdDcGpndWJBUHpCaVEwWjFiVUNlRjB0UzlsWGs?oc=5",
@@ -256,7 +256,7 @@
    "query": "MrBeast"
   },
   {
-   "id": "c390076646",
+   "id": "c157527624",
    "claim": "Disney strikes development pact with Russian-American YouTuber Like Nastya",
    "source": "C21media",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzNxVFpNWi1oNTQyUlhqdXlnN1NsaU1KTWhCOHJjUWIyRTZJa3EzeGpJb09IeEJJSGRwSF9XR3FMZG40M0VZMWowNXBEV0x1VTlUQ2NSWkVwdUdENkhUaUNyV0FzZXVfRlUxcjNsTUZhZ3NLbVJmTWFST2xCUW1wUTBJd1oxSUpTVVBoMk83YTB2UlVpblR2MDNFRlR2MzhFN2E1SmhhdDk?oc=5",
@@ -268,7 +268,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c512324621",
+   "id": "c270371642",
    "claim": "Provo charges dismissed against ‘Reckless Ben’ in dispute over LEGO collection; American Fork case remains ongoing",
    "source": "ABC4 Utah",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWJOZFgtbnAya1o1dG0wekVDcEVwamcwdVdJZUpwQ2dRYXhhMVJaT1l5djRqZDNfWFN3RDFVbnhibVRZeVc3VjVwekhOWXVaWjFKeFVpLXJvQWEwWFAwcDhaUXlWcEtIOVZoRzRITzRGVEJsV1UtcnZjdTdoWm94Sm5iTdIBiAFBVV95cUxORDUwSnFpUGFVNFJRa2ZSVFdwaFE0eUpDNkxXMzdXRFg1VGN5OUIzU1JJNnk5XzFlRjBheTFDQWtadjZBd0ZHOEM0NmctRzkxZEhiSVhTNC1MWDRfd0l5U2JIVVRYNl90RmNKTm1WeFZzT0tYc2pVV1pPWHlCZkNWUU5pa0dFamZO?oc=5",
@@ -280,9 +280,9 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c238639789",
+   "id": "c668838225",
    "claim": "MrBeast's 'God King' problem",
-   "source": "businessinsider.com",
+   "source": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmNuaGgtZDg0ME5zOWYxWnJ6ZUlJSmRPNXZ5dFJYaFZqRHJWZUVvUC10YUF0Sk51Q2Nra2xZenM0QTdQODVTQTRyVGI2QmxFOEdnS0wxQldSZ1loTEdueXZJOXNnMWhfdkl2QnlJVUtWenJMQW9UVk5iMmtMOUhrN2JOSmpwQkJzSzFsWmRUSTZBdnBXWWJuUHhIX2hWaWw1?oc=5",
    "date": "Wed, 02 Sep 2026 07:00:00 GMT",
    "evidence": "MrBeast's 'God King' problem",
@@ -292,7 +292,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c273905316",
+   "id": "c409038184",
    "claim": "MrBeast",
    "source": "Britannica",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WMVZIQlFoNjFFZkx6T09vYkVwVXJ6TFEzcjNwdE5hUEdLMUlTZXVtRnIybW1OX2tMbW42WEVXelZBaUlUdFFFbnRyNnFnWFd6LWtPVmc3WQ?oc=5",
@@ -304,7 +304,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c607518080",
+   "id": "c389232007",
    "claim": "The Turkish YouTuber inside Hasidic Brooklyn who reopened America's welfare fight",
    "source": "Türkiye Today",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjJ4SW1XdW1tYW8tbS1kSUh3YkhyX3NSUkxGc1hBZ3RaYjR0b1hRWmhqV0t1cF9rUHJiM1p3RzViTW5lMjFKMHhwNTBDOXFwbGhReUJ0TjJYcmI1Si1KYUxvTVZydGhtQVA5MFF0TnoxOTFjb2ZjUUxZSU9ka2VBZ2dqanJJVUg4aGxPRzZRUEdiWVJWNXYxODROdXhvdnZVblRkZmtRU3FGU2ZwZkxYV2dkZE1XdGFaSWR0NTNQWVY?oc=5",
@@ -316,7 +316,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c437560314",
+   "id": "c565235580",
    "claim": "YouTuber Hafu, with Over 19 Million Followers, Explores Immersive Communication with HTC and NCCU GCIT",
    "source": "NCCU MAIL",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1anVzOFFlc3RZSUx2UWUwOGlGZnVtbF9rM1J3ZDQ2emRMZ0lfUjNpa1hPNThUdndHclFzTUZxc1Z3WDY0d0kyLTRzdVdVNTFzVTdwOUZUb1hmSHpDXzUteDFua0ZGc00?oc=5",
@@ -328,7 +328,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c789079726",
+   "id": "c446680345",
    "claim": "American YouTuber is jailed for 6 months in South Korea on public nuisance charge",
    "source": "NBC News",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0RIZVA1ZVRfeU1IOXFVWUdjRlk4SWZqNUR4UjlLaDB3WlRhdzFfdmNHdVFVUVM2LTZZYTI3anlKTlRyT0tWNm9GOVpubXdyeDdJQUhIQzhEbG1vM2l2ek8ycHJyNWR6WkpqVXdWaWdtNmFTU1BFSUVqMllLQnE0ZDRTVXNBUDhHM1REUnpLeXcyelNrTHRJbjFKM3J3UzJmd2cydWc5N21mQ0Z6SkxtVVdESDU?oc=5",
@@ -340,7 +340,7 @@
    "query": "American YouTuber"
   },
   {
-   "id": "c10213577",
+   "id": "c919633886",
    "claim": "American YouTuber guides foreigners around Chinese cars US buyers can't get",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUko4UUVHOERRbUxRcmpPWjVIWTlVMXZxVmliOURCcGtYSDRtcU9OVzczeTdNaWhUVFpYY0tJeENLaFZJTlFhS2E4NEJKdUlkRFF6cWJVX1RKMFBOaFVxMDV4TG1vSnRFYnBpY2dnR25iS29WZlJLTGhFOWZ1a1pBM3RFakZqajU5LXRJVzVrc09PQjdBRmQ5NDhEN0hicUVTZHhIdFVWU1ctTWtkSnU5ajRBTjlYR3FwakdEd25XRWJwTGtvTmJDNg?oc=5",

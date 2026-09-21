@@ -1,0 +1,55 @@
+{
+ "total": 94.324,
+ "nb_visuals": 32,
+ "graphics": 29,
+ "clips": 3,
+ "issues": [
+  {
+   "block": "A1",
+   "type": "long_interval",
+   "detail": "6.5s utan visuellt skifte",
+   "at": 4.7,
+   "dur": 6.53
+  },
+  {
+   "block": "A3",
+   "type": "long_interval",
+   "detail": "30.4s utan visuellt skifte",
+   "at": 28.01,
+   "dur": 30.44
+  },
+  {
+   "block": "A6",
+   "type": "long_interval",
+   "detail": "6.6s utan visuellt skifte",
+   "at": 85.27,
+   "dur": 6.56
+  },
+  {
+   "type": "sfx_overload",
+   "detail": "6.7 SFX/30s (> 6)"
+  },
+  {
+   "type": "music_collision",
+   "block": "A2",
+   "detail": "impact/reveal med LOW-musik — dämpa"
+  },
+  {
+   "type": "music_collision",
+   "block": "A2",
+   "detail": "impact/reveal med LOW-musik — dämpa"
+  },
+  {
+   "type": "music_collision",
+   "block": "B1",
+   "detail": "impact/reveal med LOW-musik — dämpa"
+  },
+  {
+   "type": "music_collision",
+   "block": "B1",
+   "detail": "impact/reveal med LOW-musik — dämpa"
+  }
+ ],
+ "words": 188,
+ "wpm": 119.6
+}

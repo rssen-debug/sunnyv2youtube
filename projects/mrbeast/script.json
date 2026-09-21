@@ -1,0 +1,90 @@
+{
+ "topic": "How MrBeast Took Over the Internet",
+ "hook": "Everyone knows MrBeast. Or thinks they do. But the real story? It's stranger than anything you've seen on your feed. Stick with me.",
+ "blocks": [
+  {
+   "id": "A1",
+   "voiceover": "Everyone knows MrBeast. Or thinks they do. But the real story? It's stranger than anything you've seen on your feed. Stick with me.",
+   "duration_est": 8.7,
+   "music": "HIGH",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "MrBeast"
+    }
+   ]
+  },
+  {
+   "id": "A2",
+   "voiceover": "This is MrBeast — James Stephen. To understand what happened, you have to rewind. Most people never saw what was building behind the scenes.",
+   "duration_est": 9.3,
+   "music": "LOW",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "THE RISE"
+    }
+   ]
+  },
+  {
+   "id": "A3",
+   "voiceover": "James Stephen \"Jimmy\" Donaldson (born May 7, 1998), better known as MrBeast, is an American YouTuber, media personality, businessman, philanthropist, and actor. With more than 516 million subscribers, his main channel is the most subscribed on YouTube. He began posting videos to YouTube in early 2012 under the username MrBeast6000. In January 2017, after his video \"I Counted to 100,000!\" drew tens of thousands of views within days, his productions quickly became more extravagant.",
+   "duration_est": 32.3,
+   "music": "MEDIUM",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "THE NUMBERS"
+    }
+   ]
+  },
+  {
+   "id": "A4",
+   "voiceover": "And then it cracked. The headlines turned. Everything everyone thought they knew ... changed overnight. Look at this.",
+   "duration_est": 7.8,
+   "music": "MEDIUM",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "THE TURN"
+    }
+   ]
+  },
+  {
+   "id": "A5",
+   "voiceover": "What happened next set the internet on fire. And it just kept coming.",
+   "duration_est": 4.6,
+   "music": "HIGH",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "ESCALATION"
+    }
+   ]
+  },
+  {
+   "id": "B1",
+   "voiceover": "If the allegations are true, this is far bigger than one creator.",
+   "duration_est": 4.3,
+   "music": "LOW",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "CONSEQUENCES"
+    }
+   ]
+  },
+  {
+   "id": "A6",
+   "voiceover": "So where does MrBeast go from here? Nobody knows. And that is exactly why the internet can't look away. Subscribe for what comes next.",
+   "duration_est": 8.9,
+   "music": "IMPACT",
+   "visuals": [
+    {
+     "type": "graphic",
+     "text": "SUBSCRIBE"
+    }
+   ]
+  }
+ ]
+}

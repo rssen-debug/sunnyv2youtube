@@ -1,0 +1,326 @@
+[
+ {
+  "type": "bg",
+  "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_bg.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "photo",
+  "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_portrait.vnd.djvu",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "tier": 1,
+  "status": "allowed",
+  "label": "public domain"
+ },
+ {
+  "type": "photo",
+  "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_in_january.jpeg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "tier": 2,
+  "status": "review",
+  "label": "CC BY-SA"
+ },
+ {
+  "type": "photo",
+  "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_beast_reacts.jpeg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "tier": 2,
+  "status": "review",
+  "label": "cc by 4.0"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v0_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v1_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v2_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v3_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v4_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v5_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v6_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v7_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v8_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v9_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v10_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v11_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v12_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v13_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v14_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v15_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v16_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v17_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v18_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v19_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v20_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v21_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v22_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v23_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v24_glow.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v25_lower_third.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v26_card.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v27_stat.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "graphic",
+  "file": "/home/user/sunnyv2youtube/assets/gfx/mrbeast_v28_tweet.png",
+  "source": "synthetic",
+  "license": "ai-generated",
+  "tier": 1,
+  "status": "allowed",
+  "label": "AI-genererad (egen)"
+ },
+ {
+  "type": "clip",
+  "file": "assets/clips/mrbeast_clip1.mp4",
+  "source": "youtube",
+  "license": "youtube",
+  "tier": 4,
+  "status": "review",
+  "label": "YouTube — fair use-beslut krävs, demo/utbildning"
+ },
+ {
+  "type": "clip",
+  "file": "assets/clips/mrbeast_clip1.mp4",
+  "source": "youtube",
+  "license": "youtube",
+  "tier": 4,
+  "status": "review",
+  "label": "YouTube — fair use-beslut krävs, demo/utbildning"
+ },
+ {
+  "type": "clip",
+  "file": "assets/clips/mrbeast_clip3.mp4",
+  "source": "youtube",
+  "license": "youtube",
+  "tier": 4,
+  "status": "review",
+  "label": "YouTube — fair use-beslut krävs, demo/utbildning"
+ }
+]

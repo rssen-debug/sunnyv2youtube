@@ -1,0 +1,7 @@
+# sunny_auto.py — automatisk dokumentärstudio
+requests>=2.28
+pillow>=9.0
+numpy>=1.22
+imageio-ffmpeg>=0.4   # statisk ffmpeg-binär om systemet saknar ffmpeg
+edge-tts>=6.1         # TTS-röster (voiceover)
+yt-dlp>=2024.0        # footage-sök/nedladdning (YouTube m.fl.)

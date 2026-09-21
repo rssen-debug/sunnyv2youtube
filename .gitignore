@@ -1,10 +1,17 @@
 __pycache__/
 *.pyc
+.pytest_cache/
 preview/f*.jpg
 preview/v3_*.jpg
 
 # Generated render cache / never commit secrets
 .cache/
+seg/
 .env
 .env.*
 *.token
+
+# sunny_auto runtime-artefakter (återskapas vid varje körning)
+audio/.A*.tag
+audio/.B*.tag
+assets/gfx/cfg_*.png

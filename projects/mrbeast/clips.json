@@ -1,0 +1,36 @@
+{
+ "clips": [
+  {
+   "number": "1",
+   "query": "MrBeast moment",
+   "file": "mrbeast_clip1.mp4",
+   "cut": 24.09,
+   "status": "ok",
+   "license": "youtube",
+   "source": "Blue Watermelon"
+  },
+  {
+   "number": "2",
+   "query": "MrBeast interview",
+   "file": "mrbeast_clip1.mp4",
+   "cut": 0.0,
+   "status": "ok",
+   "license": "demo",
+   "source": "repo"
+  },
+  {
+   "number": "3",
+   "query": "MrBeast news",
+   "file": "mrbeast_clip3.mp4",
+   "cut": 53.0,
+   "status": "ok",
+   "license": "youtube",
+   "source": "ABC News"
+  }
+ ],
+ "files": {
+  "1": "mrbeast_clip1.mp4",
+  "2": "mrbeast_clip1.mp4",
+  "3": "mrbeast_clip3.mp4"
+ }
+}

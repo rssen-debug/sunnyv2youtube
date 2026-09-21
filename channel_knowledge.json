@@ -1,0 +1,24 @@
+{
+ "successful_topics": [
+  "MrBeast"
+ ],
+ "weak_topics": [],
+ "successful_hooks": [],
+ "thumbnail_patterns": [],
+ "audience_patterns": [],
+ "retention_patterns": [],
+ "formats_used": [
+  {
+   "slug": "mrbeast",
+   "title": "How MrBeast Took Over the Internet",
+   "date": "2026-09-20"
+  },
+  {
+   "slug": "mrbeast",
+   "title": "How MrBeast Took Over the Internet",
+   "date": "2026-09-21"
+  }
+ ],
+ "avoid_repeat": [],
+ "_note": "Retention/CTR-matning sker manuellt efter publicering: fyll i valfria success/retention-fält per projekt i projects/index.json, så väger systemet in det framöver."
+}

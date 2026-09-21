@@ -1,0 +1,11 @@
+{
+ "status": "REVIEW",
+ "severity": "medium",
+ "risks": [
+  {
+   "severity": "medium",
+   "type": "copyright_review",
+   "detail": "5 assets kräver licensbeslut (fair use)"
+  }
+ ]
+}

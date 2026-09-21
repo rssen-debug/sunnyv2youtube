@@ -1,0 +1,68 @@
+{
+ "people": [
+  {
+   "key": "main",
+   "img": "assets/src/mrbeast_portrait.vnd.djvu",
+   "name": "MRBEAST",
+   "sub": "THE STORY",
+   "accent": [
+    232,
+    34,
+    46,
+    255
+   ]
+  },
+  {
+   "key": "in_january",
+   "img": "assets/src/mrbeast_in_january.jpeg",
+   "name": "IN JANUARY",
+   "sub": "MENTIONED IN THE STORY",
+   "accent": [
+    200,
+    60,
+    220,
+    255
+   ]
+  },
+  {
+   "key": "beast_reacts",
+   "img": "assets/src/mrbeast_beast_reacts.jpeg",
+   "name": "BEAST REACTS",
+   "sub": "MENTIONED IN THE STORY",
+   "accent": [
+    200,
+    60,
+    220,
+    255
+   ]
+  }
+ ],
+ "bg": "assets/src/mrbeast_bg.png",
+ "assets": [
+  {
+   "type": "bg",
+   "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_bg.png",
+   "source": "synthetic",
+   "license": "ai-generated",
+   "kind": "synthetic"
+  },
+  {
+   "type": "photo",
+   "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_portrait.vnd.djvu",
+   "source": "wikimedia",
+   "license": "Public domain"
+  },
+  {
+   "type": "photo",
+   "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_in_january.jpeg",
+   "source": "wikimedia",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "type": "photo",
+   "file": "/home/user/sunnyv2youtube/assets/src/mrbeast_beast_reacts.jpeg",
+   "source": "wikimedia",
+   "license": "CC BY 4.0"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "engine": "edge-tts",
+ "voice": "en-GB-RyanNeural",
+ "blocks": {
+  "A1": {
+   "path": "audio/A1.wav",
+   "duration": 11.232
+  },
+  "A2": {
+   "path": "audio/A2.wav",
+   "duration": 10.68
+  },
+  "A3": {
+   "path": "audio/A3.wav",
+   "duration": 35.136
+  },
+  "A4": {
+   "path": "audio/A4.wav",
+   "duration": 9.48
+  },
+  "A5": {
+   "path": "audio/A5.wav",
+   "duration": 5.304
+  },
+  "B1": {
+   "path": "audio/B1.wav",
+   "duration": 4.536
+  },
+  "A6": {
+   "path": "audio/A6.wav",
+   "duration": 11.256
+  }
+ },
+ "note": "Röst sparas per block. kör med --voice <voice> för annan röst; --no-llm påverkar inte TTS."
+}
